@@ -29,9 +29,67 @@ Giving it to someone else is like giving that person a
 small piece of yourself. Such things are often
 the most cherished items we possess.
 
+LEARN
+You must learn to make. You must always seek to learn
+more about your making. You may become a journeyman
+or master artisan, but you will still learn, want to learn, 
+and push yourself to learn new techniques, materials,
+and processes. Building a lifelong learning path
+ensures a rich and rewarding making life and,
+importantly, enables one to share.
+
+TOOL UP
+You must have access to the right tools for the project at
+hand. Invest in and develop local access to the tools you
+need to do the making you want to do. The tools of making
+have never been cheaper, easier to use, or more powerful.
+
+PLAY
+Be playful with what you are making, and you will be
+surprised, excited, and proud of what you discover.
+
+PARTICIPATE
+Join the Maker Movement and reach out to those around
+you who are discovering the joy of making. Hold seminars,
+parties, events, maker days, fairs, expos, classes, or dinners
+with and for the other makers in your community.
+
+SUPPORT
+This is a movement, and it requires support. Emotional,
+intellectual, financial, political, and institutional support
+are needed. The best hope for improving the world is us,
+and we are responsible for making a better future
+
+CHANGE
+Embrace the change that will naturally occur as you go
+through your maker journey. Since making is fundamental
+to what it means to be human, you will become a more
+complete version of you as you make.
+
+## ¿Qué es la educación STEAM?
+STEAM, que en ingles es Science, Tecnology, Engineering,  Art, Math. 
+Es un sistema de aprendizaje que integra diferentes áreas de estudio en un mismo concepto. 
+
+## ¿Qué es MakerCademy?
+Es un sistema educativo que mpulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
+jóvenes, para aprender diferentes habilidades y conocimientos para
+desarrollar proyectos mediante la tecnología.
+MakerCademy sigue las siguientes filosofías:
+
+Aprender fabricando 
+Aprender fallando 
+Aprender descubriendo 
+Aprender deconstruyendo 
+Aprender resolviendo problemas reales
+Aprender juntos 
+
+Lo que tratamos es que los alumnos aprendan de una manera diferente a la tradicional
+para acercar distintos conocimientos y adquieran habilidades diferentes.
+
+
+
 - [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
 
-## Educación STEAM
 
 ## Advanced
 
