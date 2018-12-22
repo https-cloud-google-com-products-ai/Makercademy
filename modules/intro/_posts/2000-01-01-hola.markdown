@@ -85,4 +85,4 @@ Acepta el cambio. Es inevitable.
 Te convertirás en una versión más completa de ti mientras lo haces.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=I_WQOqKldm4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=I_WQOqKldm4" frameborder="0" allowfullscreen></iframe>
