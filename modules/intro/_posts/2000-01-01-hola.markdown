@@ -11,8 +11,8 @@ title: ¿Qué es el movimiento Maker?
 *H A C E R*
 
 Hacer es fundamental para lo que significa ser humano.
-Debemos hacer, crear y expresarnos para sentirnos completos. 
-Hay algo único en hacer cosas físicas. Las cosas que hacemos 
+Debemos hacer, crear y expresarnos para sentirnos completos.
+Hay algo único en hacer cosas físicas. Las cosas que hacemos
 son como pequeñas piezas de nosotros y parecen encarnar
 partes de nuestra alma.
 
@@ -20,37 +20,37 @@ partes de nuestra alma.
 
 *C O M P A R T I R*
 
-Hay que compartir lo que se ha hecho y cómose ha hecho. 
-Compartir con otros es el método mediante el cual se logra 
-la sensación de plenitud de un fabricante. 
+Hay que compartir lo que se ha hecho y cómose ha hecho.
+Compartir con otros es el método mediante el cual se logra
+la sensación de plenitud de un fabricante.
 No puedes hacer y no compartir.
 
 
 
 *D A R*
 
-Hay pocas cosas más desinteresadas y satisfactorias 
+Hay pocas cosas más desinteresadas y satisfactorias
 que regalar algo que haz hecho.
 El acto de hacer pone una pequeña parte de ti en ello.
-Dárselo a alguien más es como darle a esa persona un pequeño 
-pedazo de ti mismo. Tales cosas son a menudo los artículos 
+Dárselo a alguien más es como darle a esa persona un pequeño
+pedazo de ti mismo. Tales cosas son a menudo los artículos
 más preciados que poseemos.
 
 
 
 *A P R E N D E R*
 
-Debes aprender a hacer. Siempre debes buscar aprender más sobre lo que hiciste. 
+Debes aprender a hacer. Siempre debes buscar aprender más sobre lo que hiciste.
 Siempre hay que buscar aprender, y querer seguir aprendiendo. Ya sean
 nuevas técnicas, materiales o procesos.
-Construir un camino de aprendizaje permanente garantiza una 
+Construir un camino de aprendizaje permanente garantiza una
 vida rica y gratificante y, lo que es más importante, te permite compartir.
 
 
 
 *E Q U Í P A T E*
 
-DebeS tener acceso a las herramientas adecuadas 
+DebeS tener acceso a las herramientas adecuadas
 para el proyecto en el que trabajas. Invierte y desarrolla
 en ellas para hacer lo que quieres hacer.
 
@@ -58,7 +58,7 @@ en ellas para hacer lo que quieres hacer.
 
 *J U E G A*
 
-Sé juguetón con lo que estás haciendo, y te sorprenderás, 
+Sé juguetón con lo que estás haciendo, y te sorprenderás,
 te emocionarás y te sentirás orgulloso de lo que descubras.
 
 
@@ -72,18 +72,20 @@ para que juntos descubran la alegría de hacer.
 
 *A P O Y A*
 
-Este es un movimiento y requiere apoyo. 
-Se necesita apoyo emocional, intelectual, financiero, 
-político e institucional. 
-Somos la mejor esperanza para mejorar el mundo y somos 
+Este es un movimiento y requiere apoyo.
+Se necesita apoyo emocional, intelectual, financiero,
+político e institucional.
+Somos la mejor esperanza para mejorar el mundo y somos
 responsables de hacer un mejor futuro
 
 
 
-*C A M B I A* 
+*C A M B I A*
 
-Acepta el cambio. Es inevitable. 
+Acepta el cambio. Es inevitable.
 Te convertirás en una versión más completa de ti mientras lo haces.
 
 
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=I_WQOqKldm4" frameborder="0" allowfullscreen></iframe>
+
+## Código y diseño abierto (Open Source)
