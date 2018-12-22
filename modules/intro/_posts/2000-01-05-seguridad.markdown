@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Seguridad en el taller
 ---
 
 ## Basics

@@ -6,10 +6,8 @@ title: Diseño e impresión 3D
 
 These are some links that will help you with setting up a course using the template:
 
-- [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
-
 ## MakerSCAD diseño parametrico
-
+![Image of community](http://galeria.makermex.com/fotos/_data/i/upload/2017/05/19/20170519144456-2fae28c8-me.jpg)
 ## De bits a atomos
 
 ## Uso de la impresora 3D MM1
