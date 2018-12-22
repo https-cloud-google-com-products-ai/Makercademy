@@ -3,26 +3,44 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
+## Educación a prueba del futuro
 
-Course in a Box is simple, open source tool to help you create your very own online course. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
+Impulsa la enseñanza a niños, adolescentes y jóvenes, para aprender diferentes disciplinas solucionar problemas reales de nuestro entorno utilizando tecnología y creatividad.
 
-By default, your course will be hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course. Best of all, hosting a course on Github is **free**!
+Qué es MakerCademy?
+Es un sistema educativo STEAM, que promueve el aprendizaje mediante el desarrollo y fabricación de prototipos bajo una metodología abierta que permite la experimentación y formación creativa del estudiante. Se busca que cada estudiante logre resultados diferentes en sus proyectos según su exploración y experimentación iterativa.  
 
-So what does it look like? Recently, Creative Commons and the Open University used in Course in a Box to create [a course about Open Educational Resources](http://www.exploerercourse.org/). The Children’s Museum in Pittsburgh created [a course about designing maker spaces in libraries and museums](http://p2pu.github.io/makingandlearning/).
+-No busca enseñar herramientas, técnicas o teorías sino que busca enseñar a los estudiantes a aprender por sí mismos.
 
-Using Course in a Box is completely free. However, if you’d like to hire us to help you set things up and give feedback along the way, we are available to do that too. Just reach out to us a thepeople[at]p2pu[dot]org.
+-No desarrolla manuales, ni busca que los estudiantes sigan una serie de pasos. En los alumnos al tener una clase STEAM se desarrollará la experimentación y deducción. Nuestras guías se enfocan en desarrollar el conocimiento empírico.
 
-## Not just technology and content
+-No promovemos el uso de productos cerrados. Buscamos que los estudiantes experimenten, hagan, desarrollen, jueguen y solucionen con las herramientas y materiales disponibles en su entorno.
 
-In Deschooling Society (1971), Ivan Illich wrote that “technology is available to develop either independence and learning or bureaucracy and teaching”. So much of education technology that is developed today is geared towards the latter. Think about every learning management system you’ve ever engaged with, or the promises of smart tutors and personalized algorithms that will tell people exactly what to learn. More often than not, these tools reinforce the role of an expert or an administrator more than they empower individual learners to pursue their own interests.
+## Visión
+Ser el sistema educativo que desarrolle los futuros inventores, científicos, ingenieros y diseñadores en México.
 
-At P2PU, we believe that effective learning is not going to come from the top down, regardless of how smart the teacher or refined the algorithm. We also believe that you don’t need to spend $100,000 to create a good online course! Taking time to frame questions in new ways and reaching out to communities who might benefit from your course is way more important that filming lessons in 4K video in a fancy video studio.
+## Misión
+Acercar los conocimientos de ciencía, tecnología, ingeniería y matemáticas a los estudiantes de nivel básico y medio superior, mediante una plataforma tecnológica educativa.
 
-## Reach new audiences
+## Objetivos
+El sistema curricular busca desarrollar en el alumno:
+Pensamiento analítico
+Pensamiento crítico
+Pensamiento deductivo
+Habilididades de autoaprendizaje
+Habilidades para resolver problemas
+Comunicar sus ideas, diseños y proyectos
 
-Online courses take a big step forwards in the sharing of knowledge around the world. However, your course is only ever as good as the people it reaches. To help reach new audiences with online courses, P2PU developed learning circles: face-to-face study groups for people who want to take online courses together, in local libraries or community spaces.
-
-Once you create a course, you can add it to P2PU’s learning circle [course page](http://p2pu.org/en/courses), a growing database of online courses that people are using to facilitate learning circles around the world. You can also check out [https://www.p2pu.org/en/facilitate/](https://www.p2pu.org/en/facilitate/) for information on running your own learning circles.
-
-
+## Filosofía y metódologia
+Aprender fabricando
+Aprender proyectos tangibles para aprender el proceso de fabricación, diseño y herramientas.
+Aprender fallando
+Aprender fallando y reajustar, rediseñar o reinventar los proyectos desarrollados.
+Aprender descubriendo
+Aprender mediante el momento Eureka, a través de emociones y situaciones.
+Aprender deconstruyendo
+Aprender mediante la destrucción de objetos, reciclaje de componentes y aplicaciones.
+Aprender mediante problemas reales
+Aprender mediante situaciones reales en donde la problemática se analiza de forma estratégica para proponer una solución.
+Aprender juntos
+Aprender de hacerlo por ti mismo (DIY) a hacerlo juntos (DIT).
