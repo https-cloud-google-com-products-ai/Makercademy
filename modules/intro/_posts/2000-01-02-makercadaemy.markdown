@@ -1,6 +1,7 @@
 ---
 title: Makercademy
 ---
+## Objetivo
 Impulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
 jóvenes, para aprender diferentes habilidades y conocimientos para
 desarrollar proyectos mediante la tecnología.
@@ -15,10 +16,15 @@ beneficio de la sociedad.
 
 ## Metodología
 · Aprender fabricando
+
 · Aprender fallando
+
 · Aprender descubriendo
+
 · Aprender deconstruyendo
+
 · Aprender resolviendo problemas reales
+
 · Aprender juntos
 
 
