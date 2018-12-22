@@ -1,18 +1,37 @@
 ---
-title: Resources
+title: ¿Qué es el movimiento Maker?
 ---
 
-## Basics
+<video src="https://youtu.be/IsRBgBwLwxw" width="640" height="360" controls></video>
 
-These are some links that will help you with setting up a course using the template:
+## Manifiesto Maker
+
+MAKE
+Making is fundamental to what it means to be human.
+We must make, create, and express ourselves to feel
+whole. There is something unique about making
+physical things. Things we make are like little pieces
+of us and seem to embody portions of our soul.
+
+
+SHARE
+Sharing what you have made and what you know
+about making with others is the method by
+which a maker’s feeling of wholeness
+is achieved. You cannot make and not share.
+
+
+GIVE
+There are few things more selfless and satisfying
+than giving away something you have made. The act
+of making puts a small piece of you into the object.
+Giving it to someone else is like giving that person a
+small piece of yourself. Such things are often
+the most cherished items we possess.
 
 - [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
 
-## Intermediate
+## Educación STEAM
 
 ## Advanced
 
-Here are some links for you if you are planning to customize the provided course template:
-
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
