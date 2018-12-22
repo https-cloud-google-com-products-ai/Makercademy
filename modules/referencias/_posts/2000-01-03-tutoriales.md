@@ -1,25 +1,25 @@
 ---
-title: Modules
+title: Tutoriales
 published: true
 ---
 
 # Modules
 
-Course in Box use a 2 level content structure, at the top are **modules**. The modules for Course in a Box are **tutorial**, **resources** and **references** and can be seen at the very top of this page. 
+Course in Box use a 2 level content structure, at the top are **modules**. The modules for Course in a Box are **tutorial**, **resources** and **references** and can be seen at the very top of this page.
 
 Inside every module, we'll put the actual content inside sections, but more on that later.
 
 ## Let's Make Some Modules!
 
-Now it's time to start building your course! 
+Now it's time to start building your course!
 
-In your GitHub repository, there is a folder called `modules`: [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/modules/](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/modules/). 
+In your GitHub repository, there is a folder called `modules`: [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/modules/](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/modules/).
 
 This folder contains a folder for each of the modules in your course. Since you copied this course, you should see `tutorial`, `resources` and `references` there.
 
 The name of the folder corresponds to the URLs for that module. If you look at the URL for this page, you will notice the first part of the URL is 'modules/tutorial/' and that is also the name of the [folder in the GitHub repository](https://github.com/p2pu/course-in-a-box/tree/gh-pages/modules/tutorial/).
 
-Inside each of these folders, there should be another folder called `_posts`. This is the folder that will hold the actual content for your course. Every module can have multiple sections. Look at the [tutorial folder](https://github.com/p2pu/course-in-a-box/tree/gh-pages/modules/tutorial/) for this course and you'll see `_posts`. 
+Inside each of these folders, there should be another folder called `_posts`. This is the folder that will hold the actual content for your course. Every module can have multiple sections. Look at the [tutorial folder](https://github.com/p2pu/course-in-a-box/tree/gh-pages/modules/tutorial/) for this course and you'll see `_posts`.
 
 Lets create a new module called **introduction**. Go to [https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules](https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules) and click the "Create new file" button. This will take you to a page with a text box asking you to "name your file". Let's create a module called introduction - type `introduction/_posts/2000-01-01-test.md` in the "name your file" text box, scroll down and click on the green "Commit new file" button.
 
@@ -39,7 +39,7 @@ Change the line containing
 modules: [tutorial, resources, references]
 {% endhighlight %}
 
-to 
+to
 
 {% highlight yaml %}
 modules: [introduction, tutorial, resources, reference]
