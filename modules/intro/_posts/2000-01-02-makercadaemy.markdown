@@ -1,15 +1,24 @@
 ---
 title: Makercademy
 ---
+Impulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
+jóvenes, para aprender diferentes habilidades y conocimientos para
+desarrollar proyectos mediante la tecnología.
+
 
 ## Objetivo
+Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemáticas
+(Educación STEAM), así como el uso y aplicación de tecnología de fabricación
+digital a jóvenes de secundaria y preparatoria para potencializar sus proyectos en
+beneficio de la sociedad.
 
 
 ## Metodología
+· Aprender fabricando
+· Aprender fallando
+· Aprender descubriendo
+· Aprender deconstruyendo
+· Aprender resolviendo problemas reales
+· Aprender juntos
 
-## Advanced
 
-Here are some links for you if you are planning to customize the provided course template:
-
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
