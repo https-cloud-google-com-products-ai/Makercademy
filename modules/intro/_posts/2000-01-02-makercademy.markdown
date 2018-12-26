@@ -1,7 +1,7 @@
 ---
 title: Makercademy
 ---
-## ¿Qué es MakerCademy?
+### ¿Qué es MakerCademy?
 MakerCademy es un sistema educativo que impulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
 jóvenes, para aprender diferentes habilidades y conocimientos para
 desarrollar proyectos mediante la tecnología.
@@ -15,16 +15,14 @@ beneficio de la sociedad.
 
 
 ## Metodología
-· Aprender fabricando
+- Aprender fabricando
 
-· Aprender fallando
+- Aprender fallando
 
-· Aprender descubriendo
+- Aprender descubriendo
 
-· Aprender deconstruyendo
+- Aprender deconstruyendo
 
-· Aprender resolviendo problemas reales
+- Aprender resolviendo problemas reales
 
-· Aprender juntos
-
-
+- Aprender juntos
