@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /makercademy
+baseurl: /Makercademy
 markdown: kramdown
 permalink: /:categories/:title/
 
