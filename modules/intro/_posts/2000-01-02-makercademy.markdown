@@ -17,6 +17,7 @@ Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemát
 digital a jóvenes de secundaria y preparatoria para potencializar sus proyectos en
 beneficio de la sociedad.
 
+![MakerCademy](/img/nino.jpg)
 
 ## Metodología
 - Aprender fabricando
