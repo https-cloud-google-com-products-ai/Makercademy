@@ -1,5 +1,5 @@
 ---
-title: Makercademy
+# Makercademy
 ---
 
 ![MakerCademy](/img/nina.jpg)
@@ -10,7 +10,6 @@ MakerCademy es un sistema educativo que impulsa la enseñanza en nuevas tecnolog
 jóvenes, para aprender diferentes habilidades y conocimientos para
 desarrollar proyectos mediante la tecnología.
 
-![MakerCademy](http://galeria.makermex.com/fotos/picture.php?/5566/category/116)
 
 ## Objetivo
 Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemáticas
