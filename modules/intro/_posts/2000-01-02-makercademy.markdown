@@ -5,7 +5,7 @@
 ![MakerCademy](/img/nina.jpg)
 
 
-### ¿Qué es MakerCademy?
+## ¿Qué es MakerCademy?
 MakerCademy es un sistema educativo que impulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
 jóvenes, para aprender diferentes habilidades y conocimientos para
 desarrollar proyectos mediante la tecnología.
