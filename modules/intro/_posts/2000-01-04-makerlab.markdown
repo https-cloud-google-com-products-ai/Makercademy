@@ -2,8 +2,10 @@
 title: MakerLab, Makerspaces, fablabs y hackerspaces.
 ---
 
-## que son
+## ¿Qué son?
+
+Son un espacio de trabajo en el que te brindan las herramientas necesarias para poder crear (casi) todo. 
 
 ## 
 
-## Tips
+## 
