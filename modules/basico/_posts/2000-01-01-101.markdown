@@ -21,12 +21,20 @@ Los alumnos serán capaces de:
 - Conocer las problemáticas que afectan directa e indirectamente (social, ambiental, etc). 
 - Proponer diseños de solución de acuerdo con el problema. Proponer estrategias de fabricación a la propuesta diseñada.
 
+## Introducción
+Pregunta a los alumnos acerca de los semáforos, ¿qué hacen? ¿cómo funciona? ¿tienen algún problema? ¿ćomo se puede mejorar el diseño o funcionalidad? ¿Has pensado alguna necesidad que se puede resolver que involucre alguna capacidad diferente? ¿Tiene que tener algún tiempo establecido? ¿Favorece a todos?
+
+**Actividad por salón:** Hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores y nuevas situaciones que los alumnos se den cuenta.
+
+**Objetivo de la discusión:** sirve para identificar necesidades en el entorno, identificar qué variables afectan el tiempo, funcionalidad o diseño en los semáforos.
+
+Platíca con los alumnos acerca de los algoritmos, diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?
+
 
 
 ![Picture of references]({{http://galeria.makermex.com/fotos/picture.php?/5575/category/116}}/img/reference.jpg)
 
 Image [FM](http://galeria.makermex.com/fotos/picture.php?/5575/category/116) by [Fernanda](https://www.http://makermex.com/) on Makermex.
 
-This module contains a lot of resources; mostly related to the technical side of how to create an online course. If you have any questions about these references or any questions that are not addressed here, please ask us on [community.p2pu.org](http://community.p2pu.org/category/tech).
 
-<a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> Ask us stuff!</a>
+<a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> ¡Dinos tus dudas!</a>
