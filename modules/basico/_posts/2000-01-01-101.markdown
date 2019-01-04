@@ -8,7 +8,6 @@ Esta lección introduce al alumno a utilizar el método de solución de problema
 
 ![MakerCademy](/img/giphy.gif)
 
-Image [CC-BY-SA](https://creativecommons.org/licenses/by/2.0/) by [bohman (http://galeria.makermex.com/fotos/picture.php?/5575/category/116) on Flickr.
 
 ## Propósito
 Los alumnos aplicarán los conocimientos técnicos en los colores aplicados, el tiempo establecido, etc. para proponer o diseñar una solución  o mejora que ayude a resolver el problema encontrado. El proyecto busca sensibilizar a los alumnos en el uso de los semáforos, que beneficie a diferentes sectores de manera directa desde los peatones y los conductores,  y de manera indirecta a otras áreas como ambiental y social. Encontrar una solución o una mejora es el centro de este proyecto.
@@ -25,7 +24,7 @@ Los alumnos aplicarán los conocimientos técnicos en los colores aplicados, el 
 
 ![Picture of references]({{site.baseurl}}/img/reference.jpg)
 
-Image [CC-BY-SA](https://creativecommons.org/licenses/by/2.0/) by [bohman](https://www.flickr.com/photos/bohman/) on Flickr.
+Image [CC-BY-SA](http://galeria.makermex.com/fotos/picture.php?/5575/category/116) by [bohman](https://www.flickr.com/photos/bohman/) on Flickr.
 
 This module contains a lot of resources; mostly related to the technical side of how to create an online course. If you have any questions about these references or any questions that are not addressed here, please ask us on [community.p2pu.org](http://community.p2pu.org/category/tech).
 
