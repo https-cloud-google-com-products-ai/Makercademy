@@ -2,7 +2,7 @@
 title: Makercademy
 ---
 
-![MakerCademy](http://galeria.makermex.com/fotos/picture.php?/5566/category/116)
+![MakerCademy](/img/cohort.png)
 
 
 ### ¿Qué es MakerCademy?
