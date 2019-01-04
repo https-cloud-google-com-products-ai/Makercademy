@@ -8,6 +8,8 @@ Esta lección introduce al alumno a utilizar el método de solución de problema
 
 ![MakerCademy](/img/giphy.gif)
 
+Image [CC-BY-SA](https://creativecommons.org/licenses/by/2.0/) by [bohman (http://galeria.makermex.com/fotos/picture.php?/5575/category/116) on Flickr.
+
 ## Propósito
 Los alumnos aplicarán los conocimientos técnicos en los colores aplicados, el tiempo establecido, etc. para proponer o diseñar una solución  o mejora que ayude a resolver el problema encontrado. El proyecto busca sensibilizar a los alumnos en el uso de los semáforos, que beneficie a diferentes sectores de manera directa desde los peatones y los conductores,  y de manera indirecta a otras áreas como ambiental y social. Encontrar una solución o una mejora es el centro de este proyecto.
 
