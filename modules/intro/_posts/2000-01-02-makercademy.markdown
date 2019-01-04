@@ -2,7 +2,7 @@
 title: Makercademy
 ---
 
-![MakerCademy](/img/cohort.png)
+![MakerCademy](/img/nina.jpg)
 
 
 ### ¿Qué es MakerCademy?
