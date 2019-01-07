@@ -1,8 +1,58 @@
 ---
-title: Course template explained
+title: Proyecto 005 Basura
 ---
 
-# Github course template explained
+# Basura con Circuit Playground Express
+
+Esta lección guía al alumno a utilizar el método de solución de problemas en donde el proceso tiene diferentes etapas. Esta lección es acerca de uno de los problemas más difíciles de combatir **LA BASURA** La clase se desarrolla con una lluvia de ideas, en donde los alumnos expresarán sus ideas para tener un panorama más amplio, buscar problemas importantes, de reciclaje o algún área que los alumnos detecten de forma clara.
+
+## Propósito
+Los alumnos aplican los conocimientos para proponer o diseñar una solución o mejora que ayuda a resolver un problema establecido. El proyecto busca que los alumnos sean retados en proponer una solución que involucre tecnología para desarrollar el prototipo o proyecto y alcanzar el objetivo. Aquí es donde los alumnos tienen la libertad de encontrar un problema y proponer una solución
+
+## Objeivos
+Los alumnos serán capaces de: 
+- Aplicar la metodología de solución de problemas mediante diferentes técnicas creativas. 
+- Identificar variables que afectan un problema. 
+- Proponer diseños de solución de acuerdo con el objetivo y limitaciones del problema.
+
+## Introducción
+**Pregunta:** Cuestiona a los alumnos qué problemas detectan relacionados con la basura:
+- ¿Qué consecuencias tiene la basura?
+- ¿Quiénes son los afectados, personas, animales, etc?
+- ¿Qué pasa con el reciclaje?
+- ¿Qué se puede reciclar?
+- ¿Qué pasa con la cultura? 
+
+El punto central de la lluvia de ideas es conocer más acerca de la problemática que se tiene hoy en día, que nosotros como seres humanos contribuyamos y más con ayuda de la tecnología aplicada a este problema.
+
+### ¡Ahora te toca a ti!
+Como parte de la metodología de MakerCademy, los alumnos tendrán un tiempo de análisis de problemas para proponer una solución o diseño. 
+Actividad: Los alumnos responderań las siguientes ecuaciones de Conexiones forzadas en donde tendrán la pauta para proponer una solución creativa a la problemática.
+
+## Análisis y definición del problema
+**Actividad:** Indica a los alumnos que tienen que definir una problemática utilizando las siguientes preguntas como base:
+- ¿Qué problema es? 
+- ¿Por qué sucede? 
+- ¿En dónde sucede? 
+- ¿Cómo sucede? 
+- ¿A quién afecta? 
+- ¿Al peatón? 
+- ¿Al conductor? 
+- ¿Qué datos necesitas?
+
+## Análisis y definición de la solución
+**Actividad:** Indica a los alumnos que tienen que definir una idea de solución utilizando las siguientes preguntas como base. 
+- ¿Qué solución propones?
+- ¿Por qué esta solución?   
+De las siguientes áreas qué mejorarías:      
+- Tecnología      
+- Funcionalidad      
+- Diseño
+
+
+
+
+
 
 ## Directory layout
 
