@@ -25,6 +25,8 @@ Alumnos: “Responden a lo anterior”
 
 **Actividad por salón:** realizar esta dinámica una vez en donde los alumnos proponen soluciones creativas, cada vez más creativas.
 
+## Análisis y definición del problema 
+
 Como parte de la metodología de MakerCademy, los alumnos tendrán un tiempo de análisis de problemas para proponer una solución o diseño. 
 *Aviso:* vamos a realizar  la dinámica de “qué tal si” una vez más, pero ahora con la situación de seguridad con tecnología. ¿Qué tal si… junto tecnología y seguridad? ¿Qué tal si… me quieren asaltar? ¿Qué tal si… quiero más seguridad? ¿Qué tal si… quiero proteger a los más pequeños?
 
