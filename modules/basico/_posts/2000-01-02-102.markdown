@@ -41,4 +41,24 @@ El día de hoy vamos a analizar un tema muy interesante que es la temperatura, t
 - Otro
 
 
+### ¡Ahora te toca a ti!
+Como parte de la metodología de MakerCademy, los alumnos tendrán un tiempo de análisis de problemas para proponer una solución o diseño. 
+**Actividad:** Indica a los alumnos qué preguntas investigan para conocer un poco más acerca de la variable temperatura, y saber si el trasfondo del funcionamiento o diseño afecta o no en la solución o diseño que ellos van a proponer.
+
+La temperatura se mide en  _____________________. 
+
+¿Con qué colores se representa la temperatura?
+
+## Análisis y definición de la solución
+**Actividad:** Indica a los alumnos que tienen que definir una idea de solución utilizando las siguientes preguntas como base.
+- ¿Qué solución propones   
+- ¿Por qué esta solución?   
+
+De las siguientes áreas qué mejorarías:      
+- Tecnología      
+- Funcionalidad      
+- Diseño
+
+
+<a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> ¡Dinos tus dudas!</a>
 
