@@ -1,5 +1,5 @@
 ---
-title: Proyecto 004 Sistema de seguridad con Circuit Playground Express
+title: Proyecto 004 Sistema de seguridad 
 ---
 
 # Sistema de seguridad con Circuit Playground Express
