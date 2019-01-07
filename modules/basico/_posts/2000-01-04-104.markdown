@@ -1,31 +1,37 @@
 ---
-title: Glossary
+title: Proyecto 004 Sistema de seguridad con Circuit Playground Express
 ---
-##We refer to quite a lot of terms and resources in this course - here is where they're all explained, because we like to avoid jargon!
 
+# Sistema de seguridad con Circuit Playground Express
+La lección guía al alumno a utilizar el método de solución de problemas inicia la lección preguntando, utilizando una técnica grupal, la cual ayuda a impulsar la creatividad de los alumnos, llamada “Qué tal sí”. Después realizamos la misma técnica de creatividad pero ahora con el tema de seguridad, hablando de su función, componentes y de cómo ayuda en la vida de las personas. Es importante que los alumnos tengan la posibilidad de externar sus ideas para que motive su creatividad aún más.
 
-[DNS](http://www.wikipedia.org/wiki/Domain_Name_System) - Domain Name Service. The telephone directory of the internet. In short, when you enter p2pu.org, DNS is what sends you to the right computer on the internet that contains the website you are looking for. Why is this relevant? Well, maybe you want to use myawesomecourse.org for your course. In that case you will need to register a domain name.
+## Propósito
+Los alumnos aplican conocimientos de solución de problemas mediante diferentes técnicas para proponer una solución o mejora que ayuda a resolver un problema establecido. El proyecto debe sensibilizar a los alumnos en el uso y aplicaciones de la tecnología en cuestiones de seguridad. Proponer algo que solucione o mejore la problemática establecida es el centro de esta sesión
 
-[Github](https://github.com) - Git hosting service with other colaborative tools added. Hosting for open source software and open content is free! See our [Github cheatsheet](http://howto.p2pu.org/modules/references/github-cheatsheet/).
+## Objetivos
+Los alumnos serán capaces de: 
+- Aplicar la metodología de solución de problemas utilizando estrategias de creatividad. 
+- Identificar variables que afectan el problema. 
+- Proponer diseños de solución de acuerdo con el problema. 
+- Proponer estrategias de fabricación a la propuesta diseñada.
 
-[Git](http://git-scm.com) - Version control software. Git allows you to track changes to a set of documents. Not sure what I mean, have a look at [the history for this repostory](https://github.com/p2pu/course-in-a-box/commits/gh-pages).
+## Introducción 
+La sesión da inicio con la dinámica “qué tal si”  en donde estaremos poniendo a los alumnos en diferentes situaciones que ellos mismo tendrán que externar sus ideas para  solucionar la situación. En seguida mostramos unas situación que puedes utilizar para desarrollar la actividad, por lo que la creatividad de la solución se vuelve como una bola de nieve en donde va siendo cada vez más creativa.
 
-[Jekyll](http://jekyllrb.com) - Software that 'ingests' a directory with files as input and outputs a directory of files ready to host as a website on the internet.
+Profesor: Qué tal si… si necesito comunicarme con mi familia 
+Alumnos: “Responden a lo anterior” 
+Profesor: Qué tal si… tengo un problema 
+Alumnos: “Responden a lo anterior”
 
-[GitHub Pages](https://pages.github.com) - A hosted version of Github + Jekyll. Important part -> if you use GitHub Pages you don't need to install and run Jekyll and you don't need to pay for hosting!
+**Actividad por salón:** realizar esta dinámica una vez en donde los alumnos proponen soluciones creativas, cada vez más creativas.
 
-[Google Analytics](http://www.google.com/analytics/) - Service offered by Google to track page views and other metrics on a web page.
+Como parte de la metodología de MakerCademy, los alumnos tendrán un tiempo de análisis de problemas para proponer una solución o diseño. 
+*Aviso:* vamos a realizar  la dinámica de “qué tal si” una vez más, pero ahora con la situación de seguridad con tecnología. ¿Qué tal si… junto tecnología y seguridad? ¿Qué tal si… me quieren asaltar? ¿Qué tal si… quiero más seguridad? ¿Qué tal si… quiero proteger a los más pequeños?
 
-[Discourse](http://www.discourse.org) - Takes the idea of online forums to a whole new level.  Conversations can be viewed as a continuous flow within categories that keep you up to date on what you are interested in.  Join in on our conversations at [http://community.p2pu.org/](http://community.p2pu.org/).
-
-[Disqus](https://disqus.com) - You have probably used Disqus already without even realizing it, it's everywhere.  Disqus makes it simple to add comment sections to any page and is supported on many popular blogging and content management platforms.
-
-[MailChimp](http://mailchimp.com) - Online service for automating emails that also provides analytics on how your community is interacting with your email communications.
-
-[IFTTT](https://ifttt.com) - If This Then That. Online service that allows you to string together different web services with a single recipe.
-
-[Etherpads](http://etherpad.org) - Collaborative online documents which can be written and edited in real time. Open source, but you need to host it. [Hackpad](https://hackpad.com) is similar and hosted for you, but is not open source.
-
-[Google Docs](http://www.google.com/docs/about/) - Collaborative online document, spreadsheet, and presentation editing services provided by Google.
-
-[Google Forms](https://www.google.co.uk/forms/about/) - A component of Google Docs but worth mentioning on its own.  Google Forms allow for the easy creation, sending, and collection of responses for online surveys.
+Los alumnos deben de elegir la solución al problema establecido. Puedes dar estas preguntas como base:
+- ¿Qué solución propones?   
+- ¿Por qué esta solución?   
+De las siguientes áreas qué mejorarías:      
+- Tecnología      
+- Funcionalidad      
+- Diseño
