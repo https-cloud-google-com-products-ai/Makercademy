@@ -9,7 +9,7 @@ Esta lección guía al alumno a utilizar el método de solución de problemas en
 ## Propósito
 Los alumnos aplican los conocimientos para proponer o diseñar una solución o mejora que ayuda a resolver un problema establecido. El proyecto busca que los alumnos sean retados en proponer una solución que involucre tecnología para desarrollar el prototipo o proyecto y alcanzar el objetivo. Aquí es donde los alumnos tienen la libertad de encontrar un problema y proponer una solución
 
-## Objeivos
+## Objetivos
 Los alumnos serán capaces de: 
 - Aplicar la metodología de solución de problemas mediante diferentes técnicas creativas. 
 - Identificar variables que afectan un problema. 
@@ -49,7 +49,11 @@ De las siguientes áreas qué mejorarías:
 - Funcionalidad      
 - Diseño
 
+Propón con tus alumnos una discusión en la que los alumnos comparten las ideas que tienen, esto con el fin de que obtengan retroalimentación, nuevas ideas y puntos de vista que sus compañeros observan, para mejorar el diseño o solución que ellos han elegido.
 
+# Sesión técnica y prototipado
+Aquí conoceremos y aplicaremos uno de los recursos más utilizados en el mundo de la electrónica que es el **PWM.**
+Esto está destinado a que los alumnos se dediquen a fabricar o finalizar de fabricar su idea inicial. Tienen como objetivo entregar un primer prototipo al finalizar la clase por lo que deben aprovechar el mayor tiempo posible.
 
 
 
