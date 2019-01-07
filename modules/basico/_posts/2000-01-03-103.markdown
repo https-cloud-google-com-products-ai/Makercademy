@@ -1,8 +1,25 @@
 ---
-title: Markdown Cheatsheet
+title: Proyecto 003 Agenda 
 ---
 
-# Markdown Cheatsheet
+# Agenda con Circuit Playground Express
+En esta lección se ve la importancia del tiempo y de como organizarlo. Se introduce al alumno a utilizar el método de búsqueda de solución de problemas en donde el proceso tiene diferentes etapas, recordando que son definir: preparar, iterar y reflexionar. Esta lección es acerca de la organización y cómo la tecnología se puede involucrar de la forma más creativa posible. ¿Has pensado en por qué algunas personas necesitan agenda y recordatorios diarios? ¿sabes utilizar la agenda? ¿conoces otras maneras de organizar el tiempo? La clase empieza con una dinámica llamada “conexiones forzadas” y continua con un análisis del problema que involucra un organizador y un wearable (en caso de elegir un wearable), proponiendo una solución al problema lo más creativo posible. 
+
+## Propósito
+Los alumnos aprenderán una nueva técnica sobre creatividad para que puedan dar solución al problema que ellos escogieron. ¿Qué problema encuentras tú? El proyecto busca que los alumnos sean retados en utilizar las herramientas que tengan cerca que ayude a solucionar la problemática. En donde tengan un organizador (calendario) y un wearable.
+
+## Objetivos
+Los alumnos serán capaces de: 
+- Saber organizar su tiempo con base en una agenda. 
+- Hacer prototipos de mejor calidad.
+
+**Actividad:** Utilizando la siguiente página: http://writingexercises.co.uk/random-images.php “Conexiones Forzadas” indica a los alumnos que deben tener hojas listas para dibujar las imágenes que se están mostrando en la página y al final cada uno de ellos propondrá resultados con dibujos y nombre.
+
+**Actividad por grupo:** Muestra tres pares de imágenes distintas (utilizando la página la página anterior) los diferentes ejercicios de “conexiones forzadas” para que en grupo todos los alumnos compartan sus diferentes soluciones y además ir compartiendo nuevas soluciones, esto con el fin de aumentar la cantidad de soluciones creativas.
+
+*Aviso: Ahora vamos a realizar la dinámica de conexiones forzadas sobre un tema muy interesante que es la organización del tiempo. Todos conocemos algo de este tema y gracias a esto hemos vivido situación en donde no recordamos ciertos pendientes, o incluso medicamentos (por ejemplo) conocemos instrumentos de organización que se utilizan, calendarios u organizadores convencionales pero, ¿qué pasa si lo combinamos con tecnología, colores, sonidos y formas?
+
+
 
 Markdown is a plain text formatting language which has been designed to be easily converted to HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. This cheatsheet will help you to get going using Markdown.
 
