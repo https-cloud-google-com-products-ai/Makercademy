@@ -28,11 +28,7 @@ Por equipos realizar una lluvia de ideas en donde los alumnos plasmen lo discuti
 
 **Objetivo de la discusión:** Es conocer más acerca de la variable temperatura, medidas, unidades, instrumentos que se utilizan.
 
-
-
-## Actividad
-
-El día de hoy vamos a analizar un tema muy interesante que es la temperatura, todos conocemos algo de esta variable y gracias a esto escuchamos frases como “uff qué calor” o “que frío hace” y conocemos instrumentos de medición que se utilizan, termómetros de todo tipo, de mercurio, industriales, electrónicos, de colores, por lo que nos ayuda a conocer cómo y en dónde se requiere tener el control de esta variable. Un claro ejemplo son los aparatos de cocina que te indican a qué temperatura se encuentra y muchos de ellos, te ayudan a mantener siempre esa temperatura.
+**Actividad:** El día de hoy vamos a analizar un tema muy interesante que es la temperatura, todos conocemos algo de esta variable y gracias a esto escuchamos frases como “uff qué calor” o “que frío hace” y conocemos instrumentos de medición que se utilizan, termómetros de todo tipo, de mercurio, industriales, electrónicos, de colores, por lo que nos ayuda a conocer cómo y en dónde se requiere tener el control de esta variable. Un claro ejemplo son los aparatos de cocina que te indican a qué temperatura se encuentra y muchos de ellos, te ayudan a mantener siempre esa temperatura.
 
 **Pregunta:** Realiza las siguientes preguntas a los alumnos en dónde se puede controlar la temperatura para obtener su mayor beneficio: 
 - Casa 
