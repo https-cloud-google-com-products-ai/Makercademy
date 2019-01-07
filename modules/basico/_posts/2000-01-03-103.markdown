@@ -62,6 +62,6 @@ No olvides que parte de la filosofía de MakerCademy es llevar el registro de la
 Los alumnos deberán de entregar una presentación (por ejemplo) con todo el proceso hecho de su proyecto.
 
 
-a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> ¡Dinos tus dudas!</a>
+<a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> ¡Dinos tus dudas!</a>
 
 `
