@@ -64,9 +64,13 @@ De las siguientes áreas qué mejorarías:
 **Actividad:** Utilizando las bases y conocimientos en representación de algoritmos (diagrama de bloques o flujo), indica a los alumnos que tienen que representar el funcionamiento de un termómetro en un diagrama de flujo. Utilizando las siguientes preguntas ejemplo:
 
 Si es la temperatura ____ pasa esto _____________________ 
+
 Si es la temperatura ____ pasa esto _____________________ 
+
 Si es la temperatura ____ pasa esto _____________________ 
+
 Si es la temperatura ____ pasa esto _____________________ 
+
 Si es la temperatura ____ pasa esto _____________________
 
 Necesitas aprender a programar en bloques, revisa lo siguiente:
