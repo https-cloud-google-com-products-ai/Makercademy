@@ -60,5 +60,42 @@ De las siguientes áreas qué mejorarías:
 - Diseño
 
 
+## Sesión Técnica
+**Actividad:** Utilizando las bases y conocimientos en representación de algoritmos (diagrama de bloques o flujo), indica a los alumnos que tienen que representar el funcionamiento de un termómetro en un diagrama de flujo. Utilizando las siguientes preguntas ejemplo:
+
+Si es la temperatura ____ pasa esto _____________________ 
+Si es la temperatura ____ pasa esto _____________________ 
+Si es la temperatura ____ pasa esto _____________________ 
+Si es la temperatura ____ pasa esto _____________________ 
+Si es la temperatura ____ pasa esto _____________________
+
+Necesitas aprender a programar en bloques, revisa lo siguiente:
+
+- Tutorial de bloque de Temperatura de MakeCODE. 
+ -Tutorial de condicionales 2 de MakeCODE. 
+- Tutorial de Pines I/O Circuit Playground Express de MakeCODE.
+
+**Actividad:** vamos a realizar un prototipo de un termómetro que resuelva los problemas que encontraste. El prototipo se realizará con materiales que se tengan cerca, pero de igual manera se pueden utilizar diferentes, por ejemplo impresión 3D o corte láser.
+
+Cuestiona a los alumnos acerca de modelado 3D e impresión 3D, ¿Qué es el modelado 3D? ¿Qué es impresión 3D? ¿Cómo están relacionados? ¿Cómo se fabrica en una impresora 3D? ¿Qué materiales se utilizan? ¿Por qué hay personas que sienten más calor o frío que otras?
+
+Los tutoriales a revisar son:
+- Tutorial de Cartón Básico. 
+- Tutorial de Tutorial MakerSCAD 101. 
+- Tutorial de CURA y Parámetros.
+
+Lo que los alumnos te deberán de entregar en esta sesión es el diseño del modelo 3D en MakerSCAD y un archivo .STL
+
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> ¡Dinos tus dudas!</a>
 
