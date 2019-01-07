@@ -13,11 +13,35 @@ Los alumnos serán capaces de:
 - Saber organizar su tiempo con base en una agenda. 
 - Hacer prototipos de mejor calidad.
 
+## Introducción
 **Actividad:** Utilizando la siguiente página: http://writingexercises.co.uk/random-images.php “Conexiones Forzadas” indica a los alumnos que deben tener hojas listas para dibujar las imágenes que se están mostrando en la página y al final cada uno de ellos propondrá resultados con dibujos y nombre.
 
 **Actividad por grupo:** Muestra tres pares de imágenes distintas (utilizando la página la página anterior) los diferentes ejercicios de “conexiones forzadas” para que en grupo todos los alumnos compartan sus diferentes soluciones y además ir compartiendo nuevas soluciones, esto con el fin de aumentar la cantidad de soluciones creativas.
 
-*Aviso: Ahora vamos a realizar la dinámica de conexiones forzadas sobre un tema muy interesante que es la organización del tiempo. Todos conocemos algo de este tema y gracias a esto hemos vivido situación en donde no recordamos ciertos pendientes, o incluso medicamentos (por ejemplo) conocemos instrumentos de organización que se utilizan, calendarios u organizadores convencionales pero, ¿qué pasa si lo combinamos con tecnología, colores, sonidos y formas?
+*Aviso: Ahora vamos a realizar la dinámica de conexiones forzadas sobre un tema muy interesante que es la organización del tiempo. Todos conocemos algo de este tema y gracias a esto hemos vivido situación en donde no recordamos ciertos pendientes, o incluso medicamentos (por ejemplo) conocemos instrumentos de organización que se utilizan, calendarios u organizadores convencionales pero, ¿qué pasa si lo combinamos con tecnología, colores, sonidos y formas?*
+
+## Análisis y definición del problema
+**Actividad:** Indica a los alumnos que tienen que definir una problemática utilizando las siguientes preguntas como base. 
+- ¿Qué problema es? 
+- ¿Por qué sucede? 
+- ¿En dónde sucede? 
+- ¿Cómo sucede? 
+- ¿A quién afecta? ¿Al peatón? ¿Al conductor? 
+- ¿Qué datos necesitas?
+
+## Análisis y definición de la solución
+Indica a los alumnos que tienen que definir una idea de solución utilizando las siguientes preguntas como base. 
+- ¿Qué solución propones?
+- ¿Por qué esta solución?   
+De las siguientes áreas qué mejorarías:      
+- Tecnología      
+- Funcionalidad      
+- Diseño
+
+## Sesión técnica
+En esta sesión se deberá de realizar un prototipo inicial sobre como los alumnos deseen su agenda y basandonos en el problema que resuelve. Recuerda que el prototipo se puede hacer con el material que desees.
+
+Platica con tus alumnos acerca de modelado 3D e impresión 3D, ¿Qué es el modelado 3D? ¿Qué es impresión 3D? ¿Cómo están relacionados? ¿Cómo se fabrica en una impresora 3D? ¿Qué materiales se utilizan? ¿Cómo se utiliza una agenda? ¿Has utilizado una? ¿Te gusta? ¿Cómo agregarías la impresión 3D con la agenda? ¿Cómo lo harías werable?
 
 
 
