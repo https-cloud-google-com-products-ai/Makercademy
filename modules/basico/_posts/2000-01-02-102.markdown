@@ -81,7 +81,7 @@ Necesitas aprender a programar en bloques, revisa lo siguiente:
 
 **Actividad:** vamos a realizar un prototipo de un termómetro que resuelva los problemas que encontraste. El prototipo se realizará con materiales que se tengan cerca, pero de igual manera se pueden utilizar diferentes, por ejemplo impresión 3D o corte láser.
 
-Cuestiona a los alumnos acerca de modelado 3D e impresión 3D, ¿Qué es el modelado 3D? ¿Qué es impresión 3D? ¿Cómo están relacionados? ¿Cómo se fabrica en una impresora 3D? ¿Qué materiales se utilizan? ¿Por qué hay personas que sienten más calor o frío que otras?
+Cuestiona a los alumnos acerca de modelado 3D e impresión 3D, ¿Qué es el modelado 3D? ¿Qué es impresión 3D? ¿Cómo están relacionados? ¿Cómo se fabrica en una impresora 3D? ¿Qué materiales se utilizan? 
 
 Los tutoriales a revisar son:
 - Tutorial de Cartón Básico. 
@@ -90,14 +90,28 @@ Los tutoriales a revisar son:
 
 Lo que los alumnos te deberán de entregar en esta sesión es el diseño del modelo 3D en MakerSCAD y un archivo .STL
 
+**Actividad** Esta clase está destinada a que los alumnos se dediquen a fabricar o finalizar de fabricar su idea inicial. Tienen como objetivo entregar un primer prototipo al finalizar la clase por lo que deben aprovechar el mayor tiempo posible.
 
+**Indicaciones:** Los alumnos fabricarán o terminarán de fabricar su idea teniendo en cuenta el objetivo de su proyecto al finalizar la clase los alumnos responderán preguntas que los ayudarán a obtener retroalimentación.
 
+Los alumnos deberán de responder las siguientes preguntas con base en su prototipo:
+- ¿Cuáles son los puntos débiles? 
+- ¿Cómo funcionan las soluciones anteriores? 
+- ¿El prototipo cumple las expectativas? 
+- ¿Cómo se aprovecha el diseño/producto/desarrollo? 
+- ¿Mi idea soluciona el problema? ¿Si o No? ¿Por qué? 
+- ¿Qué puntos no incluiste en este primer prototipo? ¿Tu prototipo cumple con el objetivo? 
 
+**Entregable:** Al finalizar la clase tienen que entregar su primer prototipo funcional.
 
+## Conclusión
 
+Pregunta a los alumnos acerca de documentar ¿qué se necesita?¿qué tengo que documentar? Actividad por salón: Hacer una lluvia de ideas en donde los alumnos plasmen lo que comparten para que los mismos alumnos vean algún área que no notaron. 
 
+*NOTA: El punto central de la lluvia de ideas es compartir experiencias, sentimientos, tips, alguna tecnología nueva que aprendieron.*
 
-
+Recordatorio: Los alumnos deben entregar en un folder (como ejemplo), esto con el fin de que tu como maestro revises que se hicieron todos los paso con respecto a su conclusión final. Pueden entregar del modo en como ellos crean conveniente (folder, presentación, etc)
+No olvides que la documentación es parte esencial de la filosofía de MakerCademy
 
 
 
