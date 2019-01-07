@@ -37,3 +37,22 @@ De las siguientes áreas qué mejorarías:
 - Tecnología      
 - Funcionalidad      
 - Diseño
+
+## Sesión Técnica
+Recuerda que los alumnos deben de generar su prototipo con los materiales que encuentren y deseén. Por ejempo puede ser cartón, impresión 3D, alguna cortadora láser, etc.
+
+Esta clase está destinada a que los alumnos se dediquen a fabricar o finalizar de fabricar su idea inicial. Tienen como objetivo entregar un primer prototipo al finalizar la clase por lo que deben aprovechar el mayor tiempo posible.
+
+## Sesión de prototipado
+Los alumnos fabricarán su idea teniendo en cuenta el objetivo de su proyecto al finalizar la clase los alumnos responderán preguntas que los ayudarán a obtener retroalimentación.
+
+Los alumnos deberán de responder las siguientes preguntas con base en su prototipo
+- ¿Cuáles son los puntos débiles? 
+- ¿Cómo funcionan las soluciones anteriores? 
+- ¿El prototipo cumple las expectativas? 
+- ¿Cómo se aprovecha el diseño/producto/desarrollo? 
+- ¿Mi idea soluciona el problema? Si o No ¿Por qué? 
+- ¿Qué puntos no incluiste en este primer prototipo? 
+- ¿Tu prototipo cumple con el objetivo? 
+Entregable: Al finalizar la clase tienen que entregar su primer prototipo funcional.
+
