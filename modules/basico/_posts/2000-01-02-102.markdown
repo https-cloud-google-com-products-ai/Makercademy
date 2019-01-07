@@ -1,119 +1,44 @@
 ---
-title: GitHub Cheatsheet
+title: Proyecto 002 Termómetro
 ---
 
-# Github cheatsheet
+### Termómetro con Circuit Playground Express
 
-This cheatsheet explains how to do various things in GitHub. If you're looking for explanations of what some of the terms we use mean, have a look at the [GitHub Glossary](https://help.github.com/articles/github-glossary) 
+Esta lección introduce al alumno a utilizar el método de solución de problemas en donde el proceso tiene diferentes etapas, recordando, que son definir, preparar, iterar y reflexionar. Esta lección es acerca de la conceptos de física como la temperatura y el calor. Realiza preguntas como: ¿qué es calor? ¿cómo se mide el calor? ¿en qué unidades se mide? ¿cuántas unidades hay? ¿se puede representar de otra manera? ¿cómo sería el termómetro ideal para ti? ¿has pensado en alguien que tenga dificultades con esta variable? Es importante hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores.
 
-## How to fork a repository
-To fork a repository, go to the repository you would like to fork.  Ex. "https://github.com/yourusername/repositoryname/"
 
-Click "Fork" at the top right of the page.  That's it!  You will now have your own copy of the repository.
+## Propósito
+Los alumnos aplicarán los conocimientos para proponer o diseñar una solución o mejora que ayuda a resolver un problema establecido. El proyecto busca que los alumnos sean retados en proponer una solución para representar físicamente la temperatura que ayude a solucionar un problema que se establezca, activar un sistema de enfriamiento por ejemplo o un sistema de riego para las plantas. Aquí es donde los alumnos tienen la libertad de encontrar un problema y proponer una solución
 
-![]({{site.baseurl}}/img/tools/github-fork-step-1.png)
 
-## How to submit a pull request
+## Objetivos
+Los alumnos serán capaces de: 
+- Aplicar la metodología de solución de problemas. 
+- Identificar variables que afectan un problema. 
+- Proponer diseños de solución de acuerdo con el objetivo y limitaciones del problema.
 
-To submit a pull request, go to a repository that you forked. Ex. "https://github.com/yourusername/repositoryname/"
 
-Select the "Pull Requests" tab.
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-1-small.png)
+## Introducción
 
-Click on "New pull request".
+Pregunta: Cuestiona a los alumnos acerca de la variable física de Temperatura, ¿Qué es calor? ¿Cómo se mide el calor? ¿En qué unidades se mide? ¿Existe el frío? ¿Cuántas unidades hay? ¿Se puede representar de otra manera? ¿Cómo sería el termómetro ideal para ti? ¿Has pensado en alguien que tenga dificultades con esta variable? ¿En dónde se necesita tener un control de esta variable? En estos casos, ¿Qué tan crítico es controlar la variable?
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-2-small.png)
+**Actividad por grupos:** Indica a los alumnos que trabajarán en equipos de 2 o 3 personas. 
+Por equipos realizar una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores y nuevas situaciones que los alumnos se den cuenta.
 
-See if the changes shown are correct and then click "Create pull request".
+**Objetivo de la discusión:** Es conocer más acerca de la variable temperatura, medidas, unidades, instrumentos que se utilizan.
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-3-small.png)
 
-Fill in a title for the pull request and click on "Create".
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-4-small.png)
+## Actividad
 
-You are done and the pull request will look something like this:
+El día de hoy vamos a analizar un tema muy interesante que es la temperatura, todos conocemos algo de esta variable y gracias a esto escuchamos frases como “uff qué calor” o “que frío hace” y conocemos instrumentos de medición que se utilizan, termómetros de todo tipo, de mercurio, industriales, electrónicos, de colores, por lo que nos ayuda a conocer cómo y en dónde se requiere tener el control de esta variable. Un claro ejemplo son los aparatos de cocina que te indican a qué temperatura se encuentra y muchos de ellos, te ayudan a mantener siempre esa temperatura.
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-5-small.png)
+**Pregunta:** Realiza las siguientes preguntas a los alumnos en dónde se puede controlar la temperatura para obtener su mayor beneficio: 
+- Casa 
+- Carro 
+- Escuela 
+- Otro
 
-You can click on the "Files changed" tab to see the changes that was made.
 
-![]({{site.baseurl}}/img/tools/github-pull-request-step-6-small.png)
 
-## How to edit a file
-
-Go to your repository
-
-...
-
-## How to upload an image
-
-## How to keep your fork up-to-date
-You just forked this awesome project but it got more awesome... what do you do?
-
-### Through GitHub
-> Note:  This is assuming none of the updates made to the main repository conflict with changes you have made to yours.  Conflicts can make things a bit trickier but hopefully this is useful in most situations.
-
-Go to your repository on GitHub and click the green Pull Request button.
-
- ![]({{site.baseurl}}/img/tools/github-upstream-step-1.png)
-
-If you haven't made any updates to your repository it will tell you there is nothing to compare.  Click 'switching the base' and jump past the next couple steps to 'Create pull request.'  If you have made updates to your repository click the 'Edit' button.
-
- ![]({{site.baseurl}}/img/tools/github-upstream-step-2.png)
-
-Change the base fork to your repository
- 
-  ![]({{site.baseurl}}/img/tools/github-upstream-step-2-1.png)
- 
-It will tell you that there isn't anything to compare (Which is true! You are comparing your respository to itself!).
- 
-Click 'Edit' again and click 'compare across forks.'
- 
-  ![]({{site.baseurl}}/img/tools/github-upstream-step-2-2.png) 
- 
-Change the head fork to main respository (p2pu in this case).
-
-  ![]({{site.baseurl}}/img/tools/github-upstream-step-2-3.png)
-
-Click 'Create pull request.'
- 
- ![]({{site.baseurl}}/img/tools/github-upstream-step-3.png)
-
-Fill out your merge request that will be submitted to yourself.
-
- ![]({{site.baseurl}}/img/tools/github-upstream-step-4.png)
-
-Go to the bottom of the page and click 'Merge pull request.'
-
- ![]({{site.baseurl}}/img/tools/github-upstream-step-5.png)
-
-Click 'Confirm merge.'
-
- ![]({{site.baseurl}}/img/tools/github-upstream-step-6.png)
-
-That's it!  
- 
-### Through Git
-> Note: This can only be done using git directly and cannot be done through the GitHub website
-
-1. Open a terminal (for Mac and Linux users) or command line (for Windows users).
-
-1. Add a new remote that points to the original repository.
-
-        git remote add upstream https://github.com/p2pu/course-in-a-box.git
-
-1. Update your repository so it knows about all the stuff that has been going on since you forked.
-
-        git fetch upstream
-
-1. Merge the changes from the upstream repository into yours.  This will bring your repository up-to-date without losing any of your local changes.
-
-        git merge upstream/gh-pages
-
-1. Push the changes up to your repository on GitHub.
-
-        git push origin gh-pages
-
-## How to create a new repository
