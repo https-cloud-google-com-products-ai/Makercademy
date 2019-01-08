@@ -10,12 +10,12 @@ title: ¿Qué es el movimiento Maker?
 
 ## El sistema curricular busca desarrollar en el alumno:
 
--Pensamiento analitico
--Pensamiento critico
--Pensamiento deductivo
--Habilididades de autoaprendizaje
--Habilidades para resolver problemas
--Comunicar sus ideas, diseños y proyectos
+* Pensamiento analitico
+* Pensamiento critico
+* Pensamiento deductivo
+* Habilididades de autoaprendizaje
+* Habilidades para resolver problemas
+* Comunicar sus ideas, diseños y proyectos
 
 ## Básicos
 
