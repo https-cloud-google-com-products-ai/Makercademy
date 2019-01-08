@@ -9,7 +9,7 @@ title: ¿Qué es el movimiento Maker?
 Es un sistema curricular con cursos, tutoriales y proyectos en áreas de
 fabricación digital, electrónica, programación y analisis y
 creatividad, para acercar estas tecnologías a jóvenes de nivel
-básico (segundaria) y medio superior.
+básico (secundaria) y medio superior.
 
 ## Objetivo
 Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemáticas
