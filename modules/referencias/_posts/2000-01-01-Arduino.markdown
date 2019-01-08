@@ -13,3 +13,5 @@ Libros
 * [Make a mind controlled arduino robot 1](http://www.hmangas.com/Electronica/Datasheets/Arduino/LIBROS%20Y%20MANUALES/%5BMake.a.Mind-Controlled.Arduino.Robot(2011.12)%5D.Tero.Karvinen.pdf)
 * [Making things see](http://www.hmangas.com/Electronica/Datasheets/Arduino/LIBROS%20Y%20MANUALES/[Making.Things.See(2012.01)].Greg.Borenstein.pdf)
 * Making things smart
+* Make: Getting started with adafruit flora
+* Make: Getting started with adafruit trinket
