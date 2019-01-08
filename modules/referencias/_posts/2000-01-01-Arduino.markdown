@@ -6,3 +6,5 @@ title: Arduino
 Libros      
 * Arduino project hand book vol.1 
 * [Getting started with netduino 1](https://pdfs.semanticscholar.org/0456/f26969c1d800e817fe681bb8fd825b249c73.pdf)
+* [Make: basic arduino projects](https://media.digikey.com/pdf/Data%20Sheets/O'Reilly_PDFs/Make_Basic_Arduino_Projects_9781449360665.pdf)
+* [Make: getting started with arduino 3rd edition](https://www.esc19.net/cms/lib011/TX01933775/Centricity/Domain/110/make_gettingstartedwitharduino_3rdedition.pdf)
