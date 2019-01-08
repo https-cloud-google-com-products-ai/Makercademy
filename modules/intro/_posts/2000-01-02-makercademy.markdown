@@ -26,7 +26,7 @@ beneficio de la sociedad.
 
 - Aprender descubriendo
 
-- Aprender deconstruyendo
+- [Aprender deconstruyendo](https://www.youtube.com/watch?v=tbX6aMfPtEw)
 
 - Aprender resolviendo problemas reales
 
