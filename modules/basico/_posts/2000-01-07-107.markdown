@@ -1,13 +1,11 @@
 ---
-title: How to use Google Analytics
+title: Proyecto final
 ---
 
-# How do I use Google Analytics to see how people are using my course?
+# Proyecto final
 
-1. Register for a Google Analytics account
-1. Create a new property and get the tracking code
-1. Add your tracking code to [https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml](https://github.com/your-github-username/course-in-a-box/blob/gh-pages/_config.yml)
+Con base en las clases pasadas ahora te toca a ti encontrar un proyecto.
+Recuerda que debe de ser un problema básico el cuál pueda tener una solución que los alumnos puedan identificar. Son problemas con los que convivimos diariamente, los que utilizamos anteriormente son buenos ejemplos.
 
-{% highlight yaml %}
-ga_tracking_code: UA-5757664-19
-{% endhighlight %}
+La solución debe de tener programación en la tarjeta Circuit Playground Express, una sección de análisis, definición del problema y de la solución. Sesión técnica, de prototipado y además la conclusión. 
+
