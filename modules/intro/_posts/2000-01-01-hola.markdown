@@ -6,16 +6,7 @@ title: ¿Qué es el movimiento Maker?
 <iframe width="560" height="315" src="//www.youtube.com/embed/IsRBgBwLwxw" frameborder="0" allowfullscreen></iframe>
 
 ## ¿Qué es MakerCademy?
-Es un sistema curricular con cursos, tutoriales y proyectos en áreas de
-fabricación digital, electrónica, programación y analisis y
-creatividad, para acercar estas tecnologías a jóvenes de nivel
-básico (secundaria) y medio superior.
 
-## Objetivo
-Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemáticas
-(Educación STEAM), así como el uso y aplicación de tecnología de fabricación
-digital a jóvenes de secundaria y preparatoria para potencializar sus proyectos en
-beneficio de la sociedad.
 
 ## El sistema curricular busca desarrollar en el alumno:
 
