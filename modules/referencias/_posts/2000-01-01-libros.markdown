@@ -1,22 +1,7 @@
 ---
-title: Libros
+title: Arduino
 ---
 
-## Programación
-
-## Software Diseño
-
-## Maquinaria, herramientas y equipo.
-
-# Impresoras 3D
-
-## Proyectos
-
-
-
-Course in a Box consist of 
-
- - a tutorial module to guide you through the technical steps for creating your course.
- - a resource module to help you design content, activities, community and feedback for your course.
- - a reference module with some explanation and detail about Course in a Box.
- - a community forum where you can ask questions or share your experience.
+| LIBROS | TUTORIALES | |
+| ----- | ---- |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
