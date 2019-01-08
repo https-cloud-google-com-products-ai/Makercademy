@@ -53,27 +53,25 @@ Propón con tus alumnos una discusión en la que los alumnos comparten las ideas
 
 # Sesión técnica y prototipado
 Aquí conoceremos y aplicaremos uno de los recursos más utilizados en el mundo de la electrónica que es el **PWM.**
+
+No olvides programar la tarjeta Circuit Playground Express en MakeCODE.
+
 Esto está destinado a que los alumnos se dediquen a fabricar o finalizar de fabricar su idea inicial. Tienen como objetivo entregar un primer prototipo al finalizar la clase por lo que deben aprovechar el mayor tiempo posible.
 
+**Recuerda** Es un tema importante el que los alumnos aprendan a recibir retroalimentación, por lo que  es importante que tú como maestro hagas preguntas recurrentes del avance y que el prototipo se acerque al objetivo.
 
+Haz las siguientes preguntas sobre sus prototipos:
+- ¿Qué hace? 
+- ¿Cómo lo hace? 
+- ¿Qué forma tiene? 
+- ¿Por qué esa forma? 
+- ¿Qué utiliza? 
+-¿Necesita algo más?
 
+# Conclusión
 
-## Directory layout
+Aquí se guía al alumno a la documentación y conclusiones para expresar todo lo que lleva la idea, el análisis del problema, el proceso de prototipado y lo que se aprendió de forma trascendental del conocimiento técnico y las habilidades que se aprendieron durante las sesiones que han tomado en este proyecto. Los alumnos deben expresar sus ideas de forma adecuada, para empezar necesitan por ejemplo escribir en puntos sobre qué pasó y cómo pasó.
 
-```
-_config.yml
-_data/course.html
-_layout/base.html
-_layout/course_page.html
-_layout/course_about.html
-_layout/page.html
-```
-## Course data
+**Recuerda** que los alumnos son libres de elegir la forma de documentación a entregar.
 
-**_data/course.yml**
-
-```
-title: "DIY U: Build a Personal Learning Plan"
-language: en
-image: /img/diy-u/thumb.jpg
-```
+<a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> ¡Dinos tus dudas!</a>
