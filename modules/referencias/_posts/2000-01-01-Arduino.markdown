@@ -1,9 +1,9 @@
 ---
 title: Arduino
 ---
-## BIBLIOGRAFÍA DE ARDUINO
+# BIBLIOGRAFÍA DE ARDUINO
 
-# Libros      
+## Libros      
 * Arduino project hand book vol.1 
 * [Getting started with netduino 1](https://pdfs.semanticscholar.org/0456/f26969c1d800e817fe681bb8fd825b249c73.pdf)
 * [Make: Basic arduino projects](https://media.digikey.com/pdf/Data%20Sheets/O'Reilly_PDFs/Make_Basic_Arduino_Projects_9781449360665.pdf)
