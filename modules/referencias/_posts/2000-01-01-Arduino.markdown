@@ -16,7 +16,7 @@ title: Arduino
 * Make: Getting started with adafruit flora
 * Make: Getting started with adafruit trinket
 
-## Videos
+## Videos ejemplo
 * [Top 10 Proyectos de arduino para principiates](https://www.youtube.com/watch?v=PfvqunpN7M4)
 * [Haz tu radar con Arduino](https://www.youtube.com/watch?v=kQRYIH2HwfY)
 * [Cubo LED de 8x8x8 con Arduino](https://www.youtube.com/watch?v=T5Aq7cRc-mU)
