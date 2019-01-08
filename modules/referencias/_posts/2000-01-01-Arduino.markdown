@@ -11,3 +11,4 @@ Libros
 * [Make: Getting started with sensors](https://tentacle.net/~prophet/raspberrypi/Make%20-%20Getting%20Started%20with%20Sensors%20-%20Measure%20the%20World%20with%20Electronics%2C%20Arduino%2C%20and%20Raspberry%20Pi%20%5BStarDiwa%5D/Make%20-%20Getting%20Started%20with%20Sensors%20-%20Measure%20the%20World%20with%20Electronics%2C%20Arduino%2C%20and%20Raspberry%20Pi%20%5BStarDiwa%5D.pdf)
 * [Make: Lego and arduino projects 1](http://www.farnell.com/datasheets/1895155.pdf)
 * [Make a mind controlled arduino robot 1](http://www.hmangas.com/Electronica/Datasheets/Arduino/LIBROS%20Y%20MANUALES/%5BMake.a.Mind-Controlled.Arduino.Robot(2011.12)%5D.Tero.Karvinen.pdf)
+* [Making things see](http://www.hmangas.com/Electronica/Datasheets/Arduino/LIBROS%20Y%20MANUALES/[Making.Things.See(2012.01)].Greg.Borenstein.pdf)
