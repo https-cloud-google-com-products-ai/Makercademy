@@ -16,3 +16,18 @@ Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemát
 (Educación STEAM), así como el uso y aplicación de tecnología de fabricación
 digital a jóvenes de secundaria y preparatoria para potencializar sus proyectos en
 beneficio de la sociedad.
+
+## El sistema curricular busca desarrollar en el alumno:
+
+-Pensamiento analitico
+-Pensamiento critico
+-Pensamiento deductivo
+-Habilididades de autoaprendizaje
+-Habilidades para resolver problemas
+-Comunicar sus ideas, diseños y proyectos
+
+## Básicos
+
+## Mecanismos
+
+## IOT
