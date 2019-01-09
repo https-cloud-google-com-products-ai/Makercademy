@@ -28,5 +28,14 @@ Terminamos con la sesión de **conclusiones** en dónde se motiva a los alumnos 
 
 
 ## Mecanismos
+En esta sección se ven temas de movimiento. Los problemas que los alumnos encuentran en: autos, barcos, aviones. Pero que también pueden encontrar en: dispensadores de comida, sofás, puertas automáticas, etc.
+
+Siguen siendo problemas con los que se conviven día con día pero un poco más complicados. Por ejemplo:
+
+*Mi problema es el dispensador de comida de mi gato. Necesito que cada 12 horas le de la porción necesaria* Por lo tanto el alumno debe de programar su tarjeta para que mueva el dispositivo que eligió en la sesión **técnica.**
+
+Después se hará un prototipo en la sesión de **prototipado.** Puede uilizar cualquier material pero en caso de tener impresora 3D  los entregables serán el módelo .STL y la impresión 3D.
+
+En la sesión de **conclusiones** se debe de documentar toda la actividad realizada. Recuerda que es con el fin de que se les facilite a los alumnos obtener información para casos próximos.
 
 ## IOT
