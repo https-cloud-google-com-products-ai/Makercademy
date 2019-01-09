@@ -5,7 +5,7 @@ title: Otros
 
 ## Libros      
 * [How to se a breadboad](https://the-eye.eu/public/Books/HumbleBundle/howtouseabreadboard.pdf)
-* [Getting started with micro:bit](https://pdfs.semanticscholar.org/0456/f26969c1d800e817fe681bb8fd825b249c73.pdf)http://www.domwakeling.com/wp-content/uploads/2017/02/Getting-started-with-the-BBC-microbit.pdf)
+* [Getting started with microbit](http://www.domwakeling.com/wp-content/uploads/2017/02/Getting-started-with-the-BBC-microbit.pdf)
 * [Make: FPGAs](http://mirror.thelifeofkenneth.com/lib/electronics_archive/MakeFpgas-DavidRomano.pdf)
 * [The book of inkscape](http://www.carlpetersheim.us/bookshelf/inkscape/Inkscape%20-%20Guide%20to%20a%20Vector%20Drawing%20Program.pdf)
 
