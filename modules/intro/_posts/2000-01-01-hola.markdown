@@ -5,19 +5,27 @@ title: ¿Qué es el movimiento Maker?
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/IsRBgBwLwxw" frameborder="0" allowfullscreen></iframe>
 
-## ¿Qué es MakerCademy?
-
 
 ## El sistema curricular busca desarrollar en el alumno:
 
-* Pensamiento analitico
-* Pensamiento critico
+* Pensamiento analítico
+* Pensamiento crítico
 * Pensamiento deductivo
-* Habilididades de autoaprendizaje
+* Habilidades de autoaprendizaje
 * Habilidades para resolver problemas
 * Comunicar sus ideas, diseños y proyectos
 
-## Básicos
+MakerCademy se divide en tres años, los cuáles son: básico, mecanismos e IoT (Internet de las cosas).
+
+## Básico
+En esta sección se encontrarán temas con los que los alumnos conviven todos los días, problemas que viven diariamente. Se trata de que los alumnos encuentren un problema y la forma de solucionarlo. Va desde el proceso de **análisis,** el decir 'tengo este objeto y mi problema es '...' , basarnos en una lluvia de ideas para pensar en la solución. En la clase **técnica** se planea la solución y la forma en como programar la tarjeta Circuit Playground Express, por ejemplo: 
+
+*Mi problema es el semáforo, creo que los colores de las luces no son los correctos.* Entonces el alumno puede programar la Circuit Playground en MakeCODE para cambiar los colores a los que él cree correctos.
+
+Después se trata de generar un prototipo en la sesión de **prototipado,** basándonos en la forma que tiene la tarjeta, los problemas y las soluciones encontradas. El prototipo puede ser del material que sea, desde cartón hasta utilizar impresión 3D.
+
+Terminamos con la sesión de **conclusiones** en dónde se motiva a los alumnos a que documenten todo su proceso, debído a que en cualquier otro momento pueden basarse en lo que aprendieron en dicha sesión.
+
 
 ## Mecanismos
 
