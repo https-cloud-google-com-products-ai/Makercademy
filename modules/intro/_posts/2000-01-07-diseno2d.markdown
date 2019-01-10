@@ -22,7 +22,7 @@ Los usuarios pueden descargar los diseños abiertos de sillas, mesas, entre otro
 * [SketchChair](http://www.sketchchair.cc/download.php)
 Es una herramienta de código abierto que permite a cualquier persona realizar diseños de una forma fácil. Los muebles se diseñan o modifican usando una sencilla interfaz de dibujo 2D. El programa es multiplataforma (Windows/Linux/OSX) y genera automáticamente una estructura que se puede simular. También genera las secciones de corte para su fabricación.
 
-## Corte laser
+## Corte láser
 
 El corte láser es un proceso frecuentemente utilizado hoy en día para cortar una gran variedad de materiales. La alta precisión, velocidad y versatilidad del láser es la mayor ventaja en el proceso de corte láser.
 
