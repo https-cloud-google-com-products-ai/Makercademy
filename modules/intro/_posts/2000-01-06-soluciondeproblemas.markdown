@@ -1,12 +1,11 @@
 ---
 title: Introducción al prototipado
 ---
-El término prototipado comprende todas las herramientas y técnicas que permiten realizar a los diseñadores de sistemas estas simulaciones
 
 ### ¿Qué es un prototipo?
 
-Es una implementación parcial, pero concreta, del diseño de un
-sistema.
+El término prototipado comprende todas las herramientas y técnicas que permiten realizar a los diseñadores de sistemas estas simulaciones
+Es una implementación parcial, pero concreta, del diseño de un sistema.
 Se realiza con la finalidad de explorar los aspectos interactivos del sistema, incluyendo su usabilidad, accesibilidad y funcionalidad.
 Es una herramienta muy útil para hacer participar activamente al usuario en el desarrollo y poder evaluar el producto desde las primeras fases del desarrollo
 
@@ -26,6 +25,8 @@ Es una herramienta muy útil para hacer participar activamente al usuario en el 
 Los prototipos son fundamentales porque ayudan a conectar a los usuarios con el sistema, aún cuando no esté acabado.
 
 ## Pensar como un programador
+
+[Piensa como un programador](https://arisuchan.jp/%CE%BB/src/1493491363210.pdf)
 
 ## Proceso de prototipado
 
