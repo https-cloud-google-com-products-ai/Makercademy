@@ -1,9 +1,46 @@
 ---
 title: Diseño y fabricación 2D
 ---
-
 ## Programas (vectores y rasterizado)
+
+Las nuevas tecnologías e internet han impulsado una generación de fabricantes y diseñadores, y permiten a casi cualquier persona convertir su idea en un objeto tangible. En la era digital disponemos de muchas alternativas para la difusión y retroalimentación. 
+
+La filosofía Open Source, que revolucionó la industria del software y creó una economía viable, también ha dado paso a un movimiento social muy creativo e integrador en distintas comunidades. Actualmente hay una revolución en el desarrollo de productos, su producción y distribución, debido a Internet. El diseño industrial puede cambiar y convertirse en algo relevante para toda la sociedad si la información está disponible para todo el mundo.
+
+### Software de codigo abierto para el diseño en 2D
+
+* [Paperhouses](http://paperhouses.co/)
+Paperhouses es la primera plataforma open source que lleva el diseño arquitectónico al público en general. Solo hay que elegir una casa y descargar los archivos.
+
+Muchos de los que se dedican al arte y al diseño se resisten a la idea de compartir su trabajo creativo y de forma abierta porque creen que socava su único beneficio: la autoría. La arquitectura es uno de los mayores ejemplos de una comunidad cerrada. El equipo de Paperhouses quiere cambiar esto, que el buen diseño no sea un lujo.
+
+*  [OpenDesk](https://www.opendesk.cc/workspaces/why-choose-opendesk)
+OpenDesk es una plataforma colaborativa de fabricantes y diseñadores internacionales, cuyo objetivo es potenciar el diseño de muebles (sobre todo para espacios de trabajo) y la creación local.
+
+Los usuarios pueden descargar los diseños abiertos de sillas, mesas, entre otros. Y luego llevarlos a un taller con CNC para su posterior ensamblaje. En España hay varios puntos conectados a su red.
+
+* [SketchChair](http://www.sketchchair.cc/download.php)
+Es una herramienta de código abierto que permite a cualquier persona realizar diseños de una forma fácil. Los muebles se diseñan o modifican usando una sencilla interfaz de dibujo 2D. El programa es multiplataforma (Windows/Linux/OSX) y genera automáticamente una estructura que se puede simular. También genera las secciones de corte para su fabricación.
 
 ## Corte laser
 
+El corte láser es un proceso frecuentemente utilizado hoy en día para cortar una gran variedad de materiales. La alta precisión, velocidad y versatilidad del láser es la mayor ventaja en el proceso de corte láser.
+
+El rayo láser impacta la superficie del material y lo calienta con tanta fuerza que se derrite o se vaporiza por completo. Una vez que el rayo láser ha penetrado completamente el material en un punto, comienza el proceso de corte real. El sistema láser sigue la geometría seleccionada y separa el material en el proceso. Dependiendo de la aplicación, el uso de gases de proceso puede influir positivamente en los resultados.
+
+### Software de codigo abierto para diseño de corte láser
+
+* [LaserGRBL](http://lasergrbl.com/en/download/)
+Puede cargar y transmitir la ruta de GCode a arduino, así como grabar imágenes, imágenes y logotipos con una herramienta de conversión interna.
+Está específicamente desarrollada para su uso con el cortador y grabador láser hobbist. Para poder utilizar todas las funciones, su grabador debe ser compatible con la modulación de potencia mediante el comando S.
+
+* [LaserWeb](https://github.com/LaserWeb/LaserWeb4-Binaries/releases)
+
 ## Maquinado CNC
+El mecanizado es un proceso mediante el cual se fabrican mecanizado de piezas con la ayuda de computadoras que controlan las maquinas herramienta. Gracias al Control Numérico por Computadora (CNC) se ha automatizado el proceso de fabricación de las piezas ya que permite utilizar un conjunto de instrucciones para controlar el mecanizado mediante un programa contando con la mínima intervención humana.
+
+* [RHINOCA](https://mecsoft.com/rhinocam-software/)
+Es un plug-in de Mecanizado asistido por computadora (CAM) para CNC que se ejecuta completamente dentro de Rhinoceros 5.0 y 6.0. Este plug-in es un programa de mecanizado de propósito general dirigido al maquinista general. 
+
+* [SICUBE](http://www.si-cube.com/)
+Es un software de corte por laser CAM que genera trayectorias de manera automática para maquinas de oxi corte por laser a partir de un modelo 3D, de manera que se puede programar hasta  5 y 6 ejes simultáneos, y su salida esta dado en códigos ISO.
