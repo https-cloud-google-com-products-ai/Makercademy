@@ -1,11 +1,60 @@
 ---
 title: Diseño y fabricación 3D
 ---
+Los programas de diseño 3D está a la orden del día. Las [impresoras 3D](http://www.makermex.com/shop/category/manufactura-digital-impresoras-3d-1), por ejemplo, pueden ser usadas en las aulas, pero ¿qué programas de diseño podemos utilizar para aprender a modelar en 3D? Estos son los programas que te proponemos.
 
 ## Programas diseño 3D
 
+* [Makerscad](https://makerscad.com/)
+Aprende a modelar en 3D con código para impresión 3D. 
+Realidad virtual, animación y simulaciones fuera de la caja.
+
+* [Blender](https://makerscad.com/https://www.blender.org/download/)
+Es una herramienta profesional pero que puede ser adaptada a todo tipo de niveles. Para la creación de los modelos 3D más sencillos y también de los más avanzados.
+
+* [3D Slash](https://www.3dslash.net/index.php)
+3DSlash es una plataforma web de diseño 3D muy intuitiva y ágil, con posibilidades limitadas frente a otras opciones del mercado pero suficientes para servir como introducción al mundo del 3D.
+
 ## Tecnologias de impresion 3D
+
+Existen tres tecnologías principales a la hora de hablar de impresoras 3D y queremos que las conozcas así como también saber qué tipo de piezas y acabados puedes conseguir con ellas.
+
+La fotopolimerización es el sistema de impresión 3D más antiguo que existe. Básicamente consiste en el endurecimiento selectivo de un fotopolímero líquido en una cubeta mediante diversos métodos.
+
+Los 3 tipos de fotopolimerización más comunes son: SLA (Stereolithography) o Estereolitografía, DLP (Digital Light Processing) o Fotopolimerización por Luz Ultravioleta y Fotopolimerización por absorción de fotones.
+
+Las tecnologías de impresión 3D cuentan con infinidad de aplicaciones dependiendo del sector al que se destinen, en los últimos 10 años se ha popularizado la producción final de piezas mediante estas tecnologías, especialmente mediante el uso de equipos destinados a producción profesional o industrial
 
 ##  FDM
 
+Esta técnica es considerada a menudo el método existente más sencillo. La tecnología de modelado por deposición fundida o FDM se basa en 3 elementos principales: una placa/cama de impresión en la que se imprime la pieza, una bobina de filamento que sirve como material de impresión y una cabeza de extrusión también llamada extrusor. En resumen, el filamento es succionado y fundido por el extrusor de la impresora 3D, que deposita el material de forma precisa capa por capa sobre la cama de impresión.
+
+Todo comienza con el diseño del objeto utilizando algún software. El archivo 3D resultante, en su mayoría en formato .STL, se divide en varias capas utilizando un software denominado “slicer” en el que es posible seleccionar los distintos parámetros de a impresión. Una vez configurado todo, se puede iniciar la impresión.
+
+La impresión 3D comienza cuando la maquina alcanza una temperatura alrededor de los 200°C, necesaria para la fusión del material. Entre los materiales de impresión 3D más populares en la deposición por fusión se encuentran el PLA (ácido poliacético) y el ABS (Acrilonitrilo butadieno estireno).
+
 ## Materiales
+
+* ABS: Tiene una temperatura de impresión de entre 230ºC y 260 °C, y puede soportar temperaturas muy bajas (-20 °C) y muy elevadas (80 °C). Además de su alta resistencia, es un material  reutilizable y puede ser soldado con procesos químicos.
+
+* PLA: Es biodegradable, se fabrica a partir de materias primas renovables, como el almidón de maíz. Es uno de los materiales con los que se puede imprimir más fácilmente, además de que una de sus características es el leve encogimiento luego de la impresión 3D.
+
+* ASA: Conocido como Acrilonitrilo estireno acrilato tiene propiedades similares al ABS, pero con una mayor resistencia a los rayos UV, aunque también  es posible encontrar alguna complicaciones a la hora de imprimir con este material, por lo que es recomendable igualmente tener una plataforma de impresión calefactada.
+
+* PET: Comúnmente visto en las botellas de plástico desechables. Es el filamento ideal para piezas destinadas al contacto alimentario, es semirigido y con una buena resistencia. Para obtener los mejores resultados al imprimir con PET es necesario alcanzar temperaturas de entre 75-90ºC.
+
+* PC o Policarbonato: Es un material de alta resistencia diseñado para aplicaciones de ingeniería. Este material es capaz de soportar altas temperaturas, pudiendo mantenerse sin deformaciones hasta los 150ºC.
+
+* Materiales flexibles: Son muy similares al PLA , pero fabricados de TPE o TPU. La ventaja de estos filamentos es que permiten el desarrollo de objetos deformables, muy utilizado en la industria de la moda como la colección de Danit Peleg.
+
+* Fibras de carbono: Han ido adquiriendo cada vez más popularidad dentro de la industria 3D, más aún al llegar al mercado impresoras 3D como las de Markforged especializadas en estos materiales. El motivo de su gran demanda es su increíble resistencia manteniendo en las piezas fabricadas un peso inferior en comparación con otros materiales.
+
+* Materiales Híbridos: Existen diferentes tipos de materiales que mezclan una base como PLA y que después incluyen polvos que dan un color o acabado diferente a los tradicionales, están compuestos en un 70% de PLA y en un 30% por el material híbrido. Se pueden encontrar en el mercado filamentos a base de madera que contienen polvos de bambú, corcho, madera, etc. 
+
+* Materiales solubles: Pueden ser utilizados igualmente para imprimir soportes de impresión (en función de la complejidad y de la tecnología utilizada para la pieza deseada) que serán disueltos en la etapa siguiente. Los plásticos solubles más utilizados actualmente son el HIPS (Poliestireno de alto impacto) y el PVA (acetato de polivinilo).
+
+* Poliamidas: Los objetos fabricados con poliamidas son generalmente creados a partir de un polvo fino, granuloso y blanco que se utiliza en la tecnología de sinterizado selectivo por láser (SLS), aunque algunas variantes de este material, como el nylon, también se presentan en forma de filamento y se utilizan en las impresoras 3D de material fundido.
+
+* Alumide: Los objetos plásticos de alumide son fabricados a partir de una combinación entre poliamidas y aluminio en polvo, utilizando la tecnología de sinterización selectiva por láser (SLS). Con una gran superficie ligeramente porosa y un aspecto arenoso y granulado, este material ofrece una gran solidez y una alta resistencia a la temperatura (172°C máx.) y a los choques con una cierta flexibilidad. 
+
+* PP o Polipropileno: Es el polipropileno (PP) conocido por su resistencia a la abrasión y a su capacidad de absorber los choques, además de una relativa rigidez y flexibilidad.
