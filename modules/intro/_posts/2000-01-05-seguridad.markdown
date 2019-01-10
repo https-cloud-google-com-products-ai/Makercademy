@@ -29,7 +29,15 @@ title: Seguridad en el taller
 
 
 ## Equipo de Seguridad
+- Lentes de seguridad
+- Botas de casco
+- Guantes
+- Delantal de piel
+
 
 ## Redundancia en procesos seguridad.
+- Nunca está de más la seguridad. De verdad, entre más cuidadoso seas, mejor. 
+- Siempre utiliza tus lentes cuando estés cortando algo, lo que sea.
+- Utiliza zapatos adecuados, en los talleres siempre hay clavos y objetos que pudieran lastimarte.
 
 ## Etiquetado y visibilidad de la información
