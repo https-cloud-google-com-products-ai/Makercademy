@@ -36,10 +36,14 @@ title: Seguridad en el taller
 
 
 ## Redundancia en procesos seguridad.
+
+![MakerCademy]({{site.baseurl}}/img/seg.jpg)
+
 - Nunca está de más la seguridad. De verdad, entre más cuidadoso seas, mejor. 
 - Siempre utiliza tus lentes cuando estés cortando algo, lo que sea.
 - Utiliza zapatos adecuados, en los talleres siempre hay clavos y objetos que pudieran lastimarte.
 
-
 ## Etiquetado y visibilidad de la información
 Cada herramienta lleva una etiqueta en dónde dice el nombre de la máquina, lo que puede hacer y el equipo de seguridad necesario para utilizarla.
+
+![MakerCademy]({{site.baseurl}}/img/VISIBILIDAD.jpg)
