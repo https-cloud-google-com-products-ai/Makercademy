@@ -37,7 +37,3 @@ Un FabCafé es una cafetería que cuenta con área de impresión 3D y cortadora 
 
 ## ¿Cómo funciona?
 Siendo una cafetería normal pero ofreciendo además el servicio de impresión 3D y corte láser.
-
-## ¿Cómo genera dinero?
-Se cobra por horas, en el área de impresión son aproximadamente 34 euros por hora. En el corte láser 25 euros. Agregando el costo de los servicios de cafetería.
-
