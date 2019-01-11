@@ -11,10 +11,10 @@ Es una herramienta muy útil para hacer participar activamente al usuario en el 
 
 ### Técnicas para la construcción de prototipos
 
-* Bocetos ![MakerCademy]({{site.baseurl}}/img/boceto.jpg)
-* Storyboards ![MakerCademy]({{site.baseurl}}/img/story.jpg)
+* Bocetos 
+* Storyboards 
 * Prototipos de papel
-* Maquetas![MakerCademy]({{site.baseurl}}/img/maqueta.jpg)
+* Maquetas
 * Maquetas digitales
 * Storyboards navegacionales
 * Vídeos
