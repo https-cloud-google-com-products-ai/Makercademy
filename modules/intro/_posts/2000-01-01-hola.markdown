@@ -6,36 +6,81 @@ title: ¿Qué es el movimiento Maker?
 <iframe width="560" height="315" src="//www.youtube.com/embed/IsRBgBwLwxw" frameborder="0" allowfullscreen></iframe>
 
 
-## El sistema curricular busca desarrollar en el alumno:
+## Manifiesto Maker
 
-* Pensamiento analítico
-* Pensamiento crítico
-* Pensamiento deductivo
-* Habilidades de autoaprendizaje
-* Habilidades para resolver problemas
-* Comunicar sus ideas, diseños y proyectos
+*H A C E R*
 
-MakerCademy se divide en tres años, los cuáles son: básico, mecanismos e IoT (Internet de las cosas).
-
-## Básico
-En esta sección se encontrarán temas con los que los alumnos conviven todos los días, problemas que viven diariamente. Se trata de que los alumnos encuentren un problema y la forma de solucionarlo. Va desde el proceso de **análisis,** el decir 'tengo este objeto y mi problema es '...' , basarnos en una lluvia de ideas para pensar en la solución. En la clase **técnica** se planea la solución y la forma en como programar la tarjeta Circuit Playground Express, por ejemplo: 
-
-*Mi problema es el semáforo, creo que los colores de las luces no son los correctos.* Entonces el alumno puede programar la Circuit Playground en MakeCODE para cambiar los colores a los que él cree correctos.
-
-Después se trata de generar un prototipo en la sesión de **prototipado,** basándonos en la forma que tiene la tarjeta, los problemas y las soluciones encontradas. El prototipo puede ser del material que sea, desde cartón hasta utilizar impresión 3D.
-
-Terminamos con la sesión de **conclusiones** en dónde se motiva a los alumnos a que documenten todo su proceso, debído a que en cualquier otro momento pueden basarse en lo que aprendieron en dicha sesión.
+Hacer es fundamental para lo que significa ser humano.
+Debemos hacer, crear y expresarnos para sentirnos completos.
+Hay algo único en hacer cosas físicas. Las cosas que hacemos
+son como pequeñas piezas de nosotros y parecen encarnar
+partes de nuestra alma.
 
 
-## Mecanismos
-En esta sección se ven temas de movimiento. Los problemas que los alumnos encuentran en: autos, barcos, aviones. Pero que también pueden encontrar en: dispensadores de comida, sofás, puertas automáticas, etc.
 
-Siguen siendo problemas con los que se conviven día con día pero un poco más complicados. Por ejemplo:
+*C O M P A R T I R*
 
-*Mi problema es el dispensador de comida de mi gato. Necesito que cada 12 horas le de la porción necesaria* Por lo tanto el alumno debe de programar su tarjeta para que mueva el dispositivo que eligió en la sesión **técnica.**
+Hay que compartir lo que se ha hecho y cómose ha hecho.
+Compartir con otros es el método mediante el cual se logra
+la sensación de plenitud de un fabricante.
+No puedes hacer y no compartir.
 
-Después se hará un prototipo en la sesión de **prototipado.** Puede uilizar cualquier material pero en caso de tener impresora 3D  los entregables serán el módelo .STL y la impresión 3D.
 
-En la sesión de **conclusiones** se debe de documentar toda la actividad realizada. Recuerda que es con el fin de que se les facilite a los alumnos obtener información para casos próximos.
 
-## IOT
+*D A R*
+
+Hay pocas cosas más desinteresadas y satisfactorias
+que regalar algo que haz hecho.
+El acto de hacer pone una pequeña parte de ti en ello.
+Dárselo a alguien más es como darle a esa persona un pequeño
+pedazo de ti mismo. Tales cosas son a menudo los artículos
+más preciados que poseemos.
+
+
+
+*A P R E N D E R*
+
+Debes aprender a hacer. Siempre debes buscar aprender más sobre lo que hiciste.
+Siempre hay que buscar aprender, y querer seguir aprendiendo. Ya sean
+nuevas técnicas, materiales o procesos.
+Construir un camino de aprendizaje permanente garantiza una
+vida rica y gratificante y, lo que es más importante, te permite compartir.
+
+
+
+*E Q U Í P A T E*
+
+DebeS tener acceso a las herramientas adecuadas
+para el proyecto en el que trabajas. Invierte y desarrolla
+en ellas para hacer lo que quieres hacer.
+
+
+
+*J U E G A*
+
+Sé juguetón con lo que estás haciendo, y te sorprenderás,
+te emocionarás y te sentirás orgulloso de lo que descubras.
+
+
+
+*P A R T I C I P A*
+
+Únete al movimiento maker y busca a más personas a que lo hagan
+para que juntos descubran la alegría de hacer.
+
+
+
+*A P O Y A*
+
+Este es un movimiento y requiere apoyo.
+Se necesita apoyo emocional, intelectual, financiero,
+político e institucional.
+Somos la mejor esperanza para mejorar el mundo y somos
+responsables de hacer un mejor futuro
+
+
+
+*C A M B I A*
+
+Acepta el cambio. Es inevitable.
+Te convertirás en una versión más completa de ti mientras lo haces.

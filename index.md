@@ -3,20 +3,15 @@ layout: index
 published: true
 ---
 
-### MakerCademy 
+### MakerCademy
 
 ## Educación a prueba del futuro
 
 Impulsa la enseñanza a niños, adolescentes y jóvenes, para aprender diferentes disciplinas solucionar problemas reales de nuestro entorno utilizando tecnología y creatividad.
 
-Qué es MakerCademy?
-Es un sistema educativo STEAM, que promueve el aprendizaje mediante el desarrollo y fabricación de prototipos bajo una metodología abierta que permite la experimentación y formación creativa del estudiante. Se busca que cada estudiante logre resultados diferentes en sus proyectos según su exploración y experimentación iterativa.  
 
--No busca enseñar herramientas, técnicas o teorías sino que busca enseñar a los estudiantes a aprender por sí mismos.
+[Qué es MakerCademy?](https://makermex.github.io/Makercademy/modules/intro/makercademy/)
 
--No desarrolla manuales, ni busca que los estudiantes sigan una serie de pasos. En los alumnos al tener una clase STEAM se desarrollará la experimentación y deducción. Nuestras guías se enfocan en desarrollar el conocimiento empírico.
-
--No promovemos el uso de productos cerrados. Buscamos que los estudiantes experimenten, hagan, desarrollen, jueguen y solucionen con las herramientas y materiales disponibles en su entorno.
 
 ## Visión
 Ser el sistema educativo que desarrolle los futuros inventores, científicos, ingenieros y diseñadores en México.
@@ -39,10 +34,35 @@ Aprender proyectos tangibles para aprender el proceso de fabricación, diseño y
 Aprender fallando
 Aprender fallando y reajustar, rediseñar o reinventar los proyectos desarrollados.
 Aprender descubriendo
-Aprender mediante el momento Eureka, a través de emociones y situaciones.
+Aprender mediante el momento Eureka, a través de emociones y situaciones que fomentan el descubrimiento.
 Aprender deconstruyendo
 Aprender mediante la destrucción de objetos, reciclaje de componentes y aplicaciones.
 Aprender mediante problemas reales
 Aprender mediante situaciones reales en donde la problemática se analiza de forma estratégica para proponer una solución.
 Aprender juntos
 Aprender de hacerlo por ti mismo (DIY) a hacerlo juntos (DIT).
+
+
+
+## MakerCademy se divide en tres años:
+
+## Año 1 Pensando como un programador
+
+Este año busca desarrollar en el los alumnos el pensamiento computacional, el desarrollo de algoritmos y el conocimiento de conceptos de programación.
+
+## Año 2 Haciendo que las cosas se muevan
+Este año busca desarrollar en los alumnos los conceptos basicos de mecánica y diseño de mecanismos entendiendo y replicando maquinas simples.
+
+## Año 3 Conectando y sensando nuestro entorno
+Este año busca desarrollar en los alumnos los conocimientos para sensar su entorno y abstraer datos de este para desarrollar soluciones en base a los datos adquiridos.
+
+
+##Desarrollo de proyectos
+
+Cada proyecto esta dividido en tres tipos de sesiones
+
+- Sesión de analisís
+
+- Sesión de prototipado
+
+- Sesiónd de presentación y retroalimentación
