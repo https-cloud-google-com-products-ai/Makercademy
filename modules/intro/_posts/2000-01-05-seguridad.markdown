@@ -37,7 +37,7 @@ title: Seguridad en el taller
 
 ## Redundancia en procesos seguridad.
 
-![MakerCademy]({{site.baseurl}}/img/seg.jpg)
+![MakerCademy]({{site.baseurl}}/img/seg.jpeg)
 
 - Nunca está de más la seguridad. De verdad, entre más cuidadoso seas, mejor. 
 - Siempre utiliza tus lentes cuando estés cortando algo, lo que sea.
