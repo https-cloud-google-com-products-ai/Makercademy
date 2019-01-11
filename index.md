@@ -13,38 +13,8 @@ Impulsa la enseñanza a niños, adolescentes y jóvenes, para aprender diferente
 [Qué es MakerCademy?](https://makermex.github.io/Makercademy/modules/intro/makercademy/)
 
 
-## Visión
-Ser el sistema educativo que desarrolle los futuros inventores, científicos, ingenieros y diseñadores en México.
 
-## Misión
-Acercar los conocimientos de ciencía, tecnología, ingeniería y matemáticas a los estudiantes de nivel básico y medio superior, mediante una plataforma tecnológica educativa.
-
-## Objetivos
-El sistema curricular busca desarrollar en el alumno:
-Pensamiento analítico
-Pensamiento crítico
-Pensamiento deductivo
-Habilididades de autoaprendizaje
-Habilidades para resolver problemas
-Comunicar sus ideas, diseños y proyectos
-
-## Filosofía y metódologia
-Aprender fabricando
-Aprender proyectos tangibles para aprender el proceso de fabricación, diseño y herramientas.
-Aprender fallando
-Aprender fallando y reajustar, rediseñar o reinventar los proyectos desarrollados.
-Aprender descubriendo
-Aprender mediante el momento Eureka, a través de emociones y situaciones que fomentan el descubrimiento.
-Aprender deconstruyendo
-Aprender mediante la destrucción de objetos, reciclaje de componentes y aplicaciones.
-Aprender mediante problemas reales
-Aprender mediante situaciones reales en donde la problemática se analiza de forma estratégica para proponer una solución.
-Aprender juntos
-Aprender de hacerlo por ti mismo (DIY) a hacerlo juntos (DIT).
-
-
-
-## MakerCademy se divide en tres años:
+## MakerCademy se divide en tres ciclos:
 
 ## Año 1 Pensando como un programador
 
