@@ -3,14 +3,13 @@ title: Proyectos
 ---
 # Proyectos
 
-## Table
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 ### Paginas web para encontrar Proyectos
+
+Sitio | Descripción 
+------------ | -------------
+sitio | Content from cell 2
+Content in the first column | Content in the second column
 
 - [MakerMex](http://www.makermex.com/blog/educacion-maker-3)
 - [Adafruit](https://adafruit.com)
