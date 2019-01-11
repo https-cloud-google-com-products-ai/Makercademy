@@ -2,7 +2,7 @@
 title: Introducción al prototipado
 ---
 
-### ¿Qué es un prototipo?
+## ¿Qué es un prototipo?
 
 El término prototipado comprende todas las herramientas y técnicas que permiten realizar a los diseñadores de sistemas estas simulaciones
 Es una implementación parcial, pero concreta, del diseño de un sistema.
@@ -11,10 +11,10 @@ Es una herramienta muy útil para hacer participar activamente al usuario en el 
 
 ### Técnicas para la construcción de prototipos
 
-* Bocetos
-* Storyboards
+* Bocetos ![MakerCademy]({{site.baseurl}}/img/boceto.jpg)
+* Storyboards ![MakerCademy]({{site.baseurl}}/img/story.jpg)
 * Prototipos de papel
-* Maquetas
+* Maquetas![MakerCademy]({{site.baseurl}}/img/maqueta.jpg)
 * Maquetas digitales
 * Storyboards navegacionales
 * Vídeos
@@ -26,9 +26,11 @@ Los prototipos son fundamentales porque ayudan a conectar a los usuarios con el 
 
 ## Pensar como un programador
 
+![MakerCademy]({{site.baseurl}}/img/think.jpg)
 [Piensa como un programador](https://arisuchan.jp/%CE%BB/src/1493491363210.pdf)
 
-## Proceso de prototipado
+### Proceso de prototipado
+
 Se pueden presentar diversas situaciones:
 * La realización de las necesidades del usuario precisa de análisis en una sesión JAD pero deja los requerimientos incompletos.
 * Hay que construir de un prototipo de baja fidelidad para clarificar los requerimientos iniciales.
@@ -56,7 +58,7 @@ Las actividades de resolución de problemas son una forma estupenda de conocer c
 
 A continuación te proponemos un ingenioso modelo que te hará pensar en el proceso:
 
-### Actividades clásicas de resolución de problemas para fomentar el espíritu de equipo
+#### Actividades clásicas de resolución de problemas para fomentar el espíritu de equipo
  
 1. La torre de espaguetis con nube de azúcar 
 * Objetivo: colaboración
