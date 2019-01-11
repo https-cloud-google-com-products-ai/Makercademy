@@ -38,23 +38,17 @@ Se pueden presentar diversas situaciones:
 
 ### ¿Cuándo se prototipa?
 
-* Antes de comenzar...
-...para mostrar el concepto a la directiva.
+* Antes de comenzar...para mostrar el concepto a la directiva.
 
-* Comenzando...
-...para reunir los requerimientos iniciales de usuario
+* Comenzando...para reunir los requerimientos iniciales de usuario
 
-* Después de empezar...
-...para validar la evolución de los requerimientos de usuario.
+* Después de empezar...para validar la evolución de los requerimientos de usuario.
 
-* En las etapas intermedias...
-...para validar las especificaciones del sistema
+* En las etapas intermedias...para validar las especificaciones del sistema
 
-* Entre las etapas intermedias y finales...
-...para preparar a los usuarios o crear una demostración de marketing
+* Entre las etapas intermedias y finales...para preparar a los usuarios o crear una demostración de marketing
 
-* En las etapas finales...
-...para explorar soluciones a problemas de diseño o usabilidad específicos.
+* En las etapas finales...para explorar soluciones a problemas de diseño o usabilidad específicos.
 
 ## Ejercicio solución de problemas
 
@@ -64,22 +58,23 @@ A continuación te proponemos un ingenioso modelo que te hará pensar en el proc
 
 ### Actividades clásicas de resolución de problemas para fomentar el espíritu de equipo
  
-1. El barco que encoge 
-* Objetivo: adaptabilidad
-* Elementos necesarios: una cuerda, una manta o cinta adhesiva para marcar un espacio sobre el suelo
-* Instrucciones: con la cuerda, dibuja en el suelo una forma dentro de la cual entren todos los participantes. A continuación, reduce paulatinamente el espacio en un periodo de tiempo de entre 10 y 15 minutos. Las personas que se encuentren dentro del espacio tendrán que colaborar para tratar de hallar la solución para que todo el mundo pueda permanecer dentro de los límites que poco a poco se van reduciendo.   
-
-2. La torre de espaguetis con nube de azúcar 
+1. La torre de espaguetis con nube de azúcar 
 * Objetivo: colaboración
 * Elementos necesarios: 20 espaguetis sin cocer, un rollo de cinta adhesiva, aproximadamente un metro de cuerda y una nube de azúcar (para cada equipo). 
 * Instrucciones: el objetivo de este ejercicio es ver qué equipo es el primero en construir la torre más alta (que se pueda sostener sola). Si quieres añadir más emoción, diles a los equipos que la nube debe colocarse en la parte superior de la torre. Este ejercicio de resolución de problemas en equipo ayuda a que los equipos piensen rápidamente mientras refuerzan sus lazos y sus habilidades de liderazgo.  
+
+![MakerCademy]({{site.baseurl}}/img/torres.jpg)
  
-3. Huevo en caída libre 
+2. Huevo en caída libre 
 * Objetivo: colaboración y toma de decisiones
 * Elementos necesarios: una docena de huevos, materiales de construcción básicos (periódicos, pajitas, cinta adhesiva, envolturas de plástico, globos, gomas elásticas, palitos de helado, etc.), tela de lona o paños, y un aparcamiento u otro lugar donde no importe ensuciar un poco.
 * Instrucciones: cada equipo recibirá un huevo y deberá elegir sus materiales de construcción. Da a cada equipo entre 20 y 30 minutos para construir una envoltura para el huevo utilizando los materiales de construcción que lo protegerán para que no se rompa. A continuación, tira el huevo envuelto desde un alto (una mesa alta o desde otra planta) y comprueba si el envoltorio protege al huevo de la caída. Si hay varios huevos que sobreviven, ve aumentando la altura hasta que solo quede un huevo.  
+
+![MakerCademy]({{site.baseurl}}/img/huevo.jpg)
  
-4. Encerrados
+3. Encerrados
 * Objetivo: comunicación y toma de decisiones
 * Elementos necesarios: una oficina
 * Instrucciones: el planteamiento es que el equipo se ha quedado encerrado en la oficina. Las puertas están cerradas, pero no es posible derribarlas ni romper las ventanas. Dale al equipo 30 minutos para que decida qué 10 elementos de la oficina necesitarían para sobrevivir y que los clasifiquen por orden de importancia. El objetivo del juego es llegar a un acuerdo unánime sobre los 10 elementos y su clasificación al final del plazo de 30 minutos.   
+
+![MakerCademy]({{site.baseurl}}/img/encerrados.jpg)
