@@ -32,10 +32,13 @@ Este año busca desarrollar en los alumnos los conocimientos para sensar su ento
 Cada proyecto está dividido en tres tipos de sesiones:
 
 **- Sesión de análisis:**
+
 Aquí el alumno encuentra el problema que él quiere resolver, y lo hace de la manera que cree conveniente.
 
 **- Sesión de prototipado**
+
 Con base en el problema y la solución ya definida, busca la manera en como hacer que su prototipo cubra todas sus expectativas.
 
 **- Sesión de presentación y retroalimentación**
+
 Ya entregado el prototipo se busca retroalimentación de los mismos alumnos, ya que parte de la filosofía de MakerCademy es **aprender juntos.** También se entrega su documentación. Puede ser de la manera que ellos eligan, ya sea video, presentación, fotos, etc.
