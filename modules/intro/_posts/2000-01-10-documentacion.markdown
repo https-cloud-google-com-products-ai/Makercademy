@@ -4,8 +4,7 @@ title: Documentación
 
 ### La importancia de documentar
 
-![MakerCademy](/img/documentación.png)
-
+![MakerCademy]({{site.baseurl}}/img/documentación.png)
 
 ### ¿Qué documentar?
 **¡TODO!** Se trata de documentar y comunicar todos los avances hechos a lo largo del proyecto.
@@ -18,3 +17,4 @@ elegir. Ya sea video, fotos, documentos. De la manera en como ellos puedan
 entenderlo facilmente.
 
 ### Ejemplos
+
