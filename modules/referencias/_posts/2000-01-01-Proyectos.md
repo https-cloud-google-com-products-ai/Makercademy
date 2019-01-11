@@ -2,7 +2,10 @@
 title: Proyectos
 ---
 #Proyectos
-
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 ### Paginas web para encontrar Proyectos
 
 - [MakerMex](http://www.makermex.com/blog/educacion-maker-3)
