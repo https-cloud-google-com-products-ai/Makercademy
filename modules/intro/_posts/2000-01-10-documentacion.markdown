@@ -18,3 +18,5 @@ entenderlo facilmente.
 
 ### Ejemplos
 
+* [MakerCadets - Remote Control Robot](https://www.youtube.com/watch?v=Ee2BMm8B5Jo)
+* [MakerCadets - Cohete de agua](https://www.youtube.com/watch?v=zwTUg1D0f7Y)
