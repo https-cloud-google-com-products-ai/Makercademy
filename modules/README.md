@@ -5,25 +5,5 @@ Inside every module folder, you should create a special folder called `_posts`, 
 An example of the file layout for this course:
 
 ```
-modules/community/_posts/2000-01-01-concepts.markdown
-modules/community/_posts/2000-01-02-projects.markdown
-modules/community/_posts/2000-01-03-resources.markdown
-modules/community/_posts/2000-01-04-tools.markdown
-modules/community/_posts/2000-01-05-reflect.markdown
-modules/start/_posts/2000-01-01-about-this-course.markdown
-modules/learning/_posts/2000-01-01-concepts.markdown
-modules/learning/_posts/2000-01-02-projects.markdown
-modules/learning/_posts/2000-01-03-resources.markdown
-modules/references/_posts/2000-01-01-introduction.markdown
-modules/references/_posts/2000-01-02-github-cheatsheet.markdown
-modules/references/_posts/2000-01-02-markdown-cheatsheet.markdown
-modules/references/_posts/2000-01-03-glossary.markdown
-modules/references/_posts/2000-01-04-course-template.markdown
-modules/references/_posts/2000-01-05-resources.markdown
-modules/feedback/_posts/2000-01-01-concepts.markdown
-modules/feedback/_posts/2000-01-02-projects.markdown
-modules/feedback/_posts/2000-01-03-resources.markdown
-modules/content/_posts/2000-01-01-concepts.markdown
-modules/content/_posts/2000-01-02-projects.markdown
-modules/content/_posts/2000-01-03-resources.markdown
+
 ```
