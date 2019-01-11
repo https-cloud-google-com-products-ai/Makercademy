@@ -2,7 +2,7 @@
 # Makercademy
 ---
 
-![MakerCademy]({{site.baseurl}}/img/nino.jpg)
+![MakerCademy]({{site.baseurl}}/img/nina.jpg)
 
 
 ## ¿Qué es MakerCademy?
