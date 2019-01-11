@@ -3,13 +3,6 @@ title: Proyectos
 ---
 # Proyectos
 
-## Table
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 ### Paginas web para encontrar Proyectos
 
 - [MakerMex](http://www.makermex.com/blog/educacion-maker-3)
@@ -18,13 +11,18 @@ Content in the first column | Content in the second column
 - [Hackaday](https://hackaday.com)
 - [Sparkfun](https://sparkfun.com)
 
-
 ### Guias
 
 ### Tutoriales
 
+
 ### Blogs
 
+
 ### Canales de youtube
+
+- [Proyectatumente](https://www.youtube.com/channel/UCtn__bQnuqeFU-BDqd6cb5Q)
+- [Mr Maker](https://www.youtube.com/channel/UCg8gyknDT6PKomqpHPFYlog)
+- [CoolThings](https://www.youtube.com/channel/UCkaTwKDLAU_4ArYp5G-sd5Q)
 
 ### Libros de proyectos
