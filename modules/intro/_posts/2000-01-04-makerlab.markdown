@@ -8,6 +8,8 @@ Es un espacio físico donde la gente se reúne para compartir recursos y conocim
 
 El makerspace a veces referido como un hackerspace – se asocia a menudo con campos como la ingeniería, ciencias de la computación, y el diseño. El concepto emerge de la [“cultura maker"](https://es.wikipedia.org/wiki/Cultura_Maker), asociado con la revista ["Make"](https://makezine.com/) y las ["Makerfaire"](https://makerfaire.com/) que promueven. 
 
+![MakerCademy]({{site.baseurl}}/ img /23316537_1739568522781000_7706929652306153168_n.jpg)
+
 ## ¿Cómo funciona?
 
 Los Makerspace le deben mucho a la cultura maker que les inspiró, y muchos todavía son lugares principalmente para la experimentación tecnológica, desarrollo de hardware, y el prototipado de ideas. Pero inventores individuales autodirigidos y equipos creativos utilizan cada vez más estos servicios gratuitos o de pago, basados en campos distintos de la ingeniería y la tecnología.
@@ -23,6 +25,8 @@ Se trata de proporcionar acceso a las herramientas, el conocimiento y los medios
 ## ¿Cómo funciona?
 Es un espacio abierto al público, entonces cualquier persona que quiera prototipar su idea es bienvenido.
 Se cobra una cuota de recuperación, y los asistentes pueden hacer uso de las herramientas.
+
+![MakerCademy]({{site.baseurl}}/ img /maker.jpg)
 
 # ¿Qué es un MakerLab?
 
