@@ -21,7 +21,7 @@ title: Seguridad en el taller
 - Devuelve la herramienta antes de que te vayas
 - No te lleves las herramientas del taller
 
-![MakerCademy]({{site.baseurl}}/img/ade.jpg)
+![MakerCademy]({{site.baseurl}}/img/viste.jpg)
 
 ***Aprende y explora***
 - ¡Todos somos makers! Así que cuando puedas comparte tus conocimientos y permite aprender de los demás. No olvides que todos somos pare de una comunidad en la que lo más importante es compartir el conocimiento.
