@@ -28,12 +28,6 @@ Los 3 tipos de fotopolimerización más comunes son: SLA (Stereolithography) o E
 
 Las tecnologías de impresión 3D cuentan con infinidad de aplicaciones dependiendo del sector al que se destinen, en los últimos 10 años se ha popularizado la producción final de piezas mediante estas tecnologías, especialmente mediante el uso de equipos destinados a producción profesional o industrial
 
-##  FDM
-
-Esta técnica es considerada a menudo el método existente más sencillo. La tecnología de modelado por deposición fundida o FDM se basa en 3 elementos principales: una placa/cama de impresión en la que se imprime la pieza, una bobina de filamento que sirve como material de impresión y una cabeza de extrusión también llamada extrusor. En resumen, el filamento es succionado y fundido por el extrusor de la impresora 3D, que deposita el material de forma precisa capa por capa sobre la cama de impresión.
-
-La impresión 3D comienza cuando la maquina alcanza una temperatura alrededor de los 200°C, necesaria para la fusión del material. Entre los materiales de impresión 3D más populares en la deposición por fusión se encuentran el PLA (ácido poliacético) y el ABS (Acrilonitrilo butadieno estireno).
-
 ## Materiales
 
 * ABS: Tiene una temperatura de impresión de entre 230ºC y 260 °C, y puede soportar temperaturas muy bajas (-20 °C) y muy elevadas (80 °C). Además de su alta resistencia, es un material  reutilizable y puede ser soldado con procesos químicos.
