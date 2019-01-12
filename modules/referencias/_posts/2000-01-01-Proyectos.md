@@ -2,6 +2,8 @@
 title: Proyectos
 ---
 # Proyectos
+|columna 1| 
+
 
 ### Paginas web para encontrar Proyectos
 
@@ -15,10 +17,11 @@ title: Proyectos
 
 ### Tutoriales
 
-
 ### Blogs
 
-
+- [Pinterest](https://www.pinterest.com.mx/)
+- [Electronicasi](http://www.electronicasi.com/)
+- [Proyectos electrónicos](http://proyectoselectronics.blogspot.com/)
 ### Canales de youtube
 
 - [Proyectatumente](https://www.youtube.com/channel/UCtn__bQnuqeFU-BDqd6cb5Q)
