@@ -71,4 +71,4 @@ Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que t�
 
 
 
-<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"fa-weixin"></i> ¡Dinos tus dudas!</a>
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"></i> ¡Dinos tus dudas!</a>
