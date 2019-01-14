@@ -5,8 +5,8 @@ title: Raspberry Pi
 
 ## Libros      
 * [Make: Jump starting the raspberry pi zero w](https://the-eye.eu/public/Books/HumbleBundle/jumpstartingtheraspberrypizerow.pdf)
-* Make a raspberry pi controlled robot
-* Make getting started with raspberry pi 3rd edition
+* [Proyectos con Raspberry Pi](http://electronicaytelecomunicaciones-jc.blogspot.com/2016/02/raspberry-pi-projects.html)
+* [Raspberry Pi, guía de usuario](http://electronicaytelecomunicaciones-jc.blogspot.com/2016/08/raspberry-pi-guia-de-usuario.html)
 
 ## Videos ejemplo
 * [Top 10 Proyectos con Raspberry Pi](https://www.youtube.com/watch?v=t38BDEoDwnY)
