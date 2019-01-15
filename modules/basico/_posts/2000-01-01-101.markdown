@@ -6,8 +6,7 @@ title: Proyecto 001 Semáforo
 
 Esta lección introduce al alumno a utilizar el método de solución de problemas con objetos cercanos a la vida diaria como primer acercamiento, en donde definen, preparan, iteran y reflexionan en un tema de la vida cotidiana como la educación vial. La lección da inicio preguntando a los alumnos acerca de los semáforos, ¿qué hacen? ¿cómo funciona? ¿tienen algún problema? ¿ćomo se puede mejorar el diseño o funcionalidad? ¿Has pensado alguna necesidad que se puede resolver que involucre alguna capacidad diferente? ¿cuánto tiempo debe de durar cada color? ¿por qué esos colores? ¿Tiene que tener algún tiempo establecido? ¿hay estandarizaciones que deban de ser aplicadas? Es importante hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores.
 
-![MakerCademy](/img/giphy.gif)
-
+![MakerCademy](https://media.giphy.com/media/dYnpeJQXUUct2U8BAh/giphy.gif?access_token=be806810-44bc-49aa-b092-942d156ae3e0)
 
 ## Propósito
 Los alumnos aplicarán los conocimientos técnicos en los colores aplicados, el tiempo establecido, etc. para proponer o diseñar una solución  o mejora que ayude a resolver el problema encontrado. El proyecto busca sensibilizar a los alumnos en el uso de los semáforos, que beneficie a diferentes sectores de manera directa desde los peatones y los conductores,  y de manera indirecta a otras áreas como ambiental y social. Encontrar una solución o una mejora es el centro de este proyecto.
@@ -72,4 +71,4 @@ Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que t�
 
 
 
-<a class="btn btn-primary" target="_blank" href="http://community.p2pu.org/category/tech"><i class="fa fa-weixin"></i> ¡Dinos tus dudas!</a>
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"> ¡Dinos tus dudas!</a>

@@ -4,8 +4,7 @@ title: Documentación
 
 ### La importancia de documentar
 
-![MakerCademy](/img/documentación.png)
-
+![MakerCademy]({{site.baseurl}}/img/documentación.png)
 
 ### ¿Qué documentar?
 **¡TODO!** Se trata de documentar y comunicar todos los avances hechos a lo largo del proyecto.
@@ -18,3 +17,8 @@ elegir. Ya sea video, fotos, documentos. De la manera en como ellos puedan
 entenderlo facilmente.
 
 ### Ejemplos
+
+<iframe width = "560" height = "315" src = "https://www.youtube.com/watch?v=8OdeeDrPgCA" frameborder = "0" allowfullscreen> </iframe>
+
+* [MakerCadets - Remote Control Robot](https://www.youtube.com/watch?v=Ee2BMm8B5Jo)
+* [MakerCadets - Cohete de agua](https://www.youtube.com/watch?v=zwTUg1D0f7Y)

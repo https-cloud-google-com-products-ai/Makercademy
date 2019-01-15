@@ -8,6 +8,8 @@ Es un espacio físico donde la gente se reúne para compartir recursos y conocim
 
 El makerspace a veces referido como un hackerspace – se asocia a menudo con campos como la ingeniería, ciencias de la computación, y el diseño. El concepto emerge de la [“cultura maker"](https://es.wikipedia.org/wiki/Cultura_Maker), asociado con la revista ["Make"](https://makezine.com/) y las ["Makerfaire"](https://makerfaire.com/) que promueven. 
 
+![MakerCademy]({{site.baseurl}}/img/maker.jpg)
+
 ## ¿Cómo funciona?
 
 Los Makerspace le deben mucho a la cultura maker que les inspiró, y muchos todavía son lugares principalmente para la experimentación tecnológica, desarrollo de hardware, y el prototipado de ideas. Pero inventores individuales autodirigidos y equipos creativos utilizan cada vez más estos servicios gratuitos o de pago, basados en campos distintos de la ingeniería y la tecnología.
@@ -24,6 +26,8 @@ Se trata de proporcionar acceso a las herramientas, el conocimiento y los medios
 Es un espacio abierto al público, entonces cualquier persona que quiera prototipar su idea es bienvenido.
 Se cobra una cuota de recuperación, y los asistentes pueden hacer uso de las herramientas.
 
+![MakerCademy]({{site.baseurl}}/img/makerl.jpg)
+
 # ¿Qué es un MakerLab?
 
 Es un espacio donde puedes encontrar las herramientas, maquinaria y comunidad para crear, desarrollar e inventar proyectos y productos; un lugar de aprendizaje para ser más competitivo en las nuevas tecnologías y todo lo necesario para materializar tus ideas. Aquí puedes aprender, compartir conocimientos y experiencias con otras personas. Es una comunidad de inventores, innovadores y desarrolladores.
@@ -33,7 +37,3 @@ Un FabCafé es una cafetería que cuenta con área de impresión 3D y cortadora 
 
 ## ¿Cómo funciona?
 Siendo una cafetería normal pero ofreciendo además el servicio de impresión 3D y corte láser.
-
-## ¿Cómo genera dinero?
-Se cobra por horas, en el área de impresión son aproximadamente 34 euros por hora. En el corte láser 25 euros. Agregando el costo de los servicios de cafetería.
-

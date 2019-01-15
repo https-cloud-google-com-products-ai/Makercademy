@@ -56,3 +56,4 @@ Los alumnos deberán de responder las siguientes preguntas con base en su protot
 - ¿Tu prototipo cumple con el objetivo? 
 Entregable: Al finalizar la clase tienen que entregar su primer prototipo funcional.
 
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"></i> ¡Dinos tus dudas!</a>

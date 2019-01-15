@@ -1,16 +1,14 @@
 ---
 title: Impresión 3D
 ---
-# BIBLIOGRAFÍA DE PYTHON
+# SOFTWARE PARA IMPRESIÓN 3D
 
-## Libros      
-* Python crash course updated
-* [Python playground geeky projects for the curious programmer](https://the-eye.eu/public/Books/qt.vidyagam.es/library/Programming/Python/Python%20Playground_%20Geeky%20Projects%20for%20the%20Curious%20Programmer/Python%20Playground_%20Geeky%20Projects%20for%20the%20Curious%20Programmer%20-%20Mahesh%20Venkitachalam.pdf)
-* Automate the boring stuff with python new
-* [Doing math with python](https://the-eye.eu/public/Books/HumbleBundle/doingmathwithpython.pdf)
-* [Python for kids](https://doc.lagout.org/programmation/python/Python%20for%20Kids_%20A%20Playful%20Introduction%20to%20Programming%20[Briggs%202012-12-22].pdf)
+* [Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
 
 ## Videos ejemplo
-* [Introducción al Lenguaje de Programación Python](https://www.youtube.com/watch?v=CjmzDHMHxwU)
-* [Sintaxis Básica de Python](https://www.youtube.com/watch?v=yppT6GPZMyo)
-* [Tipos, operadores y variables](https://www.youtube.com/watch?v=u4I9PqhqCo8&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=4)
+* [Como imprimir en 3D](https://www.youtube.com/watch?v=rWkzor3ZYTA)
+* [Como usar CURA](https://www.youtube.com/watch?v=1y9YhHwjXYk)
+* [Configurar parámetros y crear perfiles](https://www.youtube.com/watch?v=TYB1uC7Y26o)
+
+## Libros
+* [Manual de referencias](https://www.zonamaker.com/impresion-3d/software-imp3d/manual-de-cura)

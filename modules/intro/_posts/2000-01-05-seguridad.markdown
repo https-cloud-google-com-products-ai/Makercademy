@@ -21,6 +21,8 @@ title: Seguridad en el taller
 - Devuelve la herramienta antes de que te vayas
 - No te lleves las herramientas del taller
 
+![MakerCademy]({{site.baseurl}}/img/segu.jpg)
+
 ***Aprende y explora***
 - ¡Todos somos makers! Así que cuando puedas comparte tus conocimientos y permite aprender de los demás. No olvides que todos somos pare de una comunidad en la que lo más importante es compartir el conocimiento.
 
@@ -36,10 +38,14 @@ title: Seguridad en el taller
 
 
 ## Redundancia en procesos seguridad.
+
+![MakerCademy]({{site.baseurl}}/img/seg.jpeg)
+
 - Nunca está de más la seguridad. De verdad, entre más cuidadoso seas, mejor. 
 - Siempre utiliza tus lentes cuando estés cortando algo, lo que sea.
 - Utiliza zapatos adecuados, en los talleres siempre hay clavos y objetos que pudieran lastimarte.
 
-
 ## Etiquetado y visibilidad de la información
 Cada herramienta lleva una etiqueta en dónde dice el nombre de la máquina, lo que puede hacer y el equipo de seguridad necesario para utilizarla.
+
+![MakerCademy]({{site.baseurl}}/img/VISIBILIDAD.jpg)
