@@ -1,6 +1,8 @@
 ---
 title: Diseño y fabricación 3D
 ---
+## Diseño y fabricación 3D
+
 Los programas de diseño 3D está a la orden del día. Las [impresoras 3D](http://www.makermex.com/shop/category/manufactura-digital-impresoras-3d-1), por ejemplo, pueden ser usadas en las aulas, pero ¿qué programas de diseño podemos utilizar para aprender a modelar en 3D? Estos son los programas que te proponemos.
 
 ## Programas diseño 3D
@@ -9,12 +11,12 @@ Los programas de diseño 3D está a la orden del día. Las [impresoras 3D](http:
 Aprende a modelar en 3D con código para impresión 3D. 
 Realidad virtual, animación y simulaciones fuera de la caja.
 
-** [Manual de referencia de MakersCAD](https://makerscad-docs.readthedocs.io/en/latest/)
+**[Manual de referencia de MakersCAD](https://makerscad-docs.readthedocs.io/en/latest/)**
 
 * [Blender](https://www.blender.org/download/)
 Es una herramienta profesional pero que puede ser adaptada a todo tipo de niveles. Para la creación de los modelos 3D más sencillos y también de los más avanzados.
 
-** [Manual de referencia de Blender](https://docs.blender.org/manual/es/dev/)
+**[Manual de referencia de Blender](https://docs.blender.org/manual/es/dev/)**
 
 ## Tecnologias de impresion 3D
 
@@ -30,16 +32,16 @@ Las tecnologías de impresión 3D cuentan con infinidad de aplicaciones dependie
 
 ## Materiales
 
-* ABS: Tiene una temperatura de impresión de entre 230ºC y 260 °C, y puede soportar temperaturas muy bajas (-20 °C) y muy elevadas (80 °C). Además de su alta resistencia, es un material  reutilizable y puede ser soldado con procesos químicos.
+* **ABS:** Tiene una temperatura de impresión de entre 230ºC y 260 °C, y puede soportar temperaturas muy bajas (-20 °C) y muy elevadas (80 °C). Además de su alta resistencia, es un material  reutilizable y puede ser soldado con procesos químicos.
 
-* PLA: Es biodegradable, se fabrica a partir de materias primas renovables, como el almidón de maíz. Es uno de los materiales con los que se puede imprimir más fácilmente, además de que una de sus características es el leve encogimiento luego de la impresión 3D.
+* **PLA:** Es biodegradable, se fabrica a partir de materias primas renovables, como el almidón de maíz. Es uno de los materiales con los que se puede imprimir más fácilmente, además de que una de sus características es el leve encogimiento luego de la impresión 3D.
 
-* ASA: Conocido como Acrilonitrilo estireno acrilato tiene propiedades similares al ABS, pero con una mayor resistencia a los rayos UV, aunque también  es posible encontrar alguna complicaciones a la hora de imprimir con este material, por lo que es recomendable igualmente tener una plataforma de impresión calefactada.
+* **ASA:** Conocido como Acrilonitrilo estireno acrilato tiene propiedades similares al ABS, pero con una mayor resistencia a los rayos UV, aunque también  es posible encontrar alguna complicaciones a la hora de imprimir con este material, por lo que es recomendable igualmente tener una plataforma de impresión calefactada.
 
-* PET: Comúnmente visto en las botellas de plástico desechables. Es el filamento ideal para piezas destinadas al contacto alimentario, es semirigido y con una buena resistencia. Para obtener los mejores resultados al imprimir con PET es necesario alcanzar temperaturas de entre 75-90ºC.
+* **PET:** Comúnmente visto en las botellas de plástico desechables. Es el filamento ideal para piezas destinadas al contacto alimentario, es semirigido y con una buena resistencia. Para obtener los mejores resultados al imprimir con PET es necesario alcanzar temperaturas de entre 75-90ºC.
 
-* Policarbonato: Es un material de alta resistencia diseñado para aplicaciones de ingeniería. Este material es capaz de soportar altas temperaturas, pudiendo mantenerse sin deformaciones hasta los 150ºC.
+* **Policarbonato:** Es un material de alta resistencia diseñado para aplicaciones de ingeniería. Este material es capaz de soportar altas temperaturas, pudiendo mantenerse sin deformaciones hasta los 150ºC.
 
-* Materiales flexibles: Son muy similares al PLA , pero fabricados de TPE o TPU. La ventaja de estos filamentos es que permiten el desarrollo de objetos deformables, muy utilizado en la industria de la moda como la colección de Danit Peleg.
+* **Materiales flexibles:** Son muy similares al PLA , pero fabricados de TPE o TPU. La ventaja de estos filamentos es que permiten el desarrollo de objetos deformables, muy utilizado en la industria de la moda como la colección de Danit Peleg.
 
 ![MakerCademy]({{site.baseurl}}/img/mate.jpg)
