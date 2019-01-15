@@ -10,4 +10,5 @@ title: Impresión 3D
 * [Como usar CURA](https://www.youtube.com/watch?v=1y9YhHwjXYk)
 * [Configurar parámetros y crear perfiles](https://www.youtube.com/watch?v=TYB1uC7Y26o)
 
-
+## Libros
+* [Manual de referencias](https://www.zonamaker.com/impresion-3d/software-imp3d/manual-de-cura)
