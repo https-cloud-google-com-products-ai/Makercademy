@@ -69,7 +69,7 @@ Con base en su prototipo se deberán de responder las siguientes preguntas:
 Recuerda que es muy importante documentar. Como parte de la filosofía de MakerCademy este es un punto clave. 
 Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que tú como maestro revises que se hicieron todos los pasos con respecto a su conclusión final.
 
-## Video ejemplo
+## Proyecto ejemplo
 <iframe width = "560" height = "315" src = "// www.youtube.com/watch?v=l0JH4HzO2IU " frameborder = "0" allowfullscreen> </iframe> 
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"> ¡Dinos tus dudas!</a>
