@@ -74,4 +74,4 @@ Aquí se guía al alumno a la documentación y conclusiones para expresar todo l
 
 **Recuerda** que los alumnos son libres de elegir la forma de documentación a entregar.
 
-<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"></i> ¡Dinos tus dudas!</a>
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
