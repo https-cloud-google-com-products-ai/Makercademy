@@ -35,8 +35,8 @@ Presenta a los alumnos las primeras imágenes de cómo funciona un diagrama de f
 Platica también sobre los diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?
 
 **Ejemplo** 
-¿Qué pasos tienes que hacer para cambiar una llana? Para cambiar una llanta comúnmente son los siguientes pasos (teniendo toda la herramienta):
-1. Alfojar birlos 
+¿Qué pasos tienes que hacer para cambiar una llanta? Para cambiar una llanta comúnmente son los siguientes pasos (teniendo toda la herramienta):
+1. Aflojar birlos 
 2. Colocar el gato hidráulico 
 3. Subir el carro 
 4. Quitar los birlos 
