@@ -110,4 +110,4 @@ Recordatorio: Los alumnos deben entregar en un folder (como ejemplo), esto con e
 No olvides que la documentación es parte esencial de la filosofía de MakerCademy
 
 
-<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"></i> ¡Dinos tus dudas!</a>
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
