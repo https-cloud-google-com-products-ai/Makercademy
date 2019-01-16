@@ -23,6 +23,7 @@ title: Proyectos
 - [Electronicasi](http://www.electronicasi.com/)
 - [Proyectos electrónicos](http://proyectoselectronics.blogspot.com/)
 - [Electrónica y telecomunicaciones](http://electronicaytelecomunicaciones-jc.blogspot.com/2017/08/proyectos-electronicos-pdf.html)
+- [Hackster.io](https://www.hackster.io/)
 
 ### Canales de youtube
 
