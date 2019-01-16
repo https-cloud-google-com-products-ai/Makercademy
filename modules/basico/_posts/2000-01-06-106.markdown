@@ -79,4 +79,4 @@ Recuerda a los alumnos que deben presentar su proyecto en durante la clase.
 # Conclusión
 Aquí es la parte en dónde los alumnos deciden como documentar su proyecto. Recuerda que ellos tienen la libertad de hacerlo.
 
-<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"></i> ¡Dinos tus dudas!</a>
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
