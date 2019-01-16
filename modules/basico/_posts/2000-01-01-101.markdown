@@ -71,6 +71,8 @@ Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que tÃ
 
 ## Proyecto ejemplo
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=l0JH4HzO2IU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=Za_h1resks0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/IsRBgBwLwxw" frameborder="0" allowfullscreen></iframe>
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"> Â¡Dinos tus dudas!</a>
