@@ -29,7 +29,7 @@ Pregunta a los alumnos acerca de los semáforos, ¿qué hacen? ¿cómo funciona?
 
 **Actividad** Platíca con los alumnos acerca de los algoritmos, diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?
 
-## Sesión técnia
+## Sesión técnica
 Presenta a los alumnos las primeras imágenes de cómo funciona un diagrama de flujo de un algoritmo.
 ¿Qué es un Algoritmo? Un Algoritmo son series de pasos que una computadora o incluso nosotros seguimos realizar una tarea o alcanzar un objetivo.
 Platica también sobre los diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?
