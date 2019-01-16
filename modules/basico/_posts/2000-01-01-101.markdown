@@ -73,9 +73,4 @@ Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que tÃ
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/l0JH4HzO2IU" frameborder="0" allowfullscreen></iframe>
 
-![MakerCademy]({{site.baseurl}}/img/ani_banner.mp4)
-
-<p><a href="https://learn.adafruit.com/circuit-playground-bike-light/overview"><img src="/img/ani_banner.mp4" /></a></p>
-
-
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"> Â¡Dinos tus dudas!</a>
