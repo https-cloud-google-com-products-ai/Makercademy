@@ -61,6 +61,10 @@ No olvides que los prototipos deben de responder las siguientes preguntas:
 No olvides que parte de la filosofía de MakerCademy es llevar el registro de las actividades que se hicieron y como se hicieron. Los alumnos tienen la libertad de documentar su proyecto del modo en como ellos deseén 
 Los alumnos deberán de entregar una presentación (por ejemplo) con todo el proceso hecho de su proyecto.
 
+## Proyecto ejemplo
+
+<iframe width = "560" height = "315" src = "//https://www.youtube.com/watch?v=sBJnkPywAMw&feature=youtu.be " frameborder = "0" allowfullscreen> </iframe>
+
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"></i> ¡Dinos tus dudas!</a>
 `
