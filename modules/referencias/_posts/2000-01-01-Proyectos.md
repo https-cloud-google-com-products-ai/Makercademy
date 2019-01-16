@@ -1,7 +1,16 @@
 ---
 title: Proyectos
 ---
-# Proyectos
+## Proyectos
+
+- [Arbol navideño](https://www.youtube.com/watch?v=9Ey22pLd3n8)
+- [Piano capacitivo](https://www.youtube.com/watch?v=tE_-8evzGoI)
+- [Instrumento musical](https://www.youtube.com/watch?v=WNB-ImD3eZ4)
+- [Robot de silvido](https://www.youtube.com/watch?v=Z5jgWYZvavE)
+- [Sensor de desastres naturales](https://www.youtube.com/watch?v=QJrkLUsTELQ9)
+- [Yoyo con neopixels](https://www.youtube.com/watch?v=CDZkRf4xXTg)
+- [Oejas de conejo](https://www.youtube.com/watch?v=-e9c_cxSAGQ)
+- [Sensor de luz](https://www.youtube.com/watch?v=k4LbZrmseO4)
 
 ### Paginas web para encontrar Proyectos
 
@@ -34,14 +43,3 @@ title: Proyectos
 ### Libros de proyectos
 - [Python for kids](https://jasonrbriggs.com/python-for-kids/)
 - [Teach your kids to code](http://teachyourkidstocode.com/)
-
-## Glosario de proyectos
-- [Arbol navideño](https://www.youtube.com/watch?v=9Ey22pLd3n8)
-- [Piano capacitivo](https://www.youtube.com/watch?v=tE_-8evzGoI)
-- [Instrumento musical](https://www.youtube.com/watch?v=WNB-ImD3eZ4)
-- [Robot de silvido](https://www.youtube.com/watch?v=Z5jgWYZvavE)
-- [Sensor de desastres naturales](https://www.youtube.com/watch?v=QJrkLUsTELQ9)
-- [Yoyo con neopixels](https://www.youtube.com/watch?v=CDZkRf4xXTg)
-- [Oejas de conejo](https://www.youtube.com/watch?v=-e9c_cxSAGQ)
-- [Sensor de luz](https://www.youtube.com/watch?v=k4LbZrmseO4)
-
