@@ -9,4 +9,4 @@ Recuerda que debe de ser un problema básico el cuál pueda tener una solución 
 
 La solución debe de tener programación en la tarjeta Circuit Playground Express, una sección de análisis, definición del problema y de la solución. Sesión técnica, de prototipado y además la conclusión. 
 
-<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"></i> ¡Dinos tus dudas!</a>
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
