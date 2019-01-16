@@ -9,7 +9,7 @@ title: Proyectos
 - [Robot de silvido](https://www.youtube.com/watch?v=Z5jgWYZvavE)
 - [Sensor de desastres naturales](https://www.youtube.com/watch?v=QJrkLUsTELQ9)
 - [Yoyo con neopixels](https://www.youtube.com/watch?v=CDZkRf4xXTg)
-- [Orejas de conejo](https://www.youtube.com/watch?v=-e9c_cxSAGQ)r
+- [Orejas de conejo](https://www.youtube.com/watch?v=-e9c_cxSAGQ)
 - [Sensor de luz](https://www.youtube.com/watch?v=k4LbZrmseO4)
 
 ### Paginas web para encontrar Proyectos
