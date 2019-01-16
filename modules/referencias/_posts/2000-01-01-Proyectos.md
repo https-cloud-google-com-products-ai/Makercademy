@@ -32,5 +32,5 @@ title: Proyectos
 - [CoolThings](https://www.youtube.com/channel/UCkaTwKDLAU_4ArYp5G-sd5Q)
 
 ### Libros de proyectos
-- [Python for kids](https://doc.lagout.org/programmation/python/Python%20for%20Kids_%20A%20Playful%20Introduction%20to%20Programming%20[Briggs%202012-12-22].pdf)
+- [Python for kids](https://jasonrbriggs.com/python-for-kids/)
 - [Teach your kids to code](http://teachyourkidstocode.com/)
