@@ -74,7 +74,6 @@ Los alumnos deberán de entregar una presentación (por ejemplo) con todo el pro
 
 <p><a href="https://learn.adafruit.com/circuit-playground-makecode-spinner-game"><img src="/img/ruleta.jpg" /></a></p>
 
-<p><a href="https://learn.adafruit.com/circuit-playground-bike-light/overview"><img src="/img/banner_circuit.jpg" /></a></p>
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
 `
