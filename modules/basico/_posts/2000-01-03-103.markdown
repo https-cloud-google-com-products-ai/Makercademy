@@ -68,7 +68,11 @@ Los alumnos deberán de entregar una presentación (por ejemplo) con todo el pro
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/TNXGH4tGOOI&t=221s" frameborder="0" allowfullscreen></iframe>
 
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/jKUf5wBq2Xk" frameborder="0" allowfullscreen></iframe>
+
+
+<p><a href="https://learn.adafruit.com/circuit-playground-makecode-spinner-game"><img src="/img/ruleta.jpg" /></a></p>
 
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
