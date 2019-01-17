@@ -63,7 +63,13 @@ Los alumnos deberán de entregar una presentación (por ejemplo) con todo el pro
 
 ## Proyecto ejemplo
 
-<iframe width = "560" height = "315" src = "// www.youtube.com/embed/v=sBJnkPywAMw&feature=youtu.be" frameborder = "0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/wy8igdGP5UM" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/TNXGH4tGOOI&t=221s" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/jKUf5wBq2Xk" frameborder="0" allowfullscreen></iframe>
+
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
 `
