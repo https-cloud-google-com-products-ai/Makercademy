@@ -109,5 +109,14 @@ Pregunta a los alumnos acerca de documentar ¿qué se necesita?¿qué tengo que 
 Recordatorio: Los alumnos deben entregar en un folder (como ejemplo), esto con el fin de que tu como maestro revises que se hicieron todos los paso con respecto a su conclusión final. Pueden entregar del modo en como ellos crean conveniente (folder, presentación, etc)
 No olvides que la documentación es parte esencial de la filosofía de MakerCademy
 
+## Proyectos ejemplo:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/JFSegDhs46E&t=283s" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/bm-jBX-C_Ls" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/uJ0QkP3bIfo" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/4nSiL0u01_Q" frameborder="0" allowfullscreen></iframe>
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
