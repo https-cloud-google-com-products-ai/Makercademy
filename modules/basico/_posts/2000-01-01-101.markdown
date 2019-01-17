@@ -62,7 +62,6 @@ Con base en su prototipo se deberán de responder las siguientes preguntas:
 - ¿Qué puntos no incluiste en este primer prototipo? 
 - ¿Tu prototipo cumple con el objetivo? 
 
-
 **Entregable:** Al finalizar la clase tienen que entregar su prototipo funcional.
 
 ## Conclusión
