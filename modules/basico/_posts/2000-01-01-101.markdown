@@ -66,6 +66,7 @@ Con base en su prototipo se deberán de responder las siguientes preguntas:
 **Entregable:** Al finalizar la clase tienen que entregar su prototipo funcional.
 
 ## Conclusión
+
 Recuerda que es muy importante documentar. Como parte de la filosofía de MakerCademy este es un punto clave. 
 Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que tú como maestro revises que se hicieron todos los pasos con respecto a su conclusión final.
 
