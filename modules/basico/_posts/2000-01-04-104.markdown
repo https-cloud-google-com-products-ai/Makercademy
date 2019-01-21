@@ -5,6 +5,7 @@ title: Proyecto 004 Sistema de seguridad
 # Sistema de seguridad con Circuit Playground Express
 La lección guía al alumno a utilizar el método de solución de problemas inicia la lección preguntando, utilizando una técnica grupal, la cual ayuda a impulsar la creatividad de los alumnos, llamada “Qué tal sí”. Después realizamos la misma técnica de creatividad pero ahora con el tema de seguridad, hablando de su función, componentes y de cómo ayuda en la vida de las personas. Es importante que los alumnos tengan la posibilidad de externar sus ideas para que motive su creatividad aún más.
 
+
 ## Propósito
 Los alumnos aplican conocimientos de solución de problemas mediante diferentes técnicas para proponer una solución o mejora que ayuda a resolver un problema establecido. El proyecto debe sensibilizar a los alumnos en el uso y aplicaciones de la tecnología en cuestiones de seguridad. Proponer algo que solucione o mejore la problemática establecida es el centro de esta sesión
 
