@@ -11,6 +11,7 @@ title: Proyectos
 - [Yoyo con neopixels](https://www.youtube.com/watch?v=CDZkRf4xXTg)
 - [Orejas de conejo](https://www.youtube.com/watch?v=-e9c_cxSAGQ)
 - [Sensor de luz](https://www.youtube.com/watch?v=k4LbZrmseO4)
+- [Grua de cartón](https://www.youtube.com/watch?v=d88VJP7LGy0)
 
 ### Paginas web para encontrar Proyectos
 
@@ -24,7 +25,7 @@ title: Proyectos
 
 - [Ventilador casero](https://blog.flexbot.es/ventilador-casero/)
 - [LEDs ritmicos](https://proyectoselectronicos.garralatino.com/leds-ritmicos-microfono/)
-- [Grua de cartón](https://www.youtube.com/watch?v=d88VJP7LGy0)
+
 
 ### Blogs
 
