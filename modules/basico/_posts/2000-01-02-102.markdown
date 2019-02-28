@@ -111,8 +111,6 @@ No olvides que la documentación es parte esencial de la filosofía de MakerCade
 
 ## Proyectos ejemplo:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/JFSegDhs46E&t=283s" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="//www.youtube.com/embed/bm-jBX-C_Ls" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/uJ0QkP3bIfo" frameborder="0" allowfullscreen></iframe>
