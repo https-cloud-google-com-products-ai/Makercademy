@@ -71,6 +71,7 @@ Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que t√
 
 ## Referencias 
 * [Conociendo circuit playground express](https://www.youtube.com/watch?v=i4Bijnff0Ko)
+* [Introducci√≥n a MakeCode](https://www.youtube.com/watch?v=i_KmaQWsUHw&t=600s)
 * [Primeros pasos con Circuit Playground Express](https://www.instructables.com/id/KIt-Arte-Y-Ciencia-Primeros-Pasos/)
 * [Conociendo Circuit Playground Express](https://www.youtube.com/watch?v=wEpr75JhGFs)
 * [Programando con Circuit Python](https://www.youtube.com/watch?v=tnrZxJpQUMQ)
