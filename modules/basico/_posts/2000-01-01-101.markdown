@@ -71,12 +71,10 @@ Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que t√
 
 ## Referencias 
 * [Conociendo circuit playground express](https://www.youtube.com/watch?v=i4Bijnff0Ko)
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/l0JH4HzO2IU" frameborder="0" allowfullscreen></iframe>
-
-<p><a href="https://learn.adafruit.com/circuit-playground-bike-light/overview"><img src="/img/banner_circuit.jpg" /></a></p>
-
-
+* [Primeros pasos con Circuit Playground Express](https://www.instructables.com/id/KIt-Arte-Y-Ciencia-Primeros-Pasos/)
+* [Conociendo Circuit Playground Express](https://www.youtube.com/watch?v=wEpr75JhGFs)
+* [Programando con Circuit Python](https://www.youtube.com/watch?v=tnrZxJpQUMQ)
+* [Uso de NeoPixel](https://www.youtube.com/watch?v=0v7HI9W6pks&t=201s)
 
 
 
