@@ -21,18 +21,18 @@ Los alumnos serán capaces de:
 - Proponer diseños de solución de acuerdo con el problema. Proponer estrategias de fabricación a la propuesta diseñada.
 
 ## Introducción
-Pregunta a los alumnos acerca de los semáforos, ¿qué hacen? ¿cómo funciona? ¿tienen algún problema? ¿ćomo se puede mejorar el diseño o funcionalidad? ¿Has pensado alguna necesidad que se puede resolver que involucre alguna capacidad diferente? ¿Tiene que tener algún tiempo establecido? ¿Favorece a todos?
+<DIV ALIGN="justify">Pregunta a los alumnos acerca de los semáforos, ¿qué hacen? ¿cómo funciona? ¿tienen algún problema? ¿ćomo se puede mejorar el diseño o funcionalidad? ¿Has pensado alguna necesidad que se puede resolver que involucre alguna capacidad diferente? ¿Tiene que tener algún tiempo establecido? ¿Favorece a todos?</DIV>
 
-**Actividad por salón:** Hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores y nuevas situaciones que los alumnos se den cuenta.
+<DIV ALIGN="justify">**Actividad por salón:** Hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores y nuevas situaciones que los alumnos se den cuenta.</DIV>
 
-**Objetivo de la discusión:** sirve para identificar necesidades en el entorno, identificar qué variables afectan el tiempo, funcionalidad o diseño en los semáforos.
+<DIV ALIGN="justify">**Objetivo de la discusión:** sirve para identificar necesidades en el entorno, identificar qué variables afectan el tiempo, funcionalidad o diseño en los semáforos.</DIV>
 
-**Actividad** Platíca con los alumnos acerca de los algoritmos, diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?
+<DIV ALIGN="justify">**Actividad** Platíca con los alumnos acerca de los algoritmos, diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?</DIV>
 
 ## Sesión técnica
-Presenta a los alumnos las primeras imágenes de cómo funciona un diagrama de flujo de un algoritmo.
+<DIV ALIGN="justify">Presenta a los alumnos las primeras imágenes de cómo funciona un diagrama de flujo de un algoritmo.
 ¿Qué es un Algoritmo? Un Algoritmo son series de pasos que una computadora o incluso nosotros seguimos realizar una tarea o alcanzar un objetivo.
-Platica también sobre los diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?
+Platica también sobre los diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?</DIV>
 
 **Ejemplo** 
 ¿Qué pasos tienes que hacer para cambiar una llanta? Para cambiar una llanta comúnmente son los siguientes pasos (teniendo toda la herramienta):
