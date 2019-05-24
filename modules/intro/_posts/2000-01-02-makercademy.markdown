@@ -45,9 +45,10 @@ Comunicar sus ideas, diseños y proyectos
 ## Filosofía y metódologia
 - Aprender fabricando
 - Aprender fallando
-- Aprender deconstruyendo
-<iframe width="640" height="360" src="//www.youtube.com/embed/bvFOeysaNAY" frameborder="0" allowfullscreen></iframe>
+- Aprender destruyendo
 - Aprender descubriendo
 - Aprender con problemas reales
-<iframe width="640" height="360" src="//www.youtube.com/embed/Nxqt-F4YdNY" frameborder="0" allowfullscreen></iframe>
 - Aprender Juntos
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/bvFOeysaNAY" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/Nxqt-F4YdNY" frameborder="0" allowfullscreen></iframe>
