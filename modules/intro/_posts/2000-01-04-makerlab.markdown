@@ -1,12 +1,12 @@
 ---
-title: MakerLab, Makerspaces, fablabs y hackerspaces.
+title: Makerspaces.
 ---
 
 # ¿Qué es un Makerspace?
 
 Es un espacio físico donde la gente se reúne para compartir recursos y conocimientos, trabajar en proyectos, hacer networking y construir cosas. Los makerspaces proporcionan herramientas y el espacio en una comunidad. Asesores expertos pueden estar disponibles pero a menudo los principiantes reciben ayuda de otros usuarios.
 
-El makerspace a veces referido como un hackerspace – se asocia a menudo con campos como la ingeniería, ciencias de la computación, y el diseño. El concepto emerge de la [“cultura maker"](https://es.wikipedia.org/wiki/Cultura_Maker), asociado con la revista ["Make"](https://makezine.com/) y las ["Makerfaire"](https://makerfaire.com/) que promueven. 
+El makerspace a veces referido como un hackerspace, se asocia a menudo con campos como la ingeniería, ciencias de la computación, y el diseño. El concepto emerge de la [“cultura maker"](https://es.wikipedia.org/wiki/Cultura_Maker), asociado con la revista ["Make"](https://makezine.com/) y las ["Makerfaire"](https://makerfaire.com/) que promueven. 
 
 ![MakerCademy]({{site.baseurl}}/img/maker.jpg)
 
