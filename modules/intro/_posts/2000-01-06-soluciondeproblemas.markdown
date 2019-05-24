@@ -24,15 +24,10 @@ Es una herramienta muy útil para hacer participar activamente al usuario en el 
 
 Los prototipos son fundamentales porque ayudan a conectar a los usuarios con el sistema, aún cuando no esté acabado.
 
-## Pensar como un programador
-
-![MakerCademy]({{site.baseurl}}/img/think.jpg)
-[Piensa como un programador](https://arisuchan.jp/%CE%BB/src/1493491363210.pdf)
-
 ### Proceso de prototipado
 
 Se pueden presentar diversas situaciones:
-* La realización de las necesidades del usuario precisa de análisis en una sesión JAD pero deja los requerimientos incompletos.
+* La especificación de las necesidades del usuario.
 * Hay que construir de un prototipo de baja fidelidad para clarificar los requerimientos iniciales.
 * Hay que iterar (volver a especificar, rediseñar, volver a evaluar) hasta que el equipo, tanto usuarios como desarrolladores, estén de acuerdo en que la fidelidad y el nivel de acabado del prototipo en evolución sea lo suficientemente alto.
 * Se congelan estas especificaciones
@@ -42,7 +37,7 @@ Se pueden presentar diversas situaciones:
 
 * Antes de comenzar...para mostrar el concepto a la directiva.
 
-* Comenzando...para reunir los requerimientos iniciales de usuario
+* Comenzando...para reunir los requerimientos iniciales del usuario.
 
 * Después de empezar...para validar la evolución de los requerimientos de usuario.
 
@@ -73,10 +68,3 @@ A continuación te proponemos un ingenioso modelo que te hará pensar en el proc
 * Instrucciones: cada equipo recibirá un huevo y deberá elegir sus materiales de construcción. Da a cada equipo entre 20 y 30 minutos para construir una envoltura para el huevo utilizando los materiales de construcción que lo protegerán para que no se rompa. A continuación, tira el huevo envuelto desde un alto (una mesa alta o desde otra planta) y comprueba si el envoltorio protege al huevo de la caída. Si hay varios huevos que sobreviven, ve aumentando la altura hasta que solo quede un huevo.  
 
 ![MakerCademy]({{site.baseurl}}/img/huevo.jpg)
- 
-3. Encerrados
-* Objetivo: comunicación y toma de decisiones
-* Elementos necesarios: una oficina
-* Instrucciones: el planteamiento es que el equipo se ha quedado encerrado en la oficina. Las puertas están cerradas, pero no es posible derribarlas ni romper las ventanas. Dale al equipo 30 minutos para que decida qué 10 elementos de la oficina necesitarían para sobrevivir y que los clasifiquen por orden de importancia. El objetivo del juego es llegar a un acuerdo unánime sobre los 10 elementos y su clasificación al final del plazo de 30 minutos.   
-
-![MakerCademy]({{site.baseurl}}/img/encerrados.jpg)
