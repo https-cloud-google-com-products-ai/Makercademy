@@ -1,10 +1,20 @@
 ---
 title: ¿Qué es el movimiento Maker?
 ---
+
+## ¿Maker?
+El concepto maker hace referencia a toda persona capaz de desarrollar o reinventar una idea o producto. De acuerdo a Chris Anderson, 'todos somos makers de nacimiento', todos somos capaces de realizar cosas físicas, desde artesanos, reparadores e inventores.
+A menudo se suele confundir a un maker con un aficionado o 'hobbista', el cual desarrolla proyectos por recreación, actualmente los makers dieron el salto de ser una actividad recreativa a convertirse en una nueva fuerza económica.
+
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=Ze2G149b4Jk&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+
 ## ¿Qué es el movimiento Maker?
+
+El Movimiento Maker abarca la innovación, la creatividad y el aprendizaje para mejorar nuestras comunidades y crear un futuro mejor. pensadores, educadores, padres, estudiantes y profesionales están incluidos, porque todos somos fabricantes. Eso te incluye a ti. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/IsRBgBwLwxw" frameborder="0" allowfullscreen></iframe>
 
+El presidente Barack Obama habla sobre el movimento maker y como este es una revolución capaz de crear nuevas industrias para las décadas por venir.
 
 ## Manifiesto Maker
 
@@ -50,7 +60,7 @@ vida rica y gratificante y, lo que es más importante, te permite compartir.
 
 *E Q U Í P A T E*
 
-DebeS tener acceso a las herramientas adecuadas
+Debes tener acceso a las herramientas adecuadas
 para el proyecto en el que trabajas. Invierte y desarrolla
 en ellas para hacer lo que quieres hacer.
 
@@ -76,7 +86,7 @@ Este es un movimiento y requiere apoyo.
 Se necesita apoyo emocional, intelectual, financiero,
 político e institucional.
 Somos la mejor esperanza para mejorar el mundo y somos
-responsables de hacer un mejor futuro
+responsables de hacer un mejor futuro.
 
 
 
