@@ -2,7 +2,7 @@
 title: ¿Qué es el movimiento Maker?
 ---
 
-## ¿Maker?
+## ¿Maker
 El concepto maker hace referencia a toda persona capaz de desarrollar o reinventar una idea o producto. De acuerdo a Chris Anderson, 'todos somos makers de nacimiento', todos somos capaces de realizar cosas físicas, desde artesanos, reparadores e inventores.
 A menudo se suele confundir a un maker con un aficionado o 'hobbista', el cual desarrolla proyectos por recreación, actualmente los makers dieron el salto de ser una actividad recreativa a convertirse en una nueva fuerza económica.
 
