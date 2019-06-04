@@ -26,6 +26,7 @@ digital a jóvenes de secundaria y preparatoria para potencializar sus proyectos
 beneficio de la sociedad.
 
 ![MakerCademy]({{site.baseurl}}/img/nino.jpg)
+Estudiantes interactuando con la tarjeta de desarrollo Circuit Playground Express.
 
 ## Visión
 Ser el sistema educativo que desarrolle los futuros inventores, científicos, ingenieros y diseñadores en México.
