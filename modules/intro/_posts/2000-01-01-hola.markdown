@@ -44,7 +44,7 @@ No puedes hacer y no compartir.
 
 *D A R*
 
-![Compartir]({{site.baseurl}}/img/Dar.jpg)
+![Dar]({{site.baseurl}}/img/Dar.jpg)
 
 Hay pocas cosas más desinteresadas y satisfactorias
 que regalar algo que haz hecho.
@@ -69,7 +69,7 @@ vida rica y gratificante y, lo que es más importante, te permite compartir.
 
 *E Q U Í P A T E*
 
-![Equipate]({{site.baseurl}}/img/Hacer.jpg)
+![Equipate]({{site.baseurl}}/img/Equipate.jpg)
 
 Debes tener acceso a las herramientas adecuadas
 para el proyecto en el que trabajas. Invierte y desarrolla
