@@ -21,6 +21,8 @@ El presidente Barack Obama habla sobre el movimento maker y como este es una rev
 
 *H A C E R*
 
+![Hacer]({{site.baseurl}}/img/Hacer.jpg)
+
 Hacer es fundamental para lo que significa ser humano.
 Debemos hacer, crear y expresarnos para sentirnos completos.
 Hay algo único en hacer cosas físicas. Las cosas que hacemos
@@ -31,7 +33,9 @@ partes de nuestra alma.
 
 *C O M P A R T I R*
 
-Hay que compartir lo que se ha hecho y cómose ha hecho.
+![Compartir]({{site.baseurl}}/img/Compartir.jpg)
+
+Hay que compartir lo que se ha hecho y cómo se ha hecho.
 Compartir con otros es el método mediante el cual se logra
 la sensación de plenitud de un fabricante.
 No puedes hacer y no compartir.
@@ -39,6 +43,8 @@ No puedes hacer y no compartir.
 
 
 *D A R*
+
+![Compartir]({{site.baseurl}}/img/Dar.jpg)
 
 Hay pocas cosas más desinteresadas y satisfactorias
 que regalar algo que haz hecho.
@@ -51,6 +57,8 @@ más preciados que poseemos.
 
 *A P R E N D E R*
 
+![Aprender]({{site.baseurl}}/img/Aprender.jpg)
+
 Debes aprender a hacer. Siempre debes buscar aprender más sobre lo que hiciste.
 Siempre hay que buscar aprender, y querer seguir aprendiendo. Ya sean
 nuevas técnicas, materiales o procesos.
@@ -61,6 +69,8 @@ vida rica y gratificante y, lo que es más importante, te permite compartir.
 
 *E Q U Í P A T E*
 
+![Equipate]({{site.baseurl}}/img/Hacer.jpg)
+
 Debes tener acceso a las herramientas adecuadas
 para el proyecto en el que trabajas. Invierte y desarrolla
 en ellas para hacer lo que quieres hacer.
@@ -69,12 +79,15 @@ en ellas para hacer lo que quieres hacer.
 
 *J U E G A*
 
+![Juega]({{site.baseurl}}/img/Juega.jpg)
 Sé juguetón con lo que estás haciendo, y te sorprenderás,
 te emocionarás y te sentirás orgulloso de lo que descubras.
 
 
 
 *P A R T I C I P A*
+
+![Participa]({{site.baseurl}}/img/Participa.jpg)
 
 Únete al movimiento maker y busca a más personas a que lo hagan
 para que juntos descubran la alegría de hacer.
@@ -83,13 +96,13 @@ para que juntos descubran la alegría de hacer.
 
 *A P O Y A*
 
+![Apoya]({{site.baseurl}}/img/Apoya.jpg)
+
 Este es un movimiento y requiere apoyo.
 Se necesita apoyo emocional, intelectual, financiero,
 político e institucional.
 Somos la mejor esperanza para mejorar el mundo y somos
 responsables de hacer un mejor futuro.
-
-
 
 *C A M B I A*
 
