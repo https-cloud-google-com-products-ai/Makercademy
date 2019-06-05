@@ -44,7 +44,7 @@ El sistema curricular busca desarrollar en el alumno diversas habilidades, las c
 -Comunicar sus ideas, diseños y proyectos <br/>
 
 ## Filosofía y metódologia
-La metódologia de trabajo 
+MakerCademy esta fundamentado en diversas metódologias, enfocando a los niños a ser niños, fabricando, explorando, aprendiendo de sus errores pero sobre todo aprendiendo juntos, compartiendo el conocimiento adquirido.
 - Aprender fabricando<br>
 ![Fabricando]({{site.baseurl}}/img/Making.jpg)
 
