@@ -45,7 +45,10 @@ El sistema curricular busca desarrollar en el alumno diversas habilidades, las c
 
 ## Filosofía y metódologia
 La metódologia de trabajo 
-- Aprender fabricando
+- Aprender fabricando<br>
+![Fabricando]({{site.baseurl}}/img/Making.jpg)
+
+El fabricar es una forma muy didáctica para que los estudiantes mantengan el interes o aprendan sobre algun tema, mientras el estudiante fabrica algo tangible, va aprendiendo conceptos teóricos que le dejaran claro como funcionan las herramientas que esta utilizando y que aplicaciones tiene en la vida real.
 
 - Aprender fallando
 ![Fallando]({{site.baseurl}}/img/Fallando.jpg)
@@ -54,9 +57,19 @@ Esta filosofía habla sobre como aprender de los errores, pueden ser propios o e
 
 - Aprender destruyendo
 
+<iframe width="640" height="360" src="//www.youtube.com/embed/bvFOeysaNAY" frameborder="0" allowfullscreen></iframe>
+
+Este tipo de aprendizaje es descrito de manera muy clara por Neil deGrasse Tyson, los niños nacen siendo científicos, siempre estan haciendo cosas que en general son destructivas, desde arrancarle los petalos a las flores hasta desarmar cosas y no saber como reconstruirlo, en este metodo de exploración los niños estan realizando experimentos de manera inconciente que estimulan su aprendizaje.
 - Aprender descubriendo
+
 - Aprender con problemas reales
+En la actualidad los estudiantes deben saber resolver problemas reales, al confrontar alguna problematica no necesitan saberlo todo, pueden ir aprendiendo a manejar las herramientas necesarias para resolver la problematica paso a paso.
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/Nxqt-F4YdNY" frameborder="0" allowfullscreen></iframe>
+
 - Aprender Juntos
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/bvFOeysaNAY" frameborder="0" allowfullscreen></iframe>
-<iframe width="640" height="360" src="//www.youtube.com/embed/Nxqt-F4YdNY" frameborder="0" allowfullscreen></iframe>
+![Juntos]({{site.baseurl}}/img/Juntos.jpg)
+
+Trabajar de manera grupal ayuda a los estudiantes a desenvolverse de manera mas fluida ante un grupo de personas, ademas, ayuda a los estudiantes a tener una mejor organización sabiendo delegar actividades entre los integrantes del equipo.
+
