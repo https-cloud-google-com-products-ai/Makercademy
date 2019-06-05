@@ -37,11 +37,11 @@ Acercar los conocimientos de ciencía, tecnología, ingeniería y matemáticas a
 ## Objetivos
 El sistema curricular busca desarrollar en el alumno:
 Pensamiento analítico <br/>
-Pensamiento crítico
-Pensamiento deductivo
-Habilididades de autoaprendizaje
-Habilidades para resolver problemas
-Comunicar sus ideas, diseños y proyectos
+Pensamiento crítico <br/>
+Pensamiento deductivo <br/>
+Habilididades de autoaprendizaje <br/>
+Habilidades para resolver problemas <br/>
+Comunicar sus ideas, diseños y proyectos <br/>
 
 ## Filosofía y metódologia
 - Aprender fabricando
