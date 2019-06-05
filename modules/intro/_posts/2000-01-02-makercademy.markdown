@@ -63,9 +63,10 @@ Este tipo de aprendizaje es descrito de manera muy clara por Neil deGrasse Tyson
 ## - Aprender descubriendo
 
 ## - Aprender con problemas reales
-En la actualidad los estudiantes deben saber resolver problemas reales, al confrontar alguna problematica no necesitan saberlo todo, pueden ir aprendiendo a manejar las herramientas necesarias para resolver la problematica paso a paso.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/Nxqt-F4YdNY" frameborder="0" allowfullscreen></iframe>
+
+En la actualidad los estudiantes deben saber resolver problemas reales, al confrontar alguna problematica no necesitan saberlo todo, pueden ir aprendiendo a manejar las herramientas necesarias para resolver la problematica paso a paso.
 
 ## - Aprender Juntos
 
