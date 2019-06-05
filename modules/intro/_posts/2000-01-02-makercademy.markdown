@@ -34,19 +34,26 @@ Ser el sistema educativo que desarrolle los futuros inventores, científicos, in
 ## Misión
 Acercar los conocimientos de ciencía, tecnología, ingeniería y matemáticas a los estudiantes de nivel básico y medio superior, mediante una plataforma tecnológica educativa.
 
-## Objetivos
-El sistema curricular busca desarrollar en el alumno: <br/>
-Pensamiento analítico <br/>
-Pensamiento crítico <br/>
-Pensamiento deductivo <br/>
-Habilididades de autoaprendizaje <br/>
-Habilidades para resolver problemas <br/>
-Comunicar sus ideas, diseños y proyectos <br/>
+## Habilidades
+El sistema curricular busca desarrollar en el alumno diversas habilidades, las cuales los alumnos aplican conforme van desarrollando sus proyectos, algunas de las habilidades son: <br/>
+-Pensamiento analítico <br/>
+-Pensamiento crítico <br/>
+-Pensamiento deductivo <br/>
+-Habilididades de autoaprendizaje <br/>
+-Habilidades para resolver problemas <br/>
+-Comunicar sus ideas, diseños y proyectos <br/>
 
 ## Filosofía y metódologia
+La metódologia de trabajo 
 - Aprender fabricando
+
 - Aprender fallando
+![Fallando]({{site.baseurl}}/img/Fallando.jpg)
+
+Esta filosofía habla sobre como aprender de los errores, pueden ser propios o estudiando los errores de otras personas, en este sistema de aprendizaje el fracaso debe experimentarse, aprender fallando alienta a los estudiantes a realizar las cosas por ellos mismos.
+
 - Aprender destruyendo
+
 - Aprender descubriendo
 - Aprender con problemas reales
 - Aprender Juntos
