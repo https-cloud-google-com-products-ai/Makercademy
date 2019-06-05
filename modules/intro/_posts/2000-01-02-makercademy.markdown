@@ -35,7 +35,7 @@ Ser el sistema educativo que desarrolle los futuros inventores, científicos, in
 Acercar los conocimientos de ciencía, tecnología, ingeniería y matemáticas a los estudiantes de nivel básico y medio superior, mediante una plataforma tecnológica educativa.
 
 ## Objetivos
-El sistema curricular busca desarrollar en el alumno:
+El sistema curricular busca desarrollar en el alumno: <br/>
 Pensamiento analítico <br/>
 Pensamiento crítico <br/>
 Pensamiento deductivo <br/>
