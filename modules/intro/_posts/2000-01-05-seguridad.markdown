@@ -10,7 +10,7 @@ Es importante que todo miembro que ingresa al taller lea detenidamente el reglam
 - Si no sabes como hacer algo **pregunta.** Si no sabes como utilizar las herramientas **investiga,** debes de haber tenido una capacitación o un entrenamiento previo para saber como hacerlo. 
 - Piensa en todos los materiales que vas a necesitar antes de iniciar en tu proyecto.
 
-***Víste adecuadamente***
+***Víste adecuadamente***<br/>
 Evita el uso de:
 - Shorts
 - Ropa holgada
