@@ -13,16 +13,16 @@ El [“prototipado rápido"](https://es.wikipedia.org/wiki/Prototipado_r%C3%A1pi
 ### Tipos de prototipos
 Existen diversas aplicaciones para los prototipos, algunas de ellas son:
 
--Prototipos de diseño:
+-Prototipos de diseño:<br/>
 Sirven para evaluar aspectos estéticos y ergonómicos.
 
--Prototipos geométricos:
+-Prototipos geométricos:<br/>
 Se usan para probar concordancia geométrica, la forma y los ensambles.
 
--Prototipos funcionales:
+-Prototipos funcionales:<br/>
 Muestran las características y patrones de comportamiento en una prueba del producto final.
 
--Prototipos técnicos:
+-Prototipos técnicos:<br/>
 Se usan para evaluar todas las funciones de la pieza final.
 
 ## Prototipado como proceso iterativo 
@@ -36,14 +36,14 @@ A continuación te proponemos un ingenioso modelo que te hará pensar en el proc
 
 #### Actividades clásicas de resolución de problemas para fomentar el espíritu de equipo
 
-1. El bote de papel 
-Objetivo: Entender el proceso iterativo
-Materiales:
--Hojas de papel
--Monedas
--cubeta con agua 
+1. El bote de papel <br/>
+Objetivo: Entender el proceso iterativo<br/>
+Materiales:<br/>
+-Hojas de papel<br/>
+-Monedas<br/>
+-cubeta con agua <br/>
 
-Instrucciones
+Instrucciones:<br/>
 cada equipo recibirá varias hojas de papel con las cuales construirán barcos de papel, los equipos tendrán 15 minutos para realizar su primer diseño, el cual entrará en la cubeta con agua y tendrá que soportar el mayor numero de monedas.
 Una vez hundido el primer barco, los estudiantes tendrán la oportunidad de realizar un nuevo diseño realizando modificaciones para que el barco sea capaz de soportar mas monedas.
 Esta actividad demuestra el proceso iterativo y como este ayuda a mejorar un prototipo.
