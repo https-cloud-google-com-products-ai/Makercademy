@@ -1,8 +1,8 @@
 ---
-title: Resources
+title: Alcancia con autómata
 ---
 
-## Basics
+## Alcancia con autómata
 
 These are some links that will help you with setting up a course using the template:
 
