@@ -27,6 +27,7 @@ Porta de manera adecuada el equipo de seguridad necesario para cada tipo de maqu
 - Delantal de piel
 - Orejeras de protección
 - Ropa adecuada
+![Seguridad]({{site.baseurl}}/img/seguridad.jpg)
 
 ***Utiliza las herramientas adecuadamente***
 - Toma la capacitación para el manejo de cada maquina y/o herramienta.
