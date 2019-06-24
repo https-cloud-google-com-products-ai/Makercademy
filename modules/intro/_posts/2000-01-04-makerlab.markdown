@@ -4,7 +4,9 @@ title: Makerspace.
 
 # ¿Qué es un Makerspace?
 
-Es un espacio físico donde la gente se reúne para compartir recursos y conocimientos, trabajar en proyectos, hacer networking y construir cosas. Los makerspaces proporcionan herramientas y el espacio en una comunidad. Asesores expertos pueden estar disponibles pero a menudo los principiantes reciben ayuda de otros usuarios.
+Es un espacio físico donde la gente se reúne para compartir recursos y conocimientos, trabajar en proyectos y construir cosas. Los makerspaces proporcionan las herramientas y el espacio en una comunidad. Asesores expertos pueden estar disponibles pero a menudo los principiantes reciben ayuda de otros usuarios.
+
+Existen diversos tipos de espacios todos enfocados a procesos similares,tal es el caso de los [“FabLabs"](https://www.fablabs.io/) de los cuales existe una red global en constante crecimiento.
 
 El makerspace a veces referido como un hackerspace, se asocia a menudo con campos como la ingeniería, ciencias de la computación, y el diseño. El concepto emerge de la [“cultura maker"](https://es.wikipedia.org/wiki/Cultura_Maker), asociado con la revista ["Make"](https://makezine.com/) y las ["Makerfaire"](https://makerfaire.com/) que promueven. 
 
@@ -13,27 +15,19 @@ El makerspace a veces referido como un hackerspace, se asocia a menudo con campo
 ## ¿Cómo funciona?
 
 Los Makerspace le deben mucho a la cultura maker que les inspiró, y muchos todavía son lugares principalmente para la experimentación tecnológica, desarrollo de hardware, y el prototipado de ideas. Pero inventores individuales autodirigidos y equipos creativos utilizan cada vez más estos servicios gratuitos o de pago, basados en campos distintos de la ingeniería y la tecnología.
-
-Los Makerspace son a menudo abierto para actividades informales y no programadas; en algunos casos, una organización será la sede para clases programadas en un makerspace. Estas clases generalmente no son para crédito y se centran en una sola habilidad
-
-# ¿Qué es un FabLab?
-
-Los fab labs proporcionan acceso abierto a medios modernos de invención. Empezaron como un proyecto de extensión del Center for Bits and Atoms del Massachusetts Institute of Technology, y se convirtió en una red global y colaborativa. 
-
-Se trata de proporcionar acceso a las herramientas, el conocimiento y los medios financieros para educar, innovar e inventar utilizando la tecnología y la fabricación digital para permitir que cualquiera pueda hacer (casi) cualquier cosa y, por lo tanto, crear oportunidades para mejorar vidas y medios de vida en todo el mundo.
-
-## ¿Cómo funciona?
-Es un espacio abierto al público, entonces cualquier persona que quiera prototipar su idea es bienvenido.
-Se cobra una cuota de recuperación, y los asistentes pueden hacer uso de las herramientas.
-
 ![MakerCademy]({{site.baseurl}}/img/makerl.jpg)
 
-# ¿Qué es un MakerLab?
+Los Makerspace son a menudo abierto para actividades informales y no programadas; en algunos casos, una organización será la sede para clases programadas en un makerspace. Estas clases generalmente se centran en un tema especifico.
 
-Es un espacio donde puedes encontrar las herramientas, maquinaria y comunidad para crear, desarrollar e inventar proyectos y productos; un lugar de aprendizaje para ser más competitivo en las nuevas tecnologías y todo lo necesario para materializar tus ideas. Aquí puedes aprender, compartir conocimientos y experiencias con otras personas. Es una comunidad de inventores, innovadores y desarrolladores.
+## Áreas de especialización
+Estos espacios cuentan con maquinaria de diversas áreas, como pueden ser:
+Manufactura digital
+Carpinteria
+Metal-Mecánica
+Electrónica
+Inyección de plásticos
 
-# ¿Qué es un FabCafé?
-Un FabCafé es una cafetería que cuenta con área de impresión 3D y cortadora láser, existe un fabboy o una fabgirl que son expertos en impresión o corte. Las personas llegan, toman su café y mandan sus archivos a que estén listos.
 
-## ¿Cómo funciona?
-Siendo una cafetería normal pero ofreciendo además el servicio de impresión 3D y corte láser.
+
+
+
