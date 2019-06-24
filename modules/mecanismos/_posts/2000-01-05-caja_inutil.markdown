@@ -1,8 +1,8 @@
 ---
-title: Resources
+title: Useless machine
 ---
 
-## Basics
+## Useless machine
 
 These are some links that will help you with setting up a course using the template:
 
