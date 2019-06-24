@@ -1,8 +1,8 @@
 ---
-title: Resources
+title: Pista de canicas
 ---
 
-## Basics
+## Pista de canicas
 
 These are some links that will help you with setting up a course using the template:
 
