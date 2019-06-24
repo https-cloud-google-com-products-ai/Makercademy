@@ -21,12 +21,8 @@ Los Makerspace son a menudo abierto para actividades informales y no programadas
 
 ## Áreas de especialización
 Estos espacios cuentan con maquinaria de diversas áreas, como pueden ser:
-Manufactura digital
-Carpinteria
-Metal-Mecánica
-Electrónica
-Inyección de plásticos
 
+![MakerCademy]({{site.baseurl}}/img/areas.JPG)
 
 
 
