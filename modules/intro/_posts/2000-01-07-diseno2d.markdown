@@ -1,11 +1,12 @@
 ---
 title: Diseño y fabricación 2D
 ---
-## Programas (vectores y rasterizado)
+## Manufactura digital para fabricación 2D
+en esta sección encontrarás referencias sobre diseño y fabricación 2D, para convertir esas ideas en proyectos tangibles.
+## ¡Comencemos!
+## Diseño 2D
+El diseño 2D o dibujo técnico 
 
-Las nuevas tecnologías e internet han impulsado una generación de fabricantes y diseñadores, y permiten a casi cualquier persona convertir su idea en un objeto tangible. En la era digital disponemos de muchas alternativas para la difusión y retroalimentación. 
-
-La filosofía Open Source, que revolucionó la industria del software y creó una economía viable, también ha dado paso a un movimiento social muy creativo e integrador en distintas comunidades. Actualmente hay una revolución en el desarrollo de productos, su producción y distribución, debido a Internet. El diseño industrial puede cambiar y convertirse en algo relevante para toda la sociedad si la información está disponible para todo el mundo.
 
 ## Corte láser
 
