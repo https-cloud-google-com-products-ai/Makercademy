@@ -11,7 +11,7 @@ Impulsa la enseñanza a niños, adolescentes y jóvenes. Para aprender diferente
 # [Qué es MakerCademy?](https://makermex.github.io/Makercademy/modules/intro/makercademy/)
 
 |Año| [Diseño] | [Programación] | [Fabricación] | [comunidad] |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | 101 | Diseño básico en 2D y 3D  | Programación por bloques para el manejo de sensores | Fabricación  con materiales y herramientas básicas. | Participa y comparte con la comunidad sus creaciones. |
 | 102 | Combina partes 2D y 3D en el diseño de su proyecto | Programación en C para controlar actuadores. | Utiliza manufactura digital y herramientas para crear prototipos. | Colabora con la comunidad, compartiendo conocimiento |
 | 103 | Diseña partes integradoras en 2D y 3D mas complejas | programación | Fabricación | Comunidad |
