@@ -25,7 +25,7 @@ Este año busca desarrollar en los alumnos los conocimientos sobre el internet d
 
 | Año | Diseño | Programación | Fabricación | Comunidad |
 | :---: | :---: | :---: | :---: | :---: |
-| [101](https://makermex.github.io/Makercademy/modules/basico) | Diseño básico en 2D y 3D  | Programación por bloques para el manejo de sensores | Fabricación  con materiales y herramientas básicas. | Participa y comparte con la comunidad sus creaciones. |
+| [101](http://learn.makercademy.com/modules/basico/101/) | Diseño básico en 2D y 3D  | Programación por bloques para el manejo de sensores | Fabricación  con materiales y herramientas básicas. | Participa y comparte con la comunidad sus creaciones. |
 | [102](https://makermex.github.io/Makercademy/modules/basico) | Combina partes 2D y 3D en el diseño de su proyecto | Programación en C para controlar actuadores. | Utiliza manufactura digital y herramientas para crear prototipos. | Colabora con la comunidad, compartiendo conocimiento |
 | [103](https://makermex.github.io/Makercademy/modules/basico) | Diseña partes integradoras en 2D y 3D mas complejas | programación | Fabricación | Comunidad |
 
