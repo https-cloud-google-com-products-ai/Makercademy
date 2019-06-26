@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-# MakerCademy Educación a prueba del futuro
+# MakerCademy <br/> Educación a prueba del futuro
 
 Impulsa la enseñanza a niños, adolescentes y jóvenes. Para aprender diferentes disciplinas y solucionar problemas reales de nuestro entorno utilizando tecnología y creatividad.
 
