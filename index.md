@@ -22,7 +22,7 @@ En este año se busca acercar a los alumnos a la mecánica y mecanismos de movim
 ### Año 3: Sensores y conectividad
 Este año busca desarrollar en los alumnos los conocimientos sobre el internet de las cosas.
 
-## Curricula
+## Currícula
 Durante el ciclo de MakerCademy, los estudiantes desarrollaran diversas actividades con las cuales obtendrán el aprendizaje de diversas áreas como lo son:
 
 
