@@ -8,7 +8,7 @@ published: true
 Impulsa la enseñanza a niños, adolescentes y jóvenes. Para aprender diferentes disciplinas y solucionar problemas reales de nuestro entorno utilizando tecnología y creatividad.
 
 
-# [Qué es MakerCademy?](https://makermex.github.io/Makercademy/modules/intro/makercademy/)
+# [¿Qué es MakerCademy?](https://makermex.github.io/Makercademy/modules/intro/makercademy/)
 
 ## MakerCademy se divide en tres ciclos:
 
