@@ -19,7 +19,7 @@ Cada estudiante seleccionará una mascota y generará una propuesta de como alim
 - Trabajar en equipo les ayudará a poner en orden sus ideas y visualizar una propuesta que sean capaces de desarrollar.
 - Pueden checar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares realizados para visualizar el alcance del proyecto.
 
-## Atentos :heavy_exclamation_mark:   
+## Atentos :heavy_exclamation_mark: 	:heavy_exclamation_mark: 	:heavy_exclamation_mark:  
 Los proyectos descritos en las referencias son unicamente para acercar al alumno al alcance del proyecto, proyectos iguales a los proporcionados en las referencias seran invalidados para los entregables.
 
 ## Actividades
