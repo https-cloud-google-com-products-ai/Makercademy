@@ -27,7 +27,7 @@ Los proyectos descritos en las referencias son unicamente para acercar al alumno
 - Cada estudiante realizará una propuesta de su proyecto.
 
 ## Referencias 
-[Alimentador de gatos](https://learn.adafruit.com/automatic-cat-treat-dispenser)
+[Alimentador de gatos](https://learn.adafruit.com/automatic-cat-treat-dispenser) <br/>
 [Alimentador para tortuga](https://www.instructables.com/id/Alimentador-automatico-de-mascotas/)
 
 
