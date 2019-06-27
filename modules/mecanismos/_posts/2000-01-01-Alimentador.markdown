@@ -23,7 +23,12 @@ Cada estudiante seleccionará una mascota y generará una propuesta de como alim
 Los proyectos descritos en las referencias son unicamente para acercar al alumno al alcance del proyecto, proyectos iguales a los proporcionados en las referencias seran invalidados para los entregables.
 
 ## Actividades
--Cada estudiante desarrollará su primer boceto 
-These are some links that will help you with setting up a course using the template:
+- Cada estudiante desarrollará su primer boceto. 
+- Cada estudiante realizará una propuesta de su proyecto.
+
+## Referencias 
+[Alimentador de gatos](https://learn.adafruit.com/automatic-cat-treat-dispenser)
+[Alimentador para tortuga](https://www.instructables.com/id/Alimentador-automatico-de-mascotas/)
+
 
 
