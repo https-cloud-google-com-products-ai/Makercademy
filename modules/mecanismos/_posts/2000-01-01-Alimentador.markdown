@@ -9,30 +9,21 @@ Un alimentador es un dispositivo que proporciona de manera automática algun obj
 
 En este proyecto realizarás un dispensador que sea capaz de alimentar a tu mascota de manera automatica, buscarás la forma mas adecuada para distribuir el alimento a tu mascota de una forma divertida y unica.
 
-imagen
+![Alimentador]({{site.baseurl}}/img/alimentador.jpg)
 
 # Sesión 01 Análisis
-*Objetivo*
+## Objetivo
 Cada estudiante seleccionará una mascota y generará una propuesta de como alimentarla de forma automatizada.
-##Recomendaciones
-Pueden realizar una lluvia de ideas donde vean las alternativas que tienen para poder alimentar a sus mascotas.
-Trabajar en equipo les ayudará a poner en orden sus ideas y visualizar una propuesta que sean capaces de desarrollar.
-Pueden checar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares realizados para visualizar el alcance del proyecto.
+## Recomendaciones
+- Pueden realizar una lluvia de ideas donde vean las alternativas que tienen para poder alimentar a sus mascotas.
+- Trabajar en equipo les ayudará a poner en orden sus ideas y visualizar una propuesta que sean capaces de desarrollar.
+- Pueden checar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares realizados para visualizar el alcance del proyecto.
 
-#OJO!!
+# ![Alerta]({{site.baseurl}}/img/alerta.jpg)  
 Los proyectos descritos en las referencias son unicamente para acercar al alumno al alcance del proyecto, proyectos iguales a los proporcionados en las referencias seran invalidados para los entregables.
 
-##Actividades
+## Actividades
 -Cada estudiante desarrollará su primer boceto 
 These are some links that will help you with setting up a course using the template:
 
-- [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
 
-## Intermediate
-
-## Advanced
-
-Here are some links for you if you are planning to customize the provided course template:
-
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
