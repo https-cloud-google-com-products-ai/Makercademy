@@ -17,7 +17,7 @@ Es la parte mas importante que viene en nuestro kit, puesto que nos ayudará a i
 
 ![crickit]({{site.baseurl}}/img/crickit.JPG)
 
-Para conocer mas acerca de nuestra nueva tarjeta demos un [tour completo](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/crickit-tour) donde nos explican todos los conectores con que cuenta nuestra crickit.
+Para conocer mas sobre tu nueva tarjeta te dejamos un [tour completo](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/crickit-tour) donde nos explican todos los conectores que cuenta tu nueva crickit.
 
 ## Conectar mi circuit playground express al crickit
 
