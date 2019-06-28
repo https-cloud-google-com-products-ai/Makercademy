@@ -11,7 +11,7 @@ Hasta ahora hemos creado diversos proyectos con la tarjeta circuit playground ex
 
 Durante el desarrollo de este curso seguirás utilizando tu kit 101 en conjuto con tu nuevo kit 102, este te sevirá para darle mas poder a tu tarjeta y realizar nuevos proyectos de mayor alcance.
 
-## ¿Que incluye tu ki?
+## ¿Que incluye tu kit?
 ### - Adafruit CRICKIT para circuit playground express
 Es la parte mas importante que viene en nuestro kit, puesto que nos ayudará a incrementar el poder de nuestra tarjeta circuit, podremos realizar de manera directa la conexión de motores, bocinas, servomotores y motores a pasos.
 
