@@ -46,7 +46,7 @@ Será nuestro compañero inicial al ser uno de los componentes mas simples, con 
 El motor a pasos tiene un avance controlado, a diferencia del servomotor puede avanzar de manera mas precisa.
 
 ### switch de palanca
-![servo]({{site.baseurl}}/img/switch.JPG)
+![switch]({{site.baseurl}}/img/switch.JPG)
 Es un dispositivo muy simple, pero nos sera de gran utilidad para activar y desactivar mecanismos o acciones a desempeñar en nuestros proyectos.
 
 
