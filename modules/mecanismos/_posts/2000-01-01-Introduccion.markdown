@@ -12,12 +12,12 @@ Hasta ahora hemos creado diversos proyectos con la tarjeta circuit playground ex
 Durante el desarrollo de este curso seguirás utilizando tu kit 101 en conjuto con tu nuevo kit 102, este te sevirá para darle mas poder a tu tarjeta y realizar nuevos proyectos de mayor alcance.
 
 ## ¿Que incluye tu kit?
-### - Adafruit CRICKIT para circuit playground express
+### Adafruit CRICKIT para circuit playground express
 Es la parte mas importante que viene en nuestro kit, puesto que nos ayudará a incrementar el poder de nuestra tarjeta circuit, podremos realizar de manera directa la conexión de motores, bocinas, servomotores y motores a pasos.
 
 ![crickit]({{site.baseurl}}/img/crickit.JPG)
 
-Para conocer mas sobre tu nueva tarjeta te dejamos un [tour completo](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/crickit-tour) donde nos explican todos los conectores que cuenta tu nueva crickit.
+Para conocer mas sobre tu nueva tarjeta te dejamos un [tour completo](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/crickit-tour) donde nos explican todo lo referente a tu nueva crickit.
 
 ## Conectar mi circuit playground express al crickit
 
@@ -28,3 +28,25 @@ La crickit cuenta con una área marcada en la cual colocaremos nuestra Circuit p
 ![conexion]({{site.baseurl}}/img/fijada.JPG)
 
 No es necesario utilizar el portapilas de la circuit playground express debido a que la crickit proveerá el voltaje necesario para encenderla.
+
+### Servomotor
+
+![servo]({{site.baseurl}}/img/servo.jpg)
+Será una pieza clave en el desarrollo de nuestros nuevos proyectos, a diferencia del micro servo, este esta bloqueado para girar unicamente 180 grados.
+
+### Motor DC
+
+![Motor]({{site.baseurl}}/img/motordc.jpg)
+Será nuestro compañero inicial al ser uno de los componentes mas simples, con el aprenderemos el funcionamiento de un motor y como controlarlo.
+
+### Motor a pasos
+
+![servo]({{site.baseurl}}/img/motorpasos.jpg)
+
+El motor a pasos tiene un avance controlado, a diferencia del servomotor puede avanzar de manera mas precisa.
+
+### switch de palanca
+![servo]({{site.baseurl}}/img/switch.JPG)
+Es un dispositivo muy simple, pero nos sera de gran utilidad para activar y desactivar mecanismos o acciones a desempeñar en nuestros proyectos.
+
+
