@@ -49,4 +49,5 @@ Materializar su propuesta en un primer prototipo funcional.
 ## Referencias
 
 [Proyectos con cartón](http://learn.makercademy.com/modules/referencias/Carton/) <br/>
+[Crickit tour](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/crickit-tour) <br>
 
