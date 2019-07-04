@@ -51,4 +51,7 @@ El motor a pasos tiene un avance controlado, a diferencia del servomotor puede a
 ![switch]({{site.baseurl}}/img/switch.JPG)
 Es un dispositivo muy simple, pero nos sera de gran utilidad para activar y desactivar mecanismos o acciones a desempeñar en nuestros proyectos.
 
+Para conocer mas información referente a estos componentes electricos y como utilizarlos no olvides entrar a nuestra sección de [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) o compartirnos tus dudas en nuestro [foro](http://makermex.com/forum/makercademy-124).
+
+##Comencemos con nuestro primer proyecto.
 
