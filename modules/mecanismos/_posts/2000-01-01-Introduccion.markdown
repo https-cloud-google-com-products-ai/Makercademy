@@ -53,5 +53,5 @@ Es un dispositivo muy simple, pero nos sera de gran utilidad para activar y desa
 
 Para conocer mas información referente a estos componentes electricos y como utilizarlos no olvides entrar a nuestra sección de [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) o compartirnos tus dudas en nuestro [foro](http://makermex.com/forum/makercademy-124).
 
-##Comencemos con nuestro primer proyecto.
+## Comencemos con nuestro primer proyecto.
 
