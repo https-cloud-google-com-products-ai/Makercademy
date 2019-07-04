@@ -5,7 +5,7 @@ title: Introducción
 ## Introducción al kit 102
 ## Mecanismos y movimiento 
 
-![introduccion]({{site.baseurl}}/img/introduccion.MP4)
+![introduccion]({{site.baseurl}}/img/introduccion.mp4)
 
 Hasta ahora hemos creado diversos proyectos con la tarjeta circuit playground express que nos ayudaron a entrar al mundo de la programación, electrónica y robótica, pero esto es solo el comienzo.
 
