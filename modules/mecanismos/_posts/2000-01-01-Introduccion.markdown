@@ -5,11 +5,13 @@ title: Introducción
 ## Introducción al kit 102
 ## Mecanismos y movimiento 
 
+![introduccion]({{site.baseurl}}/img/introduccion.MP4)
+
 Hasta ahora hemos creado diversos proyectos con la tarjeta circuit playground express que nos ayudaron a entrar al mundo de la programación, electrónica y robótica, pero esto es solo el comienzo.
 
 ## ¿Estamos listos?
 
-Durante el desarrollo de este curso seguirás utilizando tu kit 101 en conjuto con tu nuevo kit 102, este te sevirá para darle mas poder a tu tarjeta y realizar nuevos proyectos de mayor alcance.
+Durante el desarrollo de este curso seguirás utilizando tu kit 101 en conjuto con tu nuevo kit 102, este te sevirá para darle mas poder a tu tarjeta Circuit Playground Express y realizar nuevos proyectos de mayor alcance.
 
 ## ¿Que incluye tu kit?
 ### Adafruit CRICKIT para circuit playground express
