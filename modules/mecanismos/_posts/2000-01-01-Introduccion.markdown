@@ -1,5 +1,5 @@
 ---
-title: Introducción
+title: ![crickit]({{site.baseurl}}/img/crickit.JPG =200x200) <br/> Introducción 
 ---
 
 ## Introducción al kit 102
