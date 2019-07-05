@@ -44,10 +44,31 @@ Materializar su propuesta en un primer prototipo funcional.
 - Recuerda que la iteración es lo mas importante, no tengas miedo a fallar, tal vez debamos intentarlo mas de una vez para que funcione.
 
 ## Actividades
-- Con base en su propuesta, cada estudiante realizará un primer prototipo funcional de su alimentador.
+- Con base en su propuesta, cada estudiante realizará un primer prototipo de su alimentador.
 - Cada estudiante analizará la logica de programación necesaria para su proyecto y la plasmará en un diagrama.
 ## Referencias
 
 [Proyectos con cartón](http://learn.makercademy.com/modules/referencias/Carton/) <br/>
 [Crickit tour](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/crickit-tour) <br>
+
+# Sesión 03 Programación
+Ahora que ya tenemos nuestro prototipo funcional comenzaremos con la programación, podremos seguir usando MakeCode pero tendremos que añadir la extensión CRICKIT, con esto, tendremos mas bloques disponibles especificamente para controlar los motores a traves de la crickit.
+
+## Objetivo
+Realizar la programación de su alimentador de mascotas con base en su diagrama de flujo.
+
+## Recomendaciones 
+- Recuerda revisar las referencias en la sección de [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/).
+- Enfócate en hacer que tu prototipo realice las funciones esperadas mediante la programación.
+- Utiliza los bloques especiales para la tarjeta crickit.
+
+## Actividades
+
+- Con base en su prototipo, cada estudiante programará las secuencias necesarias para que el prototipo funcione.
+
+## Referencias
+[MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
+[Demostración de funcionamiento de la Crickit](https://learn.adafruit.com/crickit-exhibit-demo-board)
+[MakeCode para motores DC](https://learn.adafruit.com/make-it-move-with-crickit/dc-motor-makecode)
+[Programación de servomotores en MakeCode](https://learn.adafruit.com/make-it-move-with-crickit/servo-makecode)
 
