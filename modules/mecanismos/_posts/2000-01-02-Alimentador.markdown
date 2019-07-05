@@ -67,8 +67,18 @@ Realizar la programación de su alimentador de mascotas con base en su diagrama 
 - Con base en su prototipo, cada estudiante programará las secuencias necesarias para que el prototipo funcione.
 
 ## Referencias
-[MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
-[Demostración de funcionamiento de la Crickit](https://learn.adafruit.com/crickit-exhibit-demo-board)
-[MakeCode para motores DC](https://learn.adafruit.com/make-it-move-with-crickit/dc-motor-makecode)
-[Programación de servomotores en MakeCode](https://learn.adafruit.com/make-it-move-with-crickit/servo-makecode)
+[MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/) <br/>
+[Demostración de funcionamiento de la Crickit](https://learn.adafruit.com/crickit-exhibit-demo-board) <br/>
+[MakeCode para motores DC](https://learn.adafruit.com/make-it-move-with-crickit/dc-motor-makecode) <br/>
+[Programación de servomotores en MakeCode](https://learn.adafruit.com/make-it-move-with-crickit/servo-makecode) <br/>
+
+# Sesión 04 Manufactura 
+Llego el momento de fabricar, hasta ahora tenemos un primer prototipo en donde probamos que nuestro mecanismo fuera viable y que la programación funcionara de manera correcta, ahora realizaremos otra iteración de nuestro prototipo pero utilizando manufactura digital, comenzaremos a reemplazar partes del proyecto con piezas impresas en 3D o cortadas a láser.
+
+## Objetivo 
+Reemplazar piezas de su prototipo con partes realizadas con manufactura digital.
+
+## Comencemos Diseñando 
+
+Primeramente tendremos que realizar el diseño de nuestras piezas, para esto utilizaremos Inkscape o [blender](http://learn.makercademy.com/modules/referencias/modelado3d/), 
 
