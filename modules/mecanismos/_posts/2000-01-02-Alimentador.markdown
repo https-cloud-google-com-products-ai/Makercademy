@@ -8,7 +8,7 @@ title: Alimentador para mascotas
 ¿que es un alimentador?
 Un alimentador es un dispositivo que proporciona de manera automática algun objeto, en nuestro caso nuestro alimentador será el encargado de proporcionarle la comida a nuestra mascota de manera automatizada. 
 
-En este proyecto realizarás un dispensador que sea capaz de alimentar a tu mascota de manera automatica, buscarás la forma mas adecuada para distribuir el alimento a tu mascota de una forma divertida y unica.
+En este proyecto realizarás un dispensador que sea capaz de alimentar a tu mascota de manera automatica, buscarás la forma mas adecuada para distribuir el alimento a tu mascota de una forma divertida y única.
 
 
 
@@ -80,5 +80,37 @@ Reemplazar piezas de su prototipo con partes realizadas con manufactura digital.
 
 ## Comencemos Diseñando 
 
-Primeramente tendremos que realizar el diseño de nuestras piezas, para esto utilizaremos Inkscape o [blender](http://learn.makercademy.com/modules/referencias/modelado3d/), 
+Primeramente tendremos que realizar el diseño de nuestras piezas, para esto utilizaremos [Inkscape](http://learn.makercademy.com/modules/referencias/cortadoralaser/) o [blender](http://learn.makercademy.com/modules/referencias/modelado3d/), dependiendo si realizaremos piezas en 2D O 3D.
+
+## Recomendaciones 
+- Recuerda considerar las tolerancias geometricas en tu diseño para que tus piezas ensamblen de manera correcta.
+- Cuando utilices la maquinaria, no olvides utilizar el equipo de seguridad necesario.
+- Tal vez sea necesario el iterar varias veces tus piezas para encontrar el diseño que funcione mejor.
+
+## Actividades
+- Realizar la actualización de piezas del prototipo utilizando manufactura digital.
+- Obtener un diseño final de su proyecto.
+
+## Referencias
+
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Diseño y corte con router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
+[Modelado 3D](http://learn.makercademy.com/modules/referencias/modelado3d/)
+
+
+# Sesión 05 Pruebas de funcionamiento
+Ahora que ya tenemos nuestro proyecto rediseñado con piezas mas resistentes y un diseño mucho mejor, llego el momento de ponerlo a prueba frente a nuestros compañeros de clase y escuchar sus opiniones, esto nos ayudará a encontrar fortalezas y debilidades en nuestro proyecto.
+
+## Actividades
+- Cada alumno realizará una breve exposición donde nos hablará acerca de su proyecto, como funciona, que materiales utilizó, que problemas resolvió, etc.
+- La clase realizará una retroalimentación sobre el proyecto presentado para ayudar al creador a tener un punto de vista distinto al suyo y así poder realizar mejoras a su proyecto.
+
+## Recomendaciones 
+- Recuerden que las opiniones deben aportar al creador a mejorar su proyecto.
+- Comparte tu proyecto con confianza, tú eres quien mejor conoce sobre el y podrás responder a las dudas de tus compañeros.
+
+
+
+- 
+
 
