@@ -109,8 +109,19 @@ Ahora que ya tenemos nuestro proyecto rediseñado con piezas mas resistentes y u
 - Recuerden que las opiniones deben aportar al creador a mejorar su proyecto.
 - Comparte tu proyecto con confianza, tú eres quien mejor conoce sobre el y podrás responder a las dudas de tus compañeros.
 
+# Sesión 06 Documentación 
+Llego el momento de documentar información sobre nuestro proyecto, ¿qué hicimos?, ¿cómo lo hicimos?, ¿qué problemáticas enfrentamos? son algunas de las preguntas que nos ayudaran a obtener la información que debos documentar, pero ¿como lo tengo que documentar?
 
+## Actividades 
+- Cada estudiante deberá realizar un video de maximo 5 minutos y minimo 3 minutos, donde explique elfuncionamientode su proyecto, el conocimiento nuevo que adquirió y consejos de fabricación que pudieran ser útiles a sus compañeros.
+- El video deberá estar disponible en la plataforma de YouTube.
 
-- 
+## Recomendaciones 
+- Pueden juntarse en equipos para apoyarse en la grabación y conseguir mejores resultados.
+- Recuerden revisar la sección de [Documentación](http://learn.makercademy.com/modules/intro/documentacion/)
+En la cual encontrarás consejos sobre como realizar tu video.
+## Referencias
+
+- [Cómo subir un video a YouTube.](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=es-419)
 
 
