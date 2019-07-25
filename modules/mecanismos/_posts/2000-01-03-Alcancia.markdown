@@ -1,18 +1,32 @@
 ---
-title: Alcancia con autómata
+title: Alcancía con autómata
 ---
+# Alcancía con autómata
 ![mario]({{site.baseurl}}/img/mario.gif)
-## Alcancia con autómata
 
-These are some links that will help you with setting up a course using the template:
+Al hablar de alcancías siempre lo relacionamos con el tradicional puerquito, llego el momento de desarrollar una manera divertida de ahorrar nuestro dinero, para esto realizaremos una alcancía que cuente con un autómata, el cual se encargará de guardar nuestro dinero.
+### ¿Qué es un autómata?
+Un [autómata](https://es.wikipedia.org/wiki/Aut%C3%B3mata) es una máquina que imita la figura y movimientos de un ser animado.
 
-- [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
+## Sesión 01 Análisis
+### Objetivo 
+- Los estudiantes serán capaces de aplicar la solución de problemas.
+- Identificar variables que intervengan en su solución.
+- Proponer diseños para su alcancía.
+- Proponer estrategias de fabricación a la propuesta diseñada.
 
-## Intermediate
+### Recomendaciones
+- Pueden realizar una lluvia de ideas donde vean las alternativas que tienen para poder alimentar a sus mascotas.
+- Trabajar en equipo les ayudará a poner en orden sus ideas y visualizar una propuesta que sean capaces de desarrollar.
+- Pueden checar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares realizados para visualizar el alcance del proyecto.
+### Atentos
+Los proyectos descritos en las referencias son unicamente para acercar al alumno al alcance del proyecto, proyectos iguales a los proporcionados en las referencias seran invalidados para los entregables.
 
-## Advanced
+### Actividades
++ Cada estudiante desarrollará su primer boceto.
++ Cada estudiante realizará una propuesta de su proyecto.
 
-Here are some links for you if you are planning to customize the provided course template:
+### Referencias
 
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
+[Alcancía de Mario](https://www.youtube.com/watch?v=B9u5VdGh0uQ&t=23s)
+[Pintura interactiva](https://learn.adafruit.com/the-scream-munch-screaming-interactive-scream-painting)
