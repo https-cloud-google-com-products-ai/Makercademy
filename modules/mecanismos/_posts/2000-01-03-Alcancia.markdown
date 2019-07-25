@@ -1,7 +1,7 @@
 ---
 title: Alcancia con autómata
 ---
-
+![mario]({{site.baseurl}}/img/mario.gif)
 ## Alcancia con autómata
 
 These are some links that will help you with setting up a course using the template:
