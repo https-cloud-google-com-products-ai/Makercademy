@@ -30,3 +30,26 @@ Los proyectos descritos en las referencias son unicamente para acercar al alumno
 
 [Alcancía de Mario](https://www.youtube.com/watch?v=B9u5VdGh0uQ&t=23s)
 [Pintura interactiva](https://learn.adafruit.com/the-scream-munch-screaming-interactive-scream-painting)
+
+## Sesión 02 Prototipado
+Ahora que ya decidimos como será nuestra alcancía y el autómata con base en los bocetos que desarrollamos en la sesión pasada, comenzaremos a realizar el primer prototipo de nuestro proyecto, esto nos ayudará a visualizar el funcionamiento de nuestros mecanismos y poder decidir si nuestra propuesta es viable o es necesario realizar algunas modificaciones.
+### Objetivo 
++ Construir su primer prototipo utilizando diferentes metodos de fabricación.
++ Realizar una evaluación del primer prototipo.
++ Proponer un rediseño para una segunda iteración.
+### Recomendaciones
++ Enfócate en obtener un prototipo funcional, tal vez aun no son necesarios los toques estéticos, solo necesitamos que funcione.
++ Utiliza materiales que tengas a la mano, desde cartón, botellas ó hilo, no hay limites.
++ Recuerda que la iteración es lo mas importante, no tengas miedo a fallar, tal vez debamos intentarlo mas de una vez para que funcione.
++ Al utilizar componentes nuevos de tu kit primero visita el apartado de [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) o algún libro para conocer más sobre su funcionamiento.
+
+## ¡manos a la obra!
+### Actividades
+- Con base en su propuesta, cada estudiante debe realizar un prototipo funcional de su alcancía.
+- Los estudiantes realizarán una breve exposición de su prototipo con la cual sus compañeros tendrán la oportunidad de realizar una retroalimentación mencionando puntos de mejora del proyecto.
+- Realizar la descripción del proyecto con base en las preguntas ubicadas en las guías de trabajo.
+
+### Referencias
+
+[Corte de caja de madera](https://www.youtube.com/watch?v=TcLUj-DdMJg)
+
