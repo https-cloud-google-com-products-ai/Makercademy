@@ -31,13 +31,14 @@ No es necesario utilizar el portapilas de la circuit playground express debido a
 
 ### Servomotor
 
-![servo]({{site.baseurl}}/img/servo.jpg)
-Será una pieza clave en el desarrollo de nuestros nuevos proyectos, a diferencia del micro servo, este esta bloqueado para girar unicamente 180 grados.
+![servo]({{site.baseurl}}/img/servo.jpg) <br/>
+Es un tipo de motor que puede rotar unicamente 180 grados. Es controlado mediante pulsos eléctricos enviados desde tu circuit playground express, estos pulsos le dicen al motor a que posición debe moverse.
+Si deseas saber mas sobre como controlarlo da clic [aqui](http://learn.makercademy.com/modules/referencias/Proyectos/).
 
 ### Motor DC
 
 ![Motor]({{site.baseurl}}/img/motordc.jpg)
-Será nuestro compañero inicial al ser uno de los componentes mas simples, con el aprenderemos el funcionamiento de un motor y como controlarlo.
+Será nuestro compañero inicial al ser uno de los componentes mas simples, con el aprenderemos el funcionamiento de un motor y como controlarlo.El motor DC convierte energía eléctrica en energía mecánica cuando la electricidad pasa por sus terminales. 
 
 ### Motor a pasos
 
