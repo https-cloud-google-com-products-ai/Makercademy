@@ -1,8 +1,9 @@
 ---
-title: Proyectos
+title: Guía
 ---
-## Proyectos
-
+## Referencias
+La siguiente sección te ayudará a encontrar información detallada para resolver tus dudas con respecto a electrónica, programación, manufactura digital y componentes electrónicos incluidos en los kits de robótica.
+si tienes alguna duda que no logres resolver no dudes 
 - [Arbol navideño](https://www.youtube.com/watch?v=9Ey22pLd3n8)
 - [Piano capacitivo](https://www.youtube.com/watch?v=tE_-8evzGoI)
 - [Instrumento musical](https://www.youtube.com/watch?v=WNB-ImD3eZ4)
