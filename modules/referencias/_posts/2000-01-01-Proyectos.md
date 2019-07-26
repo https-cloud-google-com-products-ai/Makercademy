@@ -3,7 +3,12 @@ title: Guía
 ---
 ## Referencias
 La siguiente sección te ayudará a encontrar información detallada para resolver tus dudas con respecto a electrónica, programación, manufactura digital y componentes electrónicos incluidos en los kits de robótica.
-si tienes alguna duda que no logres resolver no dudes 
+Está sección se encuentra en constante crecimiento pero si aun no hay material que resuelva tu duda, realiza un post en el [foro](http://makermex.com/forum/makercademy-124) y obtendrás una respuesta lo mas pronto posible.
+Todas estas dudas nos ayudarán a incrementar el material de está sección.
+
+## Referencias generales
+### Proyectos 
+
 - [Arbol navideño](https://www.youtube.com/watch?v=9Ey22pLd3n8)
 - [Piano capacitivo](https://www.youtube.com/watch?v=tE_-8evzGoI)
 - [Instrumento musical](https://www.youtube.com/watch?v=WNB-ImD3eZ4)
