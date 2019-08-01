@@ -2,8 +2,10 @@
 title: Diseño y fabricación 2D
 ---
 ## Manufactura digital para fabricación 2D
+![router]({{site.baseurl}}/img/router.JPG)
 en esta sección encontrarás referencias sobre diseño y fabricación 2D, para convertir esas ideas en proyectos tangibles.
 ## ¡Comencemos!
+
 ## Diseño 2D
 El diseño 2D o dibujo técnico nos ayudará a crear planos que despues mandaremos cortar a láser o router CNC, en tus proyectos el diseño 2D te ayudará a facilitar el proceso de fabricación puesto que puedes diseñar ensambles de rápido armado.
 
